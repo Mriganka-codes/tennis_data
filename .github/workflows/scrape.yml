@@ -1,0 +1,32 @@
+name: Scrape Tennis Matches
+
+on:
+  schedule:
+    - cron: '0 0,6,12,18 * * *'  # Every 6 hours: midnight, 6am, noon, 6pm UTC
+  workflow_dispatch:              # Allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4
+
+      - name: Run scraper
+        run: python update_data.py
+
+      - name: Commit and push matches.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add matches.json
+          git diff --cached --quiet || git commit -m "chore: update matches.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
