@@ -9,7 +9,7 @@ Automated tennis match data scraper. Scrapes ATP, WTA, and Challenger matches wi
 ### Access the data
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/tennis-data/main/matches.json
+https://raw.githubusercontent.com/Mriganka-codes/tennis-data/main/matches.json
 ```
 
 ## Schedule
