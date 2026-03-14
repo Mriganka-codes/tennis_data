@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-14T02:08:24.309543",
-  "count": 18,
+  "last_updated": "2026-03-14T06:51:09.169253",
+  "count": 21,
   "matches": [
     {
       "tournament": "Indian Wells",
@@ -31,11 +31,11 @@
     },
     {
       "tournament": "Phoenix challenger",
-      "time": "03:30",
-      "player1": "Borges N. (4)",
-      "player2": "Giron M. (7)",
-      "odds1": 1.86,
-      "odds2": 1.87,
+      "time": "03:50",
+      "player1": "Giron M. (7)",
+      "player2": "Borges N. (4)",
+      "odds1": 1.85,
+      "odds2": 1.88,
       "tour": "ATP"
     },
     {
@@ -43,8 +43,8 @@
       "time": "09:00",
       "player1": "Kalinina A.",
       "player2": "Kawa K.",
-      "odds1": 1.22,
-      "odds2": 3.97,
+      "odds1": 1.23,
+      "odds2": 3.98,
       "tour": "WTA"
     },
     {
@@ -52,8 +52,8 @@
       "time": "09:00",
       "player1": "Erjavec V. (5)",
       "player2": "Zidansek T.",
-      "odds1": 1.61,
-      "odds2": 2.23,
+      "odds1": 1.6,
+      "odds2": 2.27,
       "tour": "WTA"
     },
     {
@@ -62,7 +62,7 @@
       "player1": "Cecchinato M. (8)",
       "player2": "Gea A. (2)",
       "odds1": 2.7,
-      "odds2": 1.42,
+      "odds2": 1.43,
       "tour": "ATP"
     },
     {
@@ -70,8 +70,8 @@
       "time": "09:30",
       "player1": "Dostanic S.",
       "player2": "Samuel T. (2)",
-      "odds1": 2.45,
-      "odds2": 1.5,
+      "odds1": 2.53,
+      "odds2": 1.47,
       "tour": "ATP"
     },
     {
@@ -79,8 +79,8 @@
       "time": "11:00",
       "player1": "Trungelliti M. (1)",
       "player2": "Kolar Z. (5)",
-      "odds1": 2.11,
-      "odds2": 1.67,
+      "odds1": 2.13,
+      "odds2": 1.66,
       "tour": "ATP"
     },
     {
@@ -88,7 +88,7 @@
       "time": "11:00",
       "player1": "Jubb P.",
       "player2": "Mrva M.",
-      "odds1": 1.92,
+      "odds1": 1.93,
       "odds2": 1.8,
       "tour": "ATP"
     },
@@ -97,8 +97,8 @@
       "time": "14:30",
       "player1": "Gojo B. (8)",
       "player2": "Kotov P.",
-      "odds1": 1.63,
-      "odds2": 2.17,
+      "odds1": 1.66,
+      "odds2": 2.13,
       "tour": "ATP"
     },
     {
@@ -106,8 +106,8 @@
       "time": "15:00",
       "player1": "Rocha H. (4)",
       "player2": "Boscardin Dias P.",
-      "odds1": 1.4,
-      "odds2": 2.77,
+      "odds1": 1.39,
+      "odds2": 2.84,
       "tour": "ATP"
     },
     {
@@ -116,7 +116,7 @@
       "player1": "Monteiro T.",
       "player2": "Olivieri G.",
       "odds1": 1.26,
-      "odds2": 3.16,
+      "odds2": 3.6,
       "tour": "ATP"
     },
     {
@@ -124,8 +124,8 @@
       "time": "16:30",
       "player1": "Rodionov J. (5)",
       "player2": "Romano F.",
-      "odds1": 1.21,
-      "odds2": 3.99,
+      "odds1": 1.2,
+      "odds2": 4.21,
       "tour": "ATP"
     },
     {
@@ -133,8 +133,8 @@
       "time": "19:00",
       "player1": "Blockx A.",
       "player2": "Navone M. (6)",
-      "odds1": 1.52,
-      "odds2": 2.38,
+      "odds1": 1.53,
+      "odds2": 2.39,
       "tour": "ATP"
     },
     {
@@ -142,17 +142,35 @@
       "time": "20:30",
       "player1": "Walton A. (8)",
       "player2": "Bellucci M.",
-      "odds1": 1.03,
-      "odds2": 1.03,
+      "odds1": 2.38,
+      "odds2": 1.52,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Austin 2 WTA",
+      "time": "20:30",
+      "player1": "Andreescu B.",
+      "player2": "Tararudee L.",
+      "odds1": 1.71,
+      "odds2": 2.06,
+      "tour": "WTA"
     },
     {
       "tournament": "Indian Wells",
       "time": "21:30",
       "player1": "Zverev A. (4)",
       "player2": "Sinner J. (2)",
-      "odds1": 5.22,
-      "odds2": 1.16,
+      "odds1": 5.13,
+      "odds2": 1.17,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Phoenix challenger",
+      "time": "21:30",
+      "player1": "Harris B.",
+      "player2": "Quinn E. (8)",
+      "odds1": 3.82,
+      "odds2": 1.23,
       "tour": "ATP"
     },
     {
@@ -160,8 +178,17 @@
       "time": "23:00",
       "player1": "Alcaraz C. (1)",
       "player2": "Medvedev D. (11)",
-      "odds1": 1.2,
-      "odds2": 4.58,
+      "odds1": 1.17,
+      "odds2": 5.08,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Phoenix challenger",
+      "time": "23:00",
+      "player1": "Moutet C. (1)",
+      "player2": "Giron M. (7)",
+      "odds1": 1.85,
+      "odds2": 1.62,
       "tour": "ATP"
     }
   ]
