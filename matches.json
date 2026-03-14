@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T12:55:29.224760",
+  "last_updated": "2026-03-14T18:40:34.524228",
   "count": 21,
   "matches": [
     {
@@ -94,47 +94,47 @@
     },
     {
       "tournament": "Cherbourg challenger",
-      "time": "14:30",
-      "player1": "Gojo B. (8)",
-      "player2": "Kotov P.",
-      "odds1": 1.66,
-      "odds2": 2.14,
+      "time": "15:00",
+      "player1": "Kotov P.",
+      "player2": "Gojo B. (8)",
+      "odds1": 2.17,
+      "odds2": 1.64,
       "tour": "ATP"
     },
     {
       "tournament": "Santiago challenger",
-      "time": "15:00",
+      "time": "15:05",
       "player1": "Rocha H. (4)",
       "player2": "Boscardin Dias P.",
-      "odds1": 1.41,
-      "odds2": 2.77,
+      "odds1": 1.4,
+      "odds2": 2.78,
       "tour": "ATP"
     },
     {
       "tournament": "Santiago challenger",
-      "time": "16:30",
-      "player1": "Monteiro T.",
-      "player2": "Olivieri G.",
-      "odds1": 1.26,
-      "odds2": 3.66,
+      "time": "16:40",
+      "player1": "Olivieri G.",
+      "player2": "Monteiro T.",
+      "odds1": 1.27,
+      "odds2": 3.59,
       "tour": "ATP"
     },
     {
       "tournament": "Cherbourg challenger",
-      "time": "16:30",
-      "player1": "Rodionov J. (5)",
-      "player2": "Romano F.",
-      "odds1": 1.2,
-      "odds2": 4.29,
+      "time": "17:25",
+      "player1": "Romano F.",
+      "player2": "Rodionov J. (5)",
+      "odds1": 4.27,
+      "odds2": 1.2,
       "tour": "ATP"
     },
     {
       "tournament": "Cap Cana challenger",
-      "time": "19:00",
+      "time": "19:10",
       "player1": "Blockx A.",
       "player2": "Navone M. (6)",
-      "odds1": 1.53,
-      "odds2": 2.39,
+      "odds1": 1.48,
+      "odds2": 2.52,
       "tour": "ATP"
     },
     {
@@ -142,8 +142,8 @@
       "time": "20:30",
       "player1": "Walton A. (8)",
       "player2": "Bellucci M.",
-      "odds1": 2.43,
-      "odds2": 1.51,
+      "odds1": 2.54,
+      "odds2": 1.48,
       "tour": "ATP"
     },
     {
@@ -151,8 +151,8 @@
       "time": "20:30",
       "player1": "Andreescu B.",
       "player2": "Tararudee L.",
-      "odds1": 1.7,
-      "odds2": 2.09,
+      "odds1": 1.68,
+      "odds2": 2.12,
       "tour": "WTA"
     },
     {
@@ -160,7 +160,7 @@
       "time": "21:30",
       "player1": "Zverev A. (4)",
       "player2": "Sinner J. (2)",
-      "odds1": 5.13,
+      "odds1": 5.06,
       "odds2": 1.17,
       "tour": "ATP"
     },
@@ -169,8 +169,8 @@
       "time": "21:30",
       "player1": "Harris B.",
       "player2": "Quinn E. (8)",
-      "odds1": 3.84,
-      "odds2": 1.23,
+      "odds1": 4.12,
+      "odds2": 1.21,
       "tour": "ATP"
     },
     {
@@ -179,7 +179,7 @@
       "player1": "Alcaraz C. (1)",
       "player2": "Medvedev D. (11)",
       "odds1": 1.18,
-      "odds2": 4.97,
+      "odds2": 4.94,
       "tour": "ATP"
     },
     {
@@ -187,8 +187,8 @@
       "time": "23:00",
       "player1": "Moutet C. (1)",
       "player2": "Giron M. (7)",
-      "odds1": 2.02,
-      "odds2": 1.73,
+      "odds1": 2.05,
+      "odds2": 1.71,
       "tour": "ATP"
     }
   ]
