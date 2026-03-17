@@ -1,424 +1,541 @@
 {
-  "last_updated": "2026-03-16T19:03:59.301626",
-  "count": 80,
+  "last_updated": "2026-03-17T02:12:59.567780",
+  "count": 83,
   "matches": [
     {
-      "tournament": "Zadar challenger",
-      "time": "10:05",
-      "player1": "Lokoli L. (4)",
-      "player2": "Kirkin E. (8)",
-      "odds1": 1.43,
-      "odds2": 2.65,
-      "tour": "ATP"
+      "tournament": "Miami",
+      "time": "00:20",
+      "player1": "Starodubtseva Y. (15)",
+      "player2": "Inglis M.",
+      "odds1": 1.6,
+      "odds2": 2.27,
+      "tour": "WTA"
     },
     {
-      "tournament": "Zadar challenger",
-      "time": "10:05",
-      "player1": "Pieri S. (6)",
-      "player2": "Campana Lee G. (11)",
-      "odds1": 1.73,
-      "odds2": 2.01,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Zadar challenger",
-      "time": "10:05",
-      "player1": "Cerny M.",
-      "player2": "Fiorentini A.",
-      "odds1": 1.27,
-      "odds2": 3.48,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "11:05",
-      "player1": "Negritu C. (5)",
-      "player2": "Vrbensky M. (11)",
-      "odds1": 1.55,
-      "odds2": 2.35,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "11:05",
-      "player1": "Silva F. (1)",
-      "player2": "Molleker R. (8)",
-      "odds1": 1.41,
-      "odds2": 2.74,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "11:05",
-      "player1": "Pieczonka F.",
-      "player2": "Yevseyev D. (4)",
+      "tournament": "Miami",
+      "time": "00:40",
+      "player1": "Merida Aguilar D.",
+      "player2": "Svrcina D. (14)",
       "odds1": 2.58,
-      "odds2": 1.46,
+      "odds2": 1.47,
       "tour": "ATP"
     },
     {
-      "tournament": "Murcia challenger",
-      "time": "12:35",
-      "player1": "Gill F. (2)",
-      "player2": "Arnaboldi F. (7)",
+      "tournament": "Miami",
+      "time": "00:40",
+      "player1": "Jodar R. (12)",
+      "player2": "Dhamne M.",
+      "odds1": 1.09,
+      "odds2": 7.08,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "01:05",
+      "player1": "Hijikata R. (19)",
+      "player2": "Sweeny D.",
+      "odds1": 1.33,
+      "odds2": 3.21,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "01:20",
+      "player1": "Cassone M.",
+      "player2": "Maestrelli F. (17)",
+      "odds1": 2.34,
+      "odds2": 1.56,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "01:35",
+      "player1": "Landaluce M.",
+      "player2": "McDonald M. (22)",
+      "odds1": 2.24,
+      "odds2": 1.61,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "01:40",
+      "player1": "Walton A. (6)",
+      "player2": "Rodesch C.",
+      "odds1": 1.55,
+      "odds2": 2.37,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "02:15",
+      "player1": "Basavareddy N.",
+      "player2": "Barrios Vera M. (18)",
+      "odds1": 1.39,
+      "odds2": 2.89,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "02:25",
+      "player1": "Bellucci M. (7)",
+      "player2": "Jarry N.",
+      "odds1": 1.44,
+      "odds2": 2.66,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "02:45",
+      "player1": "Svajda Z. (11)",
+      "player2": "Smith C.",
+      "odds1": 1.37,
+      "odds2": 2.97,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "02:50",
+      "player1": "Vukic A. (4)",
+      "player2": "Harris B.",
+      "odds1": 1.61,
+      "odds2": 2.25,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "10:00",
+      "player1": "Krumich M.",
+      "player2": "Sperle J.",
       "odds1": 1.25,
       "odds2": 3.71,
       "tour": "ATP"
     },
     {
       "tournament": "Zadar challenger",
-      "time": "13:10",
-      "player1": "Sperle J.",
-      "player2": "Palosi S. (2)",
-      "odds1": 2.62,
-      "odds2": 1.45,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Zadar challenger",
-      "time": "13:15",
-      "player1": "Perez Contri S. (9)",
-      "player2": "Basic M. (5)",
-      "odds1": 1.82,
-      "odds2": 1.9,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "13:30",
-      "player1": "Wessels L. (12)",
-      "player2": "Purtseladze S. (3)",
-      "odds1": 2.02,
-      "odds2": 1.73,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Zadar challenger",
-      "time": "13:45",
-      "player1": "Langmo C. (3)",
-      "player2": "Krutykh O. (10)",
-      "odds1": 2.93,
-      "odds2": 1.37,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "14:25",
-      "player1": "Jorda Sanchis D. (6)",
-      "player2": "Blanch D. (9)",
-      "odds1": 1.78,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "15:10",
-      "player1": "Choinski J. (6)",
-      "player2": "Damas M.",
-      "odds1": 1.37,
-      "odds2": 2.91,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Zadar challenger",
-      "time": "15:10",
-      "player1": "Dalla Valle E.",
-      "player2": "Piros Z. (1)",
-      "odds1": 5.36,
-      "odds2": 1.13,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Fery A.",
-      "player2": "Burruchaga R. (10)",
-      "odds1": 1.66,
-      "odds2": 2.14,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Yunchaokete B.",
-      "player2": "Schoolkate T. (20)",
-      "odds1": 2.14,
-      "odds2": 1.67,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Volynets K. (10)",
-      "player2": "Hon P.",
-      "odds1": 1.42,
-      "odds2": 2.75,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Lepchenko V.",
-      "player2": "Jimenez Kasintseva V. (9)",
-      "odds1": 3.12,
-      "odds2": 1.34,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Gibson T. (19)",
-      "player2": "Gorgodze E.",
-      "odds1": 1.09,
-      "odds2": 7.15,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Fruhvirtova L. (24)",
-      "player2": "Brengle M.",
-      "odds1": 1.43,
-      "odds2": 2.71,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:10",
-      "player1": "Yuan Y. (23)",
-      "player2": "Brantmeier R.",
-      "odds1": 1.11,
-      "odds2": 6.28,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:15",
-      "player1": "Birrell K. (1)",
-      "player2": "Tomova V.",
-      "odds1": 1.25,
-      "odds2": 3.84,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "15:15",
-      "player1": "Rakhimova K. (6)",
-      "player2": "Jeanjean L.",
+      "time": "10:00",
+      "player1": "Alcala Gurri M.",
+      "player2": "Cerny M.",
       "odds1": 1.35,
-      "odds2": 3.1,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "15:45",
-      "player1": "Kukushkin M.",
-      "player2": "Butvilas E.",
-      "odds1": 2.14,
-      "odds2": 1.66,
+      "odds2": 2.99,
       "tour": "ATP"
     },
     {
       "tournament": "Zadar challenger",
-      "time": "15:50",
-      "player1": "Jacquet K. (2)",
-      "player2": "Sels J.",
-      "odds1": 1.13,
-      "odds2": 5.56,
+      "time": "10:00",
+      "player1": "Simundza J.",
+      "player2": "Perez Contri S.",
+      "odds1": 3.03,
+      "odds2": 1.35,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "11:00",
+      "player1": "Sanchez Izquierdo N.",
+      "player2": "Carballes Baena R. (8)",
+      "odds1": 2.74,
+      "odds2": 1.41,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "11:00",
+      "player1": "Moller E. (5)",
+      "player2": "Coppejans K.",
+      "odds1": 1.64,
+      "odds2": 2.15,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "11:00",
+      "player1": "Moro Canas A.",
+      "player2": "Gaubas V. (2)",
+      "odds1": 2.86,
+      "odds2": 1.38,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "11:30",
+      "player1": "Obradovic D.",
+      "player2": "Ajdukovic D.",
+      "odds1": 3.18,
+      "odds2": 1.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "11:30",
+      "player1": "Giustino L. (6)",
+      "player2": "Forejtek J.",
+      "odds1": 1.95,
+      "odds2": 1.79,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "11:30",
+      "player1": "Lokoli L.",
+      "player2": "Dodig M. (7)",
+      "odds1": 2.64,
+      "odds2": 1.44,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "12:30",
+      "player1": "De Jong J. (1)",
+      "player2": "Hassan B.",
+      "odds1": 1.26,
+      "odds2": 3.62,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "12:30",
+      "player1": "Sanchez Jover C.",
+      "player2": "Carreno-Busta P. (3)",
+      "odds1": 3.97,
+      "odds2": 1.22,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "12:30",
+      "player1": "Ofner S. (4)",
+      "player2": "Silva F.",
+      "odds1": 1.26,
+      "odds2": 3.65,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "13:00",
+      "player1": "Travaglia S. (4)",
+      "player2": "Poljicak M.",
+      "odds1": 1.61,
+      "odds2": 2.21,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "13:00",
+      "player1": "Fatic N.",
+      "player2": "Pereira T.",
+      "odds1": 1.47,
+      "odds2": 2.53,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "13:00",
+      "player1": "Langmo C.",
+      "player2": "Molcan A. (5)",
+      "odds1": 4.58,
+      "odds2": 1.17,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "14:00",
+      "player1": "Wessels L.",
+      "player2": "Houkes M.",
+      "odds1": 3.88,
+      "odds2": 1.23,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "14:00",
+      "player1": "Llamas Ruiz P.",
+      "player2": "Jorda Sanchis D.",
+      "odds1": 1.2,
+      "odds2": 4.1,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "14:00",
+      "player1": "Bailly G.",
+      "player2": "Purtseladze S.",
+      "odds1": 1.08,
+      "odds2": 6.8,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "14:30",
+      "player1": "Neumayer L. (8)",
+      "player2": "Nagal S.",
+      "odds1": 1.67,
+      "odds2": 2.1,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "14:30",
+      "player1": "Squire H.",
+      "player2": "Palosi S.",
+      "odds1": 1.44,
+      "odds2": 2.56,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zadar challenger",
+      "time": "14:30",
+      "player1": "Pieri S.",
+      "player2": "Michalski D.",
+      "odds1": 2.97,
+      "odds2": 1.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "15:30",
+      "player1": "Engel J.",
+      "player2": "Shelbayh A.",
+      "odds1": 1.46,
+      "odds2": 2.56,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "15:30",
+      "player1": "Gill F.",
+      "player2": "Pieczonka F.",
+      "odds1": 1.17,
+      "odds2": 4.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "15:30",
+      "player1": "Gakhov I.",
+      "player2": "Negritu C.",
+      "odds1": 1.56,
+      "odds2": 2.25,
       "tour": "ATP"
     },
     {
       "tournament": "Zadar challenger",
       "time": "16:00",
-      "player1": "Nedic A.",
-      "player2": "Ivanisevic E.",
-      "odds1": 1.03,
-      "odds2": 10.85,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Murcia challenger",
-      "time": "16:15",
-      "player1": "Brancaccio R.",
-      "player2": "Sanchez Quilez A.",
-      "odds1": 1.63,
-      "odds2": 2.15,
+      "player1": "Kuzmanov D.",
+      "player2": "Gea A. (3)",
+      "odds1": 3.18,
+      "odds2": 1.32,
       "tour": "ATP"
     },
     {
       "tournament": "Miami",
-      "time": "17:00",
-      "player1": "Sasnovich A. (21)",
-      "player2": "Aksu A.",
-      "odds1": 1.19,
-      "odds2": 4.56,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "17:10",
-      "player1": "Delaney J. (2)",
-      "player2": "Dalmasso G. (12)",
-      "odds1": 1.68,
-      "odds2": 2.09,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "17:10",
-      "player1": "Tobon M. (8)",
-      "player2": "Vandecasteele Q. (3)",
+      "time": "16:00",
+      "player1": "Fery A.",
+      "player2": "Yunchaokete B.",
       "odds1": 2.13,
       "odds2": 1.66,
       "tour": "ATP"
     },
     {
-      "tournament": "Morelos challenger",
-      "time": "17:10",
-      "player1": "Yuzuki T.",
-      "player2": "Poling K. (5)",
-      "odds1": 2.23,
-      "odds2": 1.6,
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Buse I. (1)",
+      "player2": "Wong C. (21)",
+      "odds1": 1.03,
+      "odds2": 1.02,
       "tour": "ATP"
     },
     {
       "tournament": "Miami",
-      "time": "17:10",
-      "player1": "Sramkova R. (22)",
-      "player2": "Andreeva E.",
-      "odds1": 1.39,
-      "odds2": 2.9,
+      "time": "16:00",
+      "player1": "Hanfmann Y. (2)",
+      "player2": "Van Assche L. (13)",
+      "odds1": 1.75,
+      "odds2": 1.88,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Lepchenko V.",
+      "player2": "Fruhvirtova L. (24)",
+      "odds1": 3.2,
+      "odds2": 1.28,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Birrell K. (1)",
+      "player2": "Yuan Y. (23)",
+      "odds1": 1.48,
+      "odds2": 2.24,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Rakhimova K. (6)",
+      "player2": "Gibson T. (19)",
+      "odds1": 2.26,
+      "odds2": 1.35,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Zakharova A. (5)",
+      "player2": "Sramkova R. (22)",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Zarazua R. (7)",
+      "player2": "Sasnovich A. (21)",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "16:00",
+      "player1": "Volynets K. (10)",
+      "player2": "Andreescu B.",
+      "odds1": 1.03,
+      "odds2": 1.29,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "17:00",
+      "player1": "Ayeni A.",
+      "player2": "Smith K.",
+      "odds1": 3.53,
+      "odds2": 1.25,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "17:00",
+      "player1": "Shah A.",
+      "player2": "Alujas R.",
+      "odds1": 1.17,
+      "odds2": 4.3,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "17:00",
+      "player1": "Delaney J.",
+      "player2": "Daniel T.",
+      "odds1": 1.91,
+      "odds2": 1.46,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Murcia challenger",
+      "time": "17:00",
+      "player1": "Pellegrino A. (7)",
+      "player2": "Martin Tiffon P.",
+      "odds1": 1.54,
+      "odds2": 2.37,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "17:30",
+      "player1": "Basilashvili N.",
+      "player2": "Shimabukuro S. (16)",
+      "odds1": 1.95,
+      "odds2": 1.1,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "17:30",
+      "player1": "Blockx A. (9)",
+      "player2": "O'Connell C. (23)",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "17:30",
+      "player1": "Draxl L.",
+      "player2": "Clarke J.",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Miami",
+      "time": "17:30",
+      "player1": "Waltert S.",
+      "player2": "Tomljanovic A.",
+      "odds1": 3.24,
+      "odds2": 1.34,
       "tour": "WTA"
     },
     {
       "tournament": "Miami",
       "time": "17:30",
-      "player1": "Van Assche L. (13)",
-      "player2": "Willwerth B.",
-      "odds1": 1.02,
-      "odds2": 13.62,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "18:10",
-      "player1": "Pinnington Jones J.",
-      "player2": "Wong C. (21)",
-      "odds1": 2.47,
-      "odds2": 1.52,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "18:35",
-      "player1": "Buse I. (1)",
-      "player2": "Echargui M.",
-      "odds1": 1.32,
-      "odds2": 3.22,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "18:55",
-      "player1": "Hanfmann Y. (2)",
-      "player2": "Riedi L.",
-      "odds1": 1.58,
-      "odds2": 2.3,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "18:55",
-      "player1": "Andreescu B.",
-      "player2": "Lamens S. (20)",
-      "odds1": 1.53,
-      "odds2": 2.42,
+      "player1": "Vidmanova D.",
+      "player2": "Jacquemot E.",
+      "odds1": 1.54,
+      "odds2": 2.45,
       "tour": "WTA"
     },
     {
       "tournament": "Miami",
-      "time": "19:00",
-      "player1": "Zarazua R. (7)",
-      "player2": "Trevisan M.",
-      "odds1": 1.2,
-      "odds2": 4.37,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "19:05",
-      "player1": "Heredia S.",
-      "player2": "Rubio Fierros A. (7)",
-      "odds1": 2.21,
-      "odds2": 1.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "19:05",
-      "player1": "Hunter S.",
-      "player2": "Masarova R. (17)",
-      "odds1": 2.3,
-      "odds2": 1.59,
+      "time": "17:30",
+      "player1": "Linette M.",
+      "player2": "Gracheva V.",
+      "odds1": 1.67,
+      "odds2": 2.19,
       "tour": "WTA"
     },
     {
       "tournament": "Miami",
-      "time": "19:10",
-      "player1": "Bolt A.",
-      "player2": "Shimabukuro S. (16)",
-      "odds1": 2.63,
-      "odds2": 1.46,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "19:35",
-      "player1": "Mejia N.",
-      "player2": "O'Connell C. (23)",
-      "odds1": 3.46,
-      "odds2": 1.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "19:35",
-      "player1": "Catry R. (1)",
-      "player2": "Osorio J.",
-      "odds1": 1.08,
-      "odds2": 7.1,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "19:40",
+      "time": "17:30",
       "player1": "Sun L. (12)",
-      "player2": "Timofeeva M.",
-      "odds1": 1.5,
-      "odds2": 2.52,
+      "player2": "Vekic D. (14)",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "17:30",
+      "player1": "Seidel E. (3)",
+      "player2": "Masarova R. (17)",
+      "odds1": 1.03,
+      "odds2": 1.03,
       "tour": "WTA"
     },
     {
       "tournament": "Asuncion challenger",
-      "time": "20:00",
+      "time": "18:00",
       "player1": "Aboian V. (1)",
       "player2": "Huertas Del Pino A. (7)",
       "odds1": 1.34,
-      "odds2": 2.99,
+      "odds2": 3.03,
       "tour": "ATP"
     },
     {
       "tournament": "Asuncion challenger",
-      "time": "20:00",
+      "time": "18:00",
       "player1": "Zarate C. (3)",
       "player2": "Arias B. (12)",
       "odds1": 1.06,
-      "odds2": 6.93,
+      "odds2": 7.71,
       "tour": "ATP"
     },
     {
       "tournament": "Asuncion challenger",
-      "time": "20:00",
+      "time": "18:00",
       "player1": "Schiessl J. (2)",
       "player2": "Ingildsen J. (8)",
       "odds1": 1.41,
@@ -426,210 +543,174 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Morelos challenger",
+      "time": "18:30",
+      "player1": "Zink T.",
+      "player2": "Polmans M.",
+      "odds1": 1.72,
+      "odds2": 1.98,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "18:30",
+      "player1": "Catry R.",
+      "player2": "Hayen A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "18:30",
+      "player1": "Tobon M.",
+      "player2": "Ficovich J. (2)",
+      "odds1": 1.02,
+      "odds2": 1.02,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Miami",
-      "time": "20:15",
-      "player1": "Garin C. (5)",
-      "player2": "Draxl L.",
+      "time": "19:00",
+      "player1": "Kessler M.",
+      "player2": "Frech M.",
+      "odds1": 1.7,
+      "odds2": 2.13,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "19:00",
+      "player1": "Boulter K.",
+      "player2": "Bouzas Maneiro J.",
+      "odds1": 1.6,
+      "odds2": 2.31,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Miami",
+      "time": "19:00",
+      "player1": "Siegemund L.",
+      "player2": "Marcinko P.",
       "odds1": 1.76,
-      "odds2": 2.01,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "20:15",
-      "player1": "Kypson P. (8)",
-      "player2": "Basilashvili N.",
-      "odds1": 1.41,
-      "odds2": 2.82,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "20:15",
-      "player1": "Colson T. (4)",
-      "player2": "Flores J.",
-      "odds1": 1.16,
-      "odds2": 4.81,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "20:25",
-      "player1": "Osuigwe W.",
-      "player2": "Vekic D. (14)",
-      "odds1": 4.36,
-      "odds2": 1.2,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "20:30",
-      "player1": "Crawford O. (3)",
-      "player2": "Wiskandt M.",
-      "odds1": 1.29,
-      "odds2": 3.42,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "20:30",
-      "player1": "Clarke J.",
-      "player2": "Mochizuki S. (24)",
-      "odds1": 2.89,
-      "odds2": 1.38,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "20:30",
-      "player1": "Seidel E. (3)",
-      "player2": "Stakusic M.",
-      "odds1": 2.35,
-      "odds2": 1.56,
+      "odds2": 2.05,
       "tour": "WTA"
     },
     {
       "tournament": "Miami",
-      "time": "20:35",
-      "player1": "Stefanini L.",
-      "player2": "Parry D. (18)",
-      "odds1": 3.13,
-      "odds2": 1.34,
+      "time": "19:00",
+      "player1": "Semenistaja D. (11)",
+      "player2": "Kraus S. (16)",
+      "odds1": 1.03,
+      "odds2": 1.03,
       "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "20:55",
-      "player1": "Golubic V. (2)",
-      "player2": "Frodin T.",
-      "odds1": 1.07,
-      "odds2": 8.2,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Morelos challenger",
-      "time": "21:00",
-      "player1": "Mayo A.",
-      "player2": "Andrade A. (6)",
-      "odds1": 2.64,
-      "odds2": 1.44,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "21:05",
-      "player1": "Blockx A. (9)",
-      "player2": "Tseng C.",
-      "odds1": 1.27,
-      "odds2": 3.67,
-      "tour": "ATP"
     },
     {
       "tournament": "Asuncion challenger",
-      "time": "21:30",
+      "time": "19:30",
       "player1": "Saraiva Dos Santos P. (4)",
       "player2": "Ribero F. (9)",
-      "odds1": 1.47,
-      "odds2": 2.43,
+      "odds1": 1.49,
+      "odds2": 2.47,
       "tour": "ATP"
     },
     {
       "tournament": "Asuncion challenger",
-      "time": "21:30",
+      "time": "19:30",
       "player1": "Huertas Del Pino C. (5)",
       "player2": "Cundom J. (10)",
-      "odds1": 1.29,
-      "odds2": 3.29,
+      "odds1": 1.26,
+      "odds2": 3.46,
       "tour": "ATP"
     },
     {
       "tournament": "Asuncion challenger",
-      "time": "21:30",
+      "time": "19:30",
       "player1": "Cigarran T. (6)",
       "player2": "Basel V. (11)",
-      "odds1": 1.53,
-      "odds2": 2.39,
+      "odds1": 1.54,
+      "odds2": 2.36,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "21:35",
-      "player1": "Semenistaja D. (11)",
-      "player2": "Ekstrand M.",
-      "odds1": 1.24,
-      "odds2": 3.94,
-      "tour": "WTA"
     },
     {
       "tournament": "Morelos challenger",
-      "time": "21:40",
-      "player1": "Ursu V.",
-      "player2": "Martin A. (8)",
-      "odds1": 2.48,
-      "odds2": 1.49,
+      "time": "20:00",
+      "player1": "Zhukayev B.",
+      "player2": "Mena F.",
+      "odds1": 1.44,
+      "odds2": 2.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "20:00",
+      "player1": "Kozlov S. (7)",
+      "player2": "Magadan A.",
+      "odds1": 1.21,
+      "odds2": 3.88,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "20:00",
+      "player1": "Mmoh M.",
+      "player2": "Rubio Fierros A.",
+      "odds1": 1.15,
+      "odds2": 3.33,
       "tour": "ATP"
     },
     {
       "tournament": "Miami",
-      "time": "21:45",
-      "player1": "Juvan K. (8)",
-      "player2": "Stoiana M.",
-      "odds1": 1.57,
-      "odds2": 2.34,
+      "time": "20:30",
+      "player1": "Zhang S.",
+      "player2": "Cirstea S.",
+      "odds1": 3.62,
+      "odds2": 1.29,
       "tour": "WTA"
     },
     {
       "tournament": "Miami",
-      "time": "21:55",
-      "player1": "Dolehide C.",
-      "player2": "Bartunkova N. (13)",
-      "odds1": 2.3,
-      "odds2": 1.59,
+      "time": "20:30",
+      "player1": "Kenin S.",
+      "player2": "Blinkova A.",
+      "odds1": 1.6,
+      "odds2": 2.3,
       "tour": "WTA"
     },
     {
-      "tournament": "Miami",
-      "time": "22:00",
-      "player1": "Inglis M.",
-      "player2": "Starodubtseva Y. (15)",
-      "odds1": 2.27,
-      "odds2": 1.6,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "22:00",
-      "player1": "Radivojevic L.",
-      "player2": "Kraus S. (16)",
-      "odds1": 2.02,
-      "odds2": 1.75,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Miami",
-      "time": "22:05",
-      "player1": "Watanuki Y.",
-      "player2": "Maestrelli F. (17)",
-      "odds1": 2.04,
-      "odds2": 1.75,
+      "tournament": "Asuncion challenger",
+      "time": "21:00",
+      "player1": "Kestelboim M.",
+      "player2": "Varillas J.",
+      "odds1": 3.86,
+      "odds2": 1.22,
       "tour": "ATP"
     },
     {
-      "tournament": "Miami",
-      "time": "22:20",
-      "player1": "Tirante T. (3)",
-      "player2": "Dedura-Palomero D.",
-      "odds1": 1.3,
-      "odds2": 3.38,
+      "tournament": "Asuncion challenger",
+      "time": "21:00",
+      "player1": "Barrena A. (4)",
+      "player2": "Kingsley C.",
+      "odds1": 1.46,
+      "odds2": 2.59,
       "tour": "ATP"
     },
     {
-      "tournament": "Miami",
-      "time": "22:25",
-      "player1": "Queiroz Miguel L.",
-      "player2": "Bonzi B. (15)",
-      "odds1": 10.92,
-      "odds2": 1.04,
+      "tournament": "Asuncion challenger",
+      "time": "21:00",
+      "player1": "Justo G.",
+      "player2": "Prado Angelo J. (7)",
+      "odds1": 1.98,
+      "odds2": 1.76,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelos challenger",
+      "time": "21:30",
+      "player1": "Huesler M. (5)",
+      "player2": "Yuzuki T.",
+      "odds1": 1.02,
+      "odds2": 1.02,
       "tour": "ATP"
     },
     {
@@ -637,8 +718,8 @@
       "time": "22:30",
       "player1": "Midon L.",
       "player2": "Villanueva G.",
-      "odds1": 1.5,
-      "odds2": 2.46,
+      "odds1": 1.49,
+      "odds2": 2.49,
       "tour": "ATP"
     },
     {
@@ -647,25 +728,7 @@
       "player1": "Bueno G. (8)",
       "player2": "Didoni Bonini J.",
       "odds1": 1.03,
-      "odds2": 10.15,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "22:35",
-      "player1": "Landaluce M.",
-      "player2": "McDonald M. (22)",
-      "odds1": 2.21,
-      "odds2": 1.63,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "22:35",
-      "player1": "Merida Aguilar D.",
-      "player2": "Svrcina D. (14)",
-      "odds1": 2.62,
-      "odds2": 1.46,
+      "odds2": 10.36,
       "tour": "ATP"
     },
     {
@@ -674,52 +737,16 @@
       "player1": "Dellien M.",
       "player2": "Nunez Vera A.",
       "odds1": 1.03,
-      "odds2": 10.77,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "23:15",
-      "player1": "Basavareddy N.",
-      "player2": "Barrios Vera M. (18)",
-      "odds1": 1.4,
-      "odds2": 2.83,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "23:15",
-      "player1": "Jodar R. (12)",
-      "player2": "Dhamne M.",
-      "odds1": 1.09,
-      "odds2": 7.15,
+      "odds2": 10.92,
       "tour": "ATP"
     },
     {
       "tournament": "Morelos challenger",
-      "time": "23:30",
-      "player1": "Gomez F. (1)",
-      "player2": "Martin D.",
-      "odds1": 1.14,
-      "odds2": 5.19,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "23:30",
-      "player1": "Vukic A. (4)",
-      "player2": "Harris B.",
-      "odds1": 1.65,
-      "odds2": 2.16,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Miami",
-      "time": "23:30",
-      "player1": "Sweeny D.",
-      "player2": "Hijikata R. (19)",
-      "odds1": 3.1,
-      "odds2": 1.34,
+      "time": "23:00",
+      "player1": "Hernandez Serrano J.",
+      "player2": "Colson T.",
+      "odds1": 1.03,
+      "odds2": 1.03,
       "tour": "ATP"
     }
   ]
