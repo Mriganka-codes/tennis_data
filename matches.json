@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T02:32:19.533984",
+  "last_updated": "2026-03-27T07:10:42.996160",
   "count": 36,
   "matches": [
     {
@@ -32,10 +32,10 @@
     {
       "tournament": "Sao Paulo 2 challenger",
       "time": "01:50",
-      "player1": "Meligeni Rodrigues Alves F.",
-      "player2": "Faria J. (5)",
-      "odds1": 2.64,
-      "odds2": 1.44,
+      "player1": "Faria J. (5)",
+      "player2": "Meligeni Rodrigues Alves F.",
+      "odds1": 1.44,
+      "odds2": 2.64,
       "tour": "ATP"
     },
     {
@@ -50,28 +50,28 @@
     {
       "tournament": "Yokkaichi challenger",
       "time": "03:20",
-      "player1": "Broady L.",
-      "player2": "Noguchi R. (7)",
-      "odds1": 1.42,
-      "odds2": 2.72,
+      "player1": "Noguchi R. (7)",
+      "player2": "Broady L.",
+      "odds1": 2.72,
+      "odds2": 1.42,
       "tour": "ATP"
     },
     {
       "tournament": "Yokkaichi challenger",
-      "time": "04:30",
-      "player1": "Sun F.",
-      "player2": "Uchiyama Y.",
-      "odds1": 2.57,
-      "odds2": 1.47,
+      "time": "05:00",
+      "player1": "Wendelken H.",
+      "player2": "Shimizu Y.",
+      "odds1": 1.67,
+      "odds2": 2.14,
       "tour": "ATP"
     },
     {
       "tournament": "Yokkaichi challenger",
-      "time": "04:30",
-      "player1": "Shimizu Y.",
-      "player2": "Wendelken H.",
-      "odds1": 2.14,
-      "odds2": 1.66,
+      "time": "05:10",
+      "player1": "Uchiyama Y.",
+      "player2": "Sun F.",
+      "odds1": 1.47,
+      "odds2": 2.57,
       "tour": "ATP"
     },
     {
@@ -80,7 +80,7 @@
       "player1": "Gentzsch T. (7)",
       "player2": "Romano F.",
       "odds1": 1.54,
-      "odds2": 2.41,
+      "odds2": 2.4,
       "tour": "ATP"
     },
     {
@@ -88,8 +88,8 @@
       "time": "10:30",
       "player1": "Coulibaly E.",
       "player2": "Vasilev A.",
-      "odds1": 2.17,
-      "odds2": 1.67,
+      "odds1": 2.12,
+      "odds2": 1.7,
       "tour": "ATP"
     },
     {
@@ -97,8 +97,8 @@
       "time": "10:30",
       "player1": "Mrva M.",
       "player2": "Coppejans K. (6)",
-      "odds1": 2.18,
-      "odds2": 1.65,
+      "odds1": 2.19,
+      "odds2": 1.64,
       "tour": "ATP"
     },
     {
@@ -160,8 +160,8 @@
       "time": "12:00",
       "player1": "Gueymard Wayenburg S.",
       "player2": "Nedic A.",
-      "odds1": 1.94,
-      "odds2": 1.78,
+      "odds1": 1.88,
+      "odds2": 1.84,
       "tour": "ATP"
     },
     {
@@ -169,8 +169,8 @@
       "time": "12:30",
       "player1": "Medjedovic H. (5)",
       "player2": "Muller A. (3)",
-      "odds1": 1.6,
-      "odds2": 2.24,
+      "odds1": 1.61,
+      "odds2": 2.23,
       "tour": "ATP"
     },
     {
@@ -178,8 +178,8 @@
       "time": "12:30",
       "player1": "Martinez P. (4)",
       "player2": "Carreno-Busta P. (5)",
-      "odds1": 2.19,
-      "odds2": 1.6,
+      "odds1": 2.01,
+      "odds2": 1.74,
       "tour": "ATP"
     },
     {
@@ -188,7 +188,7 @@
       "player1": "Lazaro Garcia A.",
       "player2": "Lukas T.",
       "odds1": 1.23,
-      "odds2": 3.95,
+      "odds2": 4.02,
       "tour": "WTA"
     },
     {
@@ -196,8 +196,8 @@
       "time": "12:30",
       "player1": "Zidansek T.",
       "player2": "Erjavec V. (2)",
-      "odds1": 1.74,
-      "odds2": 2.02,
+      "odds1": 1.73,
+      "odds2": 2.04,
       "tour": "WTA"
     },
     {
@@ -205,8 +205,8 @@
       "time": "13:00",
       "player1": "Ribecai M.",
       "player2": "Bondioli F.",
-      "odds1": 1.76,
-      "odds2": 1.97,
+      "odds1": 1.75,
+      "odds2": 1.99,
       "tour": "ATP"
     },
     {
@@ -215,7 +215,7 @@
       "player1": "Altmaier D. (1)",
       "player2": "Dalla Valle E.",
       "odds1": 1.38,
-      "odds2": 2.86,
+      "odds2": 2.87,
       "tour": "ATP"
     },
     {
@@ -223,8 +223,8 @@
       "time": "14:00",
       "player1": "Safiullin R.",
       "player2": "Houkes M.",
-      "odds1": 1.33,
-      "odds2": 3.12,
+      "odds1": 1.29,
+      "odds2": 3.41,
       "tour": "ATP"
     },
     {
@@ -241,26 +241,8 @@
       "time": "15:30",
       "player1": "Llamas Ruiz P.",
       "player2": "Butvilas E.",
-      "odds1": 1.31,
-      "odds2": 3.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Morelia challenger",
-      "time": "17:00",
-      "player1": "Ficovich J.",
-      "player2": "Pavlovic L.",
-      "odds1": 1.03,
-      "odds2": 1.03,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Morelia challenger",
-      "time": "17:00",
-      "player1": "Gojo B. (8)",
-      "player2": "Mejia N.",
-      "odds1": 1.03,
-      "odds2": 1.03,
+      "odds1": 1.3,
+      "odds2": 3.3,
       "tour": "ATP"
     },
     {
@@ -278,7 +260,7 @@
       "player1": "Barrios Vera M. (4)",
       "player2": "Dellien H. (6)",
       "odds1": 1.63,
-      "odds2": 2.18,
+      "odds2": 2.2,
       "tour": "ATP"
     },
     {
@@ -286,8 +268,8 @@
       "time": "19:30",
       "player1": "Barrena A. (7)",
       "player2": "Burruchaga R. (3)",
-      "odds1": 1.03,
-      "odds2": 1.03,
+      "odds1": 2.99,
+      "odds2": 1.29,
       "tour": "ATP"
     },
     {
@@ -304,7 +286,7 @@
       "time": "20:00",
       "player1": "Villalon N.",
       "player2": "Soto M. (2)",
-      "odds1": 3.08,
+      "odds1": 3.09,
       "odds2": 1.27,
       "tour": "ATP"
     },
@@ -313,8 +295,8 @@
       "time": "21:30",
       "player1": "Justo G. (1)",
       "player2": "Roncadelli F. (3)",
-      "odds1": 1.48,
-      "odds2": 2.23,
+      "odds1": 1.49,
+      "odds2": 2.24,
       "tour": "ATP"
     },
     {
@@ -322,8 +304,26 @@
       "time": "22:00",
       "player1": "Zverev A. (3)",
       "player2": "Sinner J. (2)",
-      "odds1": 5.84,
+      "odds1": 6.08,
       "odds2": 1.13,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sao Paulo 2 challenger",
+      "time": "22:00",
+      "player1": "Nava E. (1)",
+      "player2": "Faria J. (5)",
+      "odds1": 1.28,
+      "odds2": 3.0,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Morelia challenger",
+      "time": "22:30",
+      "player1": "Ficovich J.",
+      "player2": "Pavlovic L.",
+      "odds1": 1.76,
+      "odds2": 1.8,
       "tour": "ATP"
     }
   ]
