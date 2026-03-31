@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T13:22:21.085704",
-  "count": 112,
+  "last_updated": "2026-03-31T19:03:40.023211",
+  "count": 91,
   "matches": [
     {
       "tournament": "Charleston",
@@ -282,33 +282,6 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Menorca challenger",
-      "time": "11:35",
-      "player1": "Montes-De La Torre I. (4)",
-      "player2": "Vasa E. (8)",
-      "odds1": 1.25,
-      "odds2": 3.6,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "11:35",
-      "player1": "Yevseyev D. (2)",
-      "player2": "Callejon Hernando S. (10)",
-      "odds1": 1.59,
-      "odds2": 2.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "11:35",
-      "player1": "Arnaboldi F. (3)",
-      "player2": "Paulson A.",
-      "odds1": 1.73,
-      "odds2": 2.0,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Bucharest",
       "time": "11:40",
       "player1": "Merida Aguilar D. (2)",
@@ -324,33 +297,6 @@
       "player2": "Cina F.",
       "odds1": 1.68,
       "odds2": 2.16,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "12:05",
-      "player1": "Bailly G.",
-      "player2": "Coppejans K.",
-      "odds1": 2.72,
-      "odds2": 1.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "12:05",
-      "player1": "Mrva M.",
-      "player2": "Krumich M.",
-      "odds1": 1.77,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "12:05",
-      "player1": "Dhamne M.",
-      "player2": "Blanchet U. (2)",
-      "odds1": 2.33,
-      "odds2": 1.56,
       "tour": "ATP"
     },
     {
@@ -390,60 +336,6 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Menorca challenger",
-      "time": "13:15",
-      "player1": "Dedura-Palomero D. (1)",
-      "player2": "Blanch D. (7)",
-      "odds1": 1.46,
-      "odds2": 2.59,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "13:15",
-      "player1": "Negritu C. (6)",
-      "player2": "Demin Y.",
-      "odds1": 1.26,
-      "odds2": 3.55,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "13:15",
-      "player1": "Martinez A. (5)",
-      "player2": "Donski A.",
-      "odds1": 1.82,
-      "odds2": 1.9,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "13:30",
-      "player1": "Fatic N.",
-      "player2": "Bondioli F.",
-      "odds1": 1.83,
-      "odds2": 1.89,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "13:30",
-      "player1": "Bertola R. (8)",
-      "player2": "Gentzsch T.",
-      "odds1": 2.03,
-      "odds2": 1.72,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "13:30",
-      "player1": "Dalla Valle E.",
-      "player2": "Chazal M.",
-      "odds1": 1.45,
-      "odds2": 2.62,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Bucharest",
       "time": "13:40",
       "player1": "Van De Zandschulp B. (8)",
@@ -462,66 +354,12 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Menorca challenger",
-      "time": "14:45",
-      "player1": "Damas M.",
-      "player2": "Shelbayh A.",
-      "odds1": 1.61,
-      "odds2": 2.21,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "14:45",
-      "player1": "Rincon D.",
-      "player2": "Silva F. (6)",
-      "odds1": 2.05,
-      "odds2": 1.71,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "14:45",
-      "player1": "Kopp S.",
-      "player2": "Sanchez Quilez A.",
-      "odds1": 1.8,
-      "odds2": 1.92,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Marrakech",
       "time": "15:00",
-      "player1": "Rocha H.",
-      "player2": "Trungelliti M.",
-      "odds1": 1.6,
-      "odds2": 2.33,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "15:00",
-      "player1": "Ribecai M. (1)",
-      "player2": "Berrettini J.",
-      "odds1": 1.59,
-      "odds2": 2.26,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "15:00",
-      "player1": "Guerrieri A.",
-      "player2": "Kasnikowski M.",
-      "odds1": 2.31,
-      "odds2": 1.57,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "15:00",
-      "player1": "Forti F.",
-      "player2": "Sachko V. (5)",
-      "odds1": 2.11,
-      "odds2": 1.67,
+      "player1": "Trungelliti M.",
+      "player2": "Rocha H.",
+      "odds1": 2.33,
+      "odds2": 1.6,
       "tour": "ATP"
     },
     {
@@ -535,151 +373,142 @@
     },
     {
       "tournament": "Sao Leopoldo challenger",
-      "time": "15:30",
-      "player1": "Ribeiro E.",
-      "player2": "Dellien H. (2)",
-      "odds1": 3.04,
-      "odds2": 1.35,
+      "time": "15:35",
+      "player1": "Nikles J.",
+      "player2": "Schiessl J.",
+      "odds1": 2.04,
+      "odds2": 1.72,
       "tour": "ATP"
     },
     {
       "tournament": "Sao Leopoldo challenger",
-      "time": "15:30",
-      "player1": "Schiessl J.",
-      "player2": "Nikles J.",
-      "odds1": 1.72,
-      "odds2": 2.04,
+      "time": "15:35",
+      "player1": "Dellien H. (2)",
+      "player2": "Ribeiro E.",
+      "odds1": 1.35,
+      "odds2": 3.04,
       "tour": "ATP"
     },
     {
       "tournament": "Sao Leopoldo challenger",
-      "time": "15:30",
-      "player1": "Zeitune M.",
-      "player2": "Rodriguez L.",
-      "odds1": 2.75,
-      "odds2": 1.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Marrakech",
-      "time": "16:15",
-      "player1": "Buse I. (7)",
-      "player2": "Berrettini M.",
-      "odds1": 2.56,
-      "odds2": 1.51,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "16:15",
-      "player1": "Royer V. (1)",
-      "player2": "Butvilas E.",
+      "time": "15:45",
+      "player1": "Rodriguez L.",
+      "player2": "Zeitune M.",
       "odds1": 1.41,
-      "odds2": 2.76,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "16:15",
-      "player1": "Moro Canas A. (7)",
-      "player2": "Agamenone F.",
-      "odds1": 1.39,
-      "odds2": 2.81,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Marrakech",
-      "time": "16:30",
-      "player1": "Skatov T.",
-      "player2": "Ugo Carabelli C.",
-      "odds1": 3.1,
-      "odds2": 1.36,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "16:30",
-      "player1": "Squire H.",
-      "player2": "Poljicak M.",
-      "odds1": 1.83,
-      "odds2": 1.89,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Barletta challenger",
-      "time": "16:30",
-      "player1": "Lokoli L.",
-      "player2": "Giustino L. (7)",
-      "odds1": 2.83,
-      "odds2": 1.39,
+      "odds2": 2.75,
       "tour": "ATP"
     },
     {
       "tournament": "Bucharest",
-      "time": "17:00",
-      "player1": "Baez S. (5)",
-      "player2": "Gaubas V.",
-      "odds1": 1.23,
-      "odds2": 4.06,
+      "time": "15:55",
+      "player1": "Sakellaridis S.",
+      "player2": "Choinski J.",
+      "odds1": 1.97,
+      "odds2": 2.5,
       "tour": "ATP"
     },
     {
-      "tournament": "Sao Leopoldo challenger",
-      "time": "17:00",
-      "player1": "Barrios Vera M. (1)",
-      "player2": "Dellien M.",
-      "odds1": 1.21,
-      "odds2": 4.17,
+      "tournament": "Bucharest",
+      "time": "15:55",
+      "player1": "Prizmic D.",
+      "player2": "Basilashvili N.",
+      "odds1": 1.36,
+      "odds2": 3.94,
       "tour": "ATP"
     },
     {
-      "tournament": "Sao Leopoldo challenger",
-      "time": "17:00",
-      "player1": "Huertas Del Pino C.",
-      "player2": "Sakamoto P.",
-      "odds1": 3.13,
-      "odds2": 1.31,
+      "tournament": "Marrakech",
+      "time": "16:25",
+      "player1": "Buse I. (7)",
+      "player2": "Berrettini M.",
+      "odds1": 2.55,
+      "odds2": 1.51,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Marrakech",
+      "time": "16:55",
+      "player1": "Ugo Carabelli C.",
+      "player2": "Skatov T.",
+      "odds1": 1.36,
+      "odds2": 3.1,
       "tour": "ATP"
     },
     {
       "tournament": "Charleston",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Andreescu B.",
       "player2": "Galfi D.",
-      "odds1": 1.71,
-      "odds2": 2.12,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Charleston",
-      "time": "17:00",
-      "player1": "Zhang S.",
-      "player2": "Starodubtseva Y.",
-      "odds1": 2.4,
-      "odds2": 1.56,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Charleston",
-      "time": "17:00",
-      "player1": "Sherif M.",
-      "player2": "Yuan Y.",
-      "odds1": 1.63,
-      "odds2": 2.25,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "17:30",
-      "player1": "Martineau M.",
-      "player2": "Vives Marcos P.",
-      "odds1": 1.67,
+      "odds1": 1.73,
       "odds2": 2.1,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Charleston",
+      "time": "17:10",
+      "player1": "Yuan Y.",
+      "player2": "Sherif M.",
+      "odds1": 2.2,
+      "odds2": 1.67,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Charleston",
+      "time": "17:10",
+      "player1": "Starodubtseva Y.",
+      "player2": "Zhang S.",
+      "odds1": 1.51,
+      "odds2": 2.54,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Bucharest",
+      "time": "17:40",
+      "player1": "Molcan A.",
+      "player2": "Arnaldi M.",
+      "odds1": 2.66,
+      "odds2": 1.46,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Bogotá WTA",
+      "time": "17:40",
+      "player1": "Lepchenko V.",
+      "player2": "Karatancheva L.",
+      "odds1": 1.5,
+      "odds2": 2.56,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Bogotá WTA",
+      "time": "17:40",
+      "player1": "Semenistaja D.",
+      "player2": "Seidel E. (5)",
+      "odds1": 1.97,
+      "odds2": 1.82,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Bucharest",
+      "time": "17:45",
+      "player1": "Merida Aguilar D.",
+      "player2": "Virtanen O.",
+      "odds1": 1.41,
+      "odds2": 2.83,
       "tour": "ATP"
     },
     {
       "tournament": "Sao Leopoldo challenger",
-      "time": "17:30",
+      "time": "18:00",
+      "player1": "Dellien M.",
+      "player2": "Barrios Vera M. (1)",
+      "odds1": 4.3,
+      "odds2": 1.2,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sao Leopoldo challenger",
+      "time": "18:05",
       "player1": "La Serna J.",
       "player2": "Justo G.",
       "odds1": 2.6,
@@ -687,255 +516,237 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Bogotá WTA",
-      "time": "17:30",
-      "player1": "Semenistaja D.",
-      "player2": "Seidel E. (5)",
-      "odds1": 2.07,
-      "odds2": 1.75,
+      "tournament": "Sao Leopoldo challenger",
+      "time": "18:10",
+      "player1": "Huertas Del Pino C.",
+      "player2": "Sakamoto P.",
+      "odds1": 3.13,
+      "odds2": 1.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Charleston",
+      "time": "18:15",
+      "player1": "Krueger A.",
+      "player2": "McNally C.",
+      "odds1": 2.0,
+      "odds2": 1.8,
       "tour": "WTA"
     },
     {
+      "tournament": "Bucharest",
+      "time": "18:45",
+      "player1": "Baez S. (5)",
+      "player2": "Gaubas V.",
+      "odds1": 1.23,
+      "odds2": 4.08,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Bogotá WTA",
-      "time": "17:30",
-      "player1": "Karatancheva L.",
-      "player2": "Lepchenko V.",
-      "odds1": 2.53,
+      "time": "19:05",
+      "player1": "Maristany Zuleta De Reales G.",
+      "player2": "Jones F. (7)",
+      "odds1": 2.52,
       "odds2": 1.51,
       "tour": "WTA"
     },
     {
+      "tournament": "Bogotá WTA",
+      "time": "19:10",
+      "player1": "Osorio C. (3)",
+      "player2": "Dolehide C.",
+      "odds1": 1.27,
+      "odds2": 3.74,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Charleston",
+      "time": "19:25",
+      "player1": "Day K.",
+      "player2": "Badosa P.",
+      "odds1": 3.52,
+      "odds2": 1.3,
+      "tour": "WTA"
+    },
+    {
       "tournament": "Marrakech",
-      "time": "17:45",
+      "time": "19:45",
       "player1": "Van Assche L.",
       "player2": "Gaston H.",
-      "odds1": 1.64,
-      "odds2": 2.23,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "17:45",
-      "player1": "Gombos N.",
-      "player2": "Gakhov I. (8)",
-      "odds1": 1.47,
-      "odds2": 2.47,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Menorca challenger",
-      "time": "17:45",
-      "player1": "Brancaccio R.",
-      "player2": "Ofner S. (2)",
-      "odds1": 6.63,
-      "odds2": 1.07,
+      "odds1": 1.66,
+      "odds2": 2.19,
       "tour": "ATP"
     },
     {
       "tournament": "Marrakech",
-      "time": "18:00",
+      "time": "19:55",
       "player1": "Jodar R.",
       "player2": "Lajovic D.",
-      "odds1": 1.6,
-      "odds2": 2.31,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bucharest",
-      "time": "18:30",
-      "player1": "Altmaier D. (6)",
-      "player2": "Martinez P.",
-      "odds1": 1.97,
-      "odds2": 1.81,
+      "odds1": 1.61,
+      "odds2": 2.3,
       "tour": "ATP"
     },
     {
       "tournament": "Sao Leopoldo challenger",
-      "time": "18:30",
-      "player1": "Meligeni Rodrigues Alv (8)",
-      "player2": "Aguilar Cardozo J.",
-      "odds1": 1.38,
-      "odds2": 2.9,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sao Leopoldo challenger",
-      "time": "18:30",
+      "time": "19:55",
       "player1": "De La Fuente S.",
       "player2": "Diaz Acosta F. (7)",
-      "odds1": 8.24,
+      "odds1": 8.2,
       "odds2": 1.06,
       "tour": "ATP"
     },
     {
-      "tournament": "Charleston",
-      "time": "18:30",
-      "player1": "Krueger A.",
-      "player2": "McNally C.",
-      "odds1": 1.96,
-      "odds2": 1.83,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Charleston",
-      "time": "18:30",
-      "player1": "Day K.",
-      "player2": "Badosa P.",
-      "odds1": 3.57,
-      "odds2": 1.29,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Sao Leopoldo challenger",
-      "time": "19:00",
-      "player1": "Guillen Meza A. (4)",
-      "player2": "Ambrogi L.",
-      "odds1": 1.37,
-      "odds2": 2.9,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Bogotá WTA",
-      "time": "19:00",
-      "player1": "Osorio C. (3)",
-      "player2": "Dolehide C.",
-      "odds1": 1.28,
-      "odds2": 3.67,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Bogotá WTA",
-      "time": "19:00",
+      "time": "19:55",
       "player1": "Montgomery R.",
       "player2": "Blinkova A. (6)",
-      "odds1": 2.4,
+      "odds1": 2.41,
       "odds2": 1.56,
       "tour": "WTA"
     },
     {
-      "tournament": "Bogotá WTA",
-      "time": "19:00",
-      "player1": "Jones F. (7)",
-      "player2": "Maristany Zuleta De Reales G.",
-      "odds1": 1.48,
-      "odds2": 2.64,
-      "tour": "WTA"
+      "tournament": "Sao Leopoldo challenger",
+      "time": "20:05",
+      "player1": "Meligeni Rodrigues Alv (8)",
+      "player2": "Aguilar Cardozo J.",
+      "odds1": 1.36,
+      "odds2": 2.97,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Bucharest",
+      "time": "20:10",
+      "player1": "Altmaier D. (6)",
+      "player2": "Martinez P.",
+      "odds1": 1.9,
+      "odds2": 1.87,
+      "tour": "ATP"
     },
     {
       "tournament": "San Luis Potosi chall.",
-      "time": "20:00",
+      "time": "20:10",
       "player1": "Soto M.",
       "player2": "Orlov V.",
       "odds1": 1.24,
-      "odds2": 3.79,
+      "odds2": 3.83,
       "tour": "ATP"
     },
     {
       "tournament": "San Luis Potosi chall.",
-      "time": "20:00",
+      "time": "20:10",
       "player1": "Ayeni A.",
       "player2": "Schoolkate T. (2)",
-      "odds1": 3.67,
-      "odds2": 1.26,
+      "odds1": 4.06,
+      "odds2": 1.21,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Sao Leopoldo challenger",
-      "time": "20:00",
-      "player1": "Heide G.",
-      "player2": "Boscardin Dias P.",
-      "odds1": 1.37,
-      "odds2": 2.92,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sao Leopoldo challenger",
-      "time": "20:00",
-      "player1": "Zarate C.",
-      "player2": "Varillas J.",
-      "odds1": 4.56,
-      "odds2": 1.18,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Charleston",
-      "time": "20:00",
-      "player1": "Kudermetova P.",
-      "player2": "Oliynykova O.",
-      "odds1": 2.07,
-      "odds2": 1.75,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Charleston",
-      "time": "20:00",
-      "player1": "Tomova V.",
-      "player2": "Kalinskaya A. (8)",
-      "odds1": 4.61,
-      "odds2": 1.19,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Houston",
-      "time": "20:30",
-      "player1": "Basavareddy N.",
-      "player2": "Draxl L.",
-      "odds1": 1.81,
-      "odds2": 1.98,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bogotá WTA",
-      "time": "20:30",
-      "player1": "Arango E.",
-      "player2": "Carle M.",
-      "odds1": 1.51,
-      "odds2": 2.53,
-      "tour": "WTA"
     },
     {
       "tournament": "Bogotá WTA",
       "time": "20:30",
       "player1": "Rakotomanga Rajaonah T.",
       "player2": "Bouzas Maneiro J. (2)",
-      "odds1": 4.02,
-      "odds2": 1.24,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Bogotá WTA",
-      "time": "20:30",
-      "player1": "Burillo Escorihuela I.",
-      "player2": "Ortenzi J.",
-      "odds1": 2.92,
-      "odds2": 1.4,
+      "odds1": 4.11,
+      "odds2": 1.23,
       "tour": "WTA"
     },
     {
       "tournament": "Houston",
+      "time": "20:45",
+      "player1": "Basavareddy N.",
+      "player2": "Draxl L.",
+      "odds1": 1.87,
+      "odds2": 1.91,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sao Leopoldo challenger",
       "time": "21:00",
-      "player1": "Etcheverry T. (6)",
-      "player2": "Gomez F.",
-      "odds1": 1.19,
-      "odds2": 4.61,
+      "player1": "Guillen Meza A. (4)",
+      "player2": "Ambrogi L.",
+      "odds1": 1.36,
+      "odds2": 2.97,
       "tour": "ATP"
     },
     {
       "tournament": "Charleston",
-      "time": "21:30",
-      "player1": "Bejlek S. (13)",
-      "player2": "Urhobo A.",
-      "odds1": 1.44,
-      "odds2": 2.74,
+      "time": "21:05",
+      "player1": "Kudermetova P.",
+      "player2": "Oliynykova O.",
+      "odds1": 2.09,
+      "odds2": 1.73,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Houston",
+      "time": "21:10",
+      "player1": "Etcheverry T. (6)",
+      "player2": "Gomez F.",
+      "odds1": 1.19,
+      "odds2": 4.62,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Charleston",
+      "time": "21:15",
+      "player1": "Tomova V.",
+      "player2": "Kalinskaya A. (8)",
+      "odds1": 4.35,
+      "odds2": 1.21,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Bogotá WTA",
+      "time": "21:15",
+      "player1": "Arango E.",
+      "player2": "Carle M.",
+      "odds1": 1.47,
+      "odds2": 2.65,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Sao Leopoldo challenger",
+      "time": "21:30",
+      "player1": "Zarate C.",
+      "player2": "Varillas J.",
+      "odds1": 4.44,
+      "odds2": 1.18,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Bogotá WTA",
+      "time": "21:30",
+      "player1": "Burillo Escorihuela I.",
+      "player2": "Ortenzi J.",
+      "odds1": 2.9,
+      "odds2": 1.4,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "San Luis Potosi chall.",
+      "time": "21:45",
+      "player1": "Denolly C.",
+      "player2": "Mckennon M.",
+      "odds1": 1.44,
+      "odds2": 2.65,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sao Leopoldo challenger",
+      "time": "21:45",
+      "player1": "Heide G.",
+      "player2": "Boscardin Dias P.",
+      "odds1": 1.37,
+      "odds2": 2.89,
+      "tour": "ATP"
     },
     {
       "tournament": "San Luis Potosi chall.",
       "time": "22:00",
       "player1": "Moreno De Alboran N.",
       "player2": "Tobon M.",
-      "odds1": 1.28,
-      "odds2": 3.4,
+      "odds1": 1.29,
+      "odds2": 3.39,
       "tour": "ATP"
     },
     {
@@ -943,17 +754,8 @@
       "time": "22:00",
       "player1": "Winegar T.",
       "player2": "Alujas R.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Luis Potosi chall.",
-      "time": "22:00",
-      "player1": "Denolly C.",
-      "player2": "Mckennon M.",
-      "odds1": 1.45,
-      "odds2": 2.61,
+      "odds1": 2.43,
+      "odds2": 1.68,
       "tour": "ATP"
     },
     {
@@ -961,17 +763,35 @@
       "time": "22:00",
       "player1": "Vandewinkel H.",
       "player2": "Costoulas S.",
-      "odds1": 1.46,
+      "odds1": 1.47,
       "odds2": 2.68,
       "tour": "WTA"
     },
     {
-      "tournament": "Houston",
+      "tournament": "Charleston",
       "time": "22:30",
+      "player1": "Bejlek S. (13)",
+      "player2": "Urhobo A.",
+      "odds1": 1.35,
+      "odds2": 3.14,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Houston",
+      "time": "22:45",
       "player1": "Damm M.",
       "player2": "Nakashima B. (5)",
-      "odds1": 3.34,
+      "odds1": 3.38,
       "odds2": 1.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "San Luis Potosi chall.",
+      "time": "23:15",
+      "player1": "Marrero Curbelo I.",
+      "player2": "Delaney J.",
+      "odds1": 1.39,
+      "odds2": 2.85,
       "tour": "ATP"
     },
     {
@@ -980,7 +800,7 @@
       "player1": "Kozlov S. (7)",
       "player2": "Magadan A.",
       "odds1": 1.13,
-      "odds2": 5.48,
+      "odds2": 5.5,
       "tour": "ATP"
     },
     {
@@ -988,17 +808,8 @@
       "time": "23:30",
       "player1": "Ficovich J. (4)",
       "player2": "Alves M.",
-      "odds1": 1.38,
-      "odds2": 2.88,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Luis Potosi chall.",
-      "time": "23:30",
-      "player1": "Marrero Curbelo I.",
-      "player2": "Delaney J.",
       "odds1": 1.39,
-      "odds2": 2.8,
+      "odds2": 2.86,
       "tour": "ATP"
     },
     {
@@ -1006,7 +817,7 @@
       "time": "23:30",
       "player1": "Dutra da Silva D.",
       "player2": "Prado Angelo J. (3)",
-      "odds1": 3.1,
+      "odds1": 3.08,
       "odds2": 1.34,
       "tour": "ATP"
     }
