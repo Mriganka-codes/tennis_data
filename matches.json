@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T13:04:23.958365",
+  "last_updated": "2026-04-19T18:54:13.557440",
   "count": 63,
   "matches": [
     {
@@ -313,8 +313,8 @@
       "time": "12:50",
       "player1": "La Vela G. (2)",
       "player2": "Bilozertsev N.",
-      "odds1": 1.6,
-      "odds2": 2.19,
+      "odds1": 1.62,
+      "odds2": 2.18,
       "tour": "ATP"
     },
     {
@@ -347,10 +347,10 @@
     {
       "tournament": "Munich",
       "time": "13:40",
-      "player1": "Cobolli F. (4)",
-      "player2": "Shelton B. (2)",
-      "odds1": 1.89,
-      "odds2": 1.91,
+      "player1": "Shelton B. (2)",
+      "player2": "Cobolli F. (4)",
+      "odds1": 1.91,
+      "odds2": 1.89,
       "tour": "ATP"
     },
     {
@@ -365,19 +365,19 @@
     {
       "tournament": "Rome 2 challenger",
       "time": "13:45",
-      "player1": "Spadola A.",
-      "player2": "Caniato C. (10)",
-      "odds1": 7.15,
-      "odds2": 1.08,
+      "player1": "Caniato C. (10)",
+      "player2": "Spadola A.",
+      "odds1": 1.08,
+      "odds2": 7.15,
       "tour": "ATP"
     },
     {
       "tournament": "Oeiras challenger",
       "time": "14:10",
-      "player1": "Royer V.",
-      "player2": "Safiullin R.",
-      "odds1": 1.72,
-      "odds2": 2.04,
+      "player1": "Safiullin R.",
+      "player2": "Royer V.",
+      "odds1": 2.04,
+      "odds2": 1.72,
       "tour": "ATP"
     },
     {
@@ -390,21 +390,12 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Rome 2 challenger",
-      "time": "14:45",
-      "player1": "MacKenzie J.",
-      "player2": "Cretu C. (11)",
-      "odds1": 2.16,
-      "odds2": 1.63,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Abidjan challenger",
-      "time": "14:50",
-      "player1": "Koffi M.",
-      "player2": "Schifris J. (9)",
-      "odds1": 7.98,
-      "odds2": 1.06,
+      "time": "15:00",
+      "player1": "Schifris J. (9)",
+      "player2": "Koffi M.",
+      "odds1": 1.06,
+      "odds2": 7.98,
       "tour": "ATP"
     },
     {
@@ -419,154 +410,163 @@
     {
       "tournament": "Rome 2 challenger",
       "time": "15:00",
-      "player1": "Henning P. (3)",
-      "player2": "Jorda Sanchis D.",
-      "odds1": 1.6,
-      "odds2": 2.23,
+      "player1": "Jorda Sanchis D.",
+      "player2": "Henning P. (3)",
+      "odds1": 2.23,
+      "odds2": 1.6,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Rome 2 challenger",
+      "time": "15:25",
+      "player1": "Cretu C. (11)",
+      "player2": "MacKenzie J.",
+      "odds1": 2.16,
+      "odds2": 1.63,
       "tour": "ATP"
     },
     {
       "tournament": "Rouen WTA",
-      "time": "15:10",
+      "time": "15:40",
       "player1": "Kostyuk M. (1)",
       "player2": "Podrez V.",
       "odds1": 1.15,
-      "odds2": 5.26,
+      "odds2": 5.29,
       "tour": "WTA"
     },
     {
       "tournament": "Barcelona",
-      "time": "16:00",
-      "player1": "Rublev A. (5)",
-      "player2": "Fils A. (9)",
-      "odds1": 2.96,
-      "odds2": 1.4,
+      "time": "16:10",
+      "player1": "Fils A. (9)",
+      "player2": "Rublev A. (5)",
+      "odds1": 1.4,
+      "odds2": 2.95,
       "tour": "ATP"
     },
     {
       "tournament": "Savannah challenger",
-      "time": "16:00",
-      "player1": "Colby R.",
-      "player2": "Langmo C. (9)",
-      "odds1": 2.98,
-      "odds2": 1.35,
+      "time": "16:10",
+      "player1": "Hardt N. (12)",
+      "player2": "Kozlov B.",
+      "odds1": 1.07,
+      "odds2": 6.7,
       "tour": "ATP"
     },
     {
       "tournament": "Savannah challenger",
-      "time": "16:00",
+      "time": "16:10",
+      "player1": "Langmo C. (9)",
+      "player2": "Colby R.",
+      "odds1": 1.35,
+      "odds2": 2.98,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "16:10",
       "player1": "Shick B. (6)",
       "player2": "Kirchheimer S.",
-      "odds1": 1.71,
-      "odds2": 2.04,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Savannah challenger",
-      "time": "16:00",
-      "player1": "Kozlov B.",
-      "player2": "Hardt N. (12)",
-      "odds1": 6.69,
-      "odds2": 1.07,
+      "odds1": 1.65,
+      "odds2": 2.14,
       "tour": "ATP"
     },
     {
       "tournament": "Abidjan challenger",
-      "time": "16:30",
+      "time": "16:25",
       "player1": "Weightman O. (2)",
       "player2": "Perez B. (8)",
       "odds1": 1.08,
-      "odds2": 6.88,
+      "odds2": 6.83,
       "tour": "ATP"
     },
     {
       "tournament": "Savannah challenger",
-      "time": "17:30",
-      "player1": "Johns G. (4)",
-      "player2": "Johnson A.",
-      "odds1": 1.46,
-      "odds2": 2.57,
+      "time": "17:40",
+      "player1": "Cid Subervi R. (10)",
+      "player2": "Bigun K.",
+      "odds1": 2.05,
+      "odds2": 1.7,
       "tour": "ATP"
     },
     {
       "tournament": "Savannah challenger",
-      "time": "17:30",
-      "player1": "Bigun K.",
-      "player2": "Cid Subervi R. (10)",
-      "odds1": 1.71,
-      "odds2": 1.97,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Savannah challenger",
-      "time": "17:30",
-      "player1": "Feldbausch K. (5)",
-      "player2": "Popko D.",
-      "odds1": 1.34,
-      "odds2": 2.85,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Savannah challenger",
-      "time": "18:20",
-      "player1": "Gallagher G.",
-      "player2": "Perot R. (7)",
-      "odds1": 7.98,
-      "odds2": 1.09,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Tallahassee chall.",
-      "time": "18:30",
-      "player1": "Reis Da Silva J.",
-      "player2": "Tabur C. (5)",
-      "odds1": 2.41,
-      "odds2": 1.53,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Savannah challenger",
-      "time": "19:00",
-      "player1": "Dutra da Silva D. (3)",
-      "player2": "Mayo A.",
-      "odds1": 1.43,
-      "odds2": 2.58,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Savannah challenger",
-      "time": "19:00",
-      "player1": "Sheehy J.",
-      "player2": "Vandecasteele Q. (8)",
-      "odds1": 2.64,
+      "time": "18:00",
+      "player1": "Johnson A.",
+      "player2": "Johns G. (4)",
+      "odds1": 2.72,
       "odds2": 1.41,
       "tour": "ATP"
     },
     {
+      "tournament": "Tallahassee chall.",
+      "time": "18:40",
+      "player1": "Tabur C. (5)",
+      "player2": "Reis Da Silva J.",
+      "odds1": 1.45,
+      "odds2": 2.62,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Savannah challenger",
-      "time": "20:30",
+      "time": "18:40",
+      "player1": "Feldbausch K. (5)",
+      "player2": "Popko D.",
+      "odds1": 1.32,
+      "odds2": 3.17,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "19:20",
+      "player1": "Dutra da Silva D. (3)",
+      "player2": "Mayo A.",
+      "odds1": 1.47,
+      "odds2": 2.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "20:00",
+      "player1": "Sheehy J.",
+      "player2": "Vandecasteele Q. (8)",
+      "odds1": 2.64,
+      "odds2": 1.44,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "21:15",
+      "player1": "Gallagher G.",
+      "player2": "Perot R. (7)",
+      "odds1": 7.82,
+      "odds2": 1.44,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "21:30",
       "player1": "Zink T. (1)",
       "player2": "Karki R.",
-      "odds1": 1.12,
-      "odds2": 5.74,
+      "odds1": 1.15,
+      "odds2": 4.99,
       "tour": "ATP"
     },
     {
       "tournament": "Savannah challenger",
-      "time": "20:30",
-      "player1": "Magadan A.",
-      "player2": "Kuzuhara B. (11)",
-      "odds1": 2.86,
-      "odds2": 1.38,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Savannah challenger",
-      "time": "20:30",
+      "time": "21:45",
       "player1": "Kicker N. (2)",
       "player2": "Ingildsen J.",
-      "odds1": 1.16,
-      "odds2": 4.48,
+      "odds1": 1.15,
+      "odds2": 4.81,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "22:45",
+      "player1": "Magadan A.",
+      "player2": "Kuzuhara B. (11)",
+      "odds1": 3.02,
+      "odds2": 1.34,
       "tour": "ATP"
     }
   ]
