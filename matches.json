@@ -1,293 +1,266 @@
 {
-  "last_updated": "2026-04-20T02:50:12.084995",
-  "count": 92,
+  "last_updated": "2026-04-20T08:09:58.532658",
+  "count": 95,
   "matches": [
     {
       "tournament": "Gwangju challenger",
-      "time": "04:00",
-      "player1": "Tokuda R. (2)",
-      "player2": "Sharipov M. (12)",
-      "odds1": 3.35,
-      "odds2": 1.3,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Gwangju challenger",
       "time": "04:10",
-      "player1": "Daniel T. (6)",
-      "player2": "Shimizu Y. (11)",
-      "odds1": 1.6,
-      "odds2": 2.23,
+      "player1": "Shimizu Y. (11)",
+      "player2": "Daniel T. (6)",
+      "odds1": 2.23,
+      "odds2": 1.6,
       "tour": "ATP"
     },
     {
       "tournament": "Gwangju challenger",
       "time": "04:15",
-      "player1": "Zahraj P.",
-      "player2": "Masur D. (10)",
-      "odds1": 2.55,
-      "odds2": 1.47,
+      "player1": "Masur D. (10)",
+      "player2": "Zahraj P.",
+      "odds1": 1.47,
+      "odds2": 2.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Gwangju challenger",
+      "time": "04:15",
+      "player1": "Sharipov M. (12)",
+      "player2": "Tokuda R. (2)",
+      "odds1": 1.3,
+      "odds2": 3.35,
       "tour": "ATP"
     },
     {
       "tournament": "Gwangju challenger",
       "time": "05:30",
-      "player1": "Wu T. (3)",
-      "player2": "Paris T. (8)",
-      "odds1": 1.34,
-      "odds2": 3.1,
+      "player1": "Matsuoka H. (9)",
+      "player2": "Samrej K.",
+      "odds1": 1.61,
+      "odds2": 2.21,
       "tour": "ATP"
     },
     {
       "tournament": "Gwangju challenger",
-      "time": "05:30",
-      "player1": "Samrej K.",
-      "player2": "Matsuoka H. (9)",
-      "odds1": 2.21,
-      "odds2": 1.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Gwangju challenger",
-      "time": "05:30",
+      "time": "05:45",
       "player1": "Zhukayev B. (1)",
       "player2": "Moriya H.",
-      "odds1": 1.38,
-      "odds2": 2.88,
+      "odds1": 1.37,
+      "odds2": 2.89,
       "tour": "ATP"
     },
     {
       "tournament": "Gwangju challenger",
-      "time": "06:30",
+      "time": "05:55",
+      "player1": "Wu T. (3)",
+      "player2": "Paris T. (8)",
+      "odds1": 1.33,
+      "odds2": 3.13,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "07:10",
+      "player1": "Krutykh O. (12)",
+      "player2": "Staeheli L. (6)",
+      "odds1": 1.44,
+      "odds2": 2.66,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "07:10",
+      "player1": "Poljicak M. (1)",
+      "player2": "Klok D. (7)",
+      "odds1": 1.04,
+      "odds2": 10.02,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "07:10",
+      "player1": "Kirkin E. (4)",
+      "player2": "Wehnelt K. (11)",
+      "odds1": 1.16,
+      "odds2": 4.9,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Gwangju challenger",
+      "time": "07:20",
       "player1": "Chidekh C.",
       "player2": "Wong C. (3)",
-      "odds1": 2.61,
+      "odds1": 2.63,
       "odds2": 1.45,
       "tour": "ATP"
     },
     {
       "tournament": "Gwangju challenger",
-      "time": "06:30",
+      "time": "07:45",
       "player1": "Lajal M. (6)",
       "player2": "Jones M.",
-      "odds1": 1.36,
-      "odds2": 2.98,
+      "odds1": 1.35,
+      "odds2": 3.05,
       "tour": "ATP"
     },
     {
       "tournament": "Gwangju challenger",
-      "time": "06:30",
+      "time": "08:35",
       "player1": "Hsu Y.",
       "player2": "Cassone M.",
-      "odds1": 1.77,
-      "odds2": 1.95,
+      "odds1": 1.69,
+      "odds2": 2.09,
       "tour": "ATP"
     },
     {
       "tournament": "Shymkent challenger",
-      "time": "07:00",
-      "player1": "Poljicak M. (1)",
-      "player2": "Klok D. (7)",
-      "odds1": 1.04,
-      "odds2": 9.6,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "07:00",
-      "player1": "Kirkin E. (4)",
-      "player2": "Wehnelt K. (11)",
-      "odds1": 1.16,
-      "odds2": 4.88,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "07:00",
-      "player1": "Staeheli L. (6)",
-      "player2": "Krutykh O. (12)",
-      "odds1": 2.66,
-      "odds2": 1.44,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "08:30",
-      "player1": "La Vela G. (2)",
-      "player2": "Ostapenkov D. (9)",
-      "odds1": 1.57,
-      "odds2": 2.27,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "08:30",
+      "time": "09:05",
       "player1": "Orlov V. (3)",
       "player2": "Campana Lee G. (8)",
-      "odds1": 2.05,
-      "odds2": 1.7,
+      "odds1": 2.06,
+      "odds2": 1.71,
       "tour": "ATP"
     },
     {
       "tournament": "Shymkent challenger",
-      "time": "08:30",
+      "time": "09:25",
+      "player1": "La Vela G. (2)",
+      "player2": "Ostapenkov D. (9)",
+      "odds1": 1.56,
+      "odds2": 2.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "09:40",
       "player1": "Atlangeriev B.",
       "player2": "Chekhov A.",
-      "odds1": 1.18,
-      "odds2": 3.81,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "10:00",
-      "player1": "Gadamauri B.",
-      "player2": "Cuenin S. (7)",
-      "odds1": 1.77,
-      "odds2": 1.95,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "10:00",
-      "player1": "Berkieta T.",
-      "player2": "Sels J.",
-      "odds1": 1.77,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "10:00",
-      "player1": "Kopp S. (5)",
-      "player2": "Zhalgasbay D.",
-      "odds1": 1.07,
-      "odds2": 7.78,
+      "odds1": 1.19,
+      "odds2": 4.41,
       "tour": "ATP"
     },
     {
       "tournament": "Madrid",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Garin C. (2)",
       "player2": "Jarry N.",
-      "odds1": 1.42,
-      "odds2": 2.76,
+      "odds1": 1.39,
+      "odds2": 2.88,
       "tour": "ATP"
     },
     {
       "tournament": "Madrid",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Pellegrino A.",
       "player2": "Damm M. (24)",
-      "odds1": 1.83,
+      "odds1": 1.84,
       "odds2": 1.91,
       "tour": "ATP"
     },
     {
       "tournament": "Madrid",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Svajda Z. (3)",
       "player2": "Sakamoto R.",
-      "odds1": 2.26,
-      "odds2": 1.6,
+      "odds1": 2.3,
+      "odds2": 1.58,
       "tour": "ATP"
     },
     {
       "tournament": "Madrid",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Gea A.",
       "player2": "Gaubas V. (22)",
       "odds1": 2.06,
-      "odds2": 1.72,
+      "odds2": 1.73,
       "tour": "ATP"
     },
     {
       "tournament": "Rome 2 challenger",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Martinez A. (5)",
       "player2": "Guerrieri A. (7)",
-      "odds1": 2.36,
-      "odds2": 1.53,
+      "odds1": 2.33,
+      "odds2": 1.55,
       "tour": "ATP"
     },
     {
       "tournament": "Rome 2 challenger",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Ribecai M. (2)",
       "player2": "Romano F. (12)",
-      "odds1": 1.38,
-      "odds2": 2.81,
+      "odds1": 1.4,
+      "odds2": 2.76,
       "tour": "ATP"
     },
     {
       "tournament": "Rome 2 challenger",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Krumich M. (6)",
       "player2": "Vasami J.",
-      "odds1": 1.57,
-      "odds2": 2.27,
+      "odds1": 1.63,
+      "odds2": 2.16,
       "tour": "ATP"
     },
     {
       "tournament": "Madrid WTA",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Waltert S. (7)",
       "player2": "Papamichail D.",
       "odds1": 1.2,
-      "odds2": 4.24,
+      "odds2": 4.36,
       "tour": "WTA"
     },
     {
       "tournament": "Madrid WTA",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Roura Llaverias R.",
       "player2": "Salkova D. (24)",
-      "odds1": 20.09,
-      "odds2": 1.01,
+      "odds1": 16.36,
+      "odds2": 1.02,
       "tour": "WTA"
     },
     {
       "tournament": "Madrid WTA",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Bartunkova N. (10)",
       "player2": "Kawa K.",
       "odds1": 1.38,
-      "odds2": 2.9,
+      "odds2": 2.93,
       "tour": "WTA"
     },
     {
       "tournament": "Madrid WTA",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Charaeva A.",
       "player2": "Sasnovich A. (18)",
-      "odds1": 3.63,
+      "odds1": 3.69,
       "odds2": 1.27,
       "tour": "WTA"
     },
     {
-      "tournament": "Rome 2 challenger",
+      "tournament": "Shymkent challenger",
+      "time": "10:40",
+      "player1": "Kopp S. (5)",
+      "player2": "Zhalgasbay D.",
+      "odds1": 1.06,
+      "odds2": 8.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "11:00",
+      "player1": "Gadamauri B.",
+      "player2": "Cuenin S. (7)",
+      "odds1": 1.79,
+      "odds2": 1.94,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
       "time": "11:10",
-      "player1": "Jorda Sanchis D.",
-      "player2": "Cretu C. (11)",
-      "odds1": 1.76,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "11:30",
-      "player1": "Gulin S.",
-      "player2": "Rehberg M.",
-      "odds1": 2.41,
-      "odds2": 1.52,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent challenger",
-      "time": "11:30",
-      "player1": "Bar Biryukov P. (8)",
-      "player2": "Brouwer G.",
-      "odds1": 2.8,
-      "odds2": 1.4,
+      "player1": "Berkieta T.",
+      "player2": "Sels J.",
+      "odds1": 1.75,
+      "odds2": 2.0,
       "tour": "ATP"
     },
     {
@@ -295,7 +268,7 @@
       "time": "11:30",
       "player1": "Vukic A. (5)",
       "player2": "Llamas Ruiz P.",
-      "odds1": 4.32,
+      "odds1": 4.38,
       "odds2": 1.2,
       "tour": "ATP"
     },
@@ -304,8 +277,8 @@
       "time": "11:30",
       "player1": "Moller E.",
       "player2": "Gaston H. (18)",
-      "odds1": 2.46,
-      "odds2": 1.51,
+      "odds1": 2.57,
+      "odds2": 1.48,
       "tour": "ATP"
     },
     {
@@ -314,7 +287,7 @@
       "player1": "Wu Y. (11)",
       "player2": "Dhamne M.",
       "odds1": 1.16,
-      "odds2": 5.0,
+      "odds2": 5.05,
       "tour": "ATP"
     },
     {
@@ -322,7 +295,7 @@
       "time": "11:30",
       "player1": "Virtanen O.",
       "player2": "Droguet T. (17)",
-      "odds1": 2.04,
+      "odds1": 2.07,
       "odds2": 1.73,
       "tour": "ATP"
     },
@@ -331,8 +304,17 @@
       "time": "11:30",
       "player1": "Damas M. (1)",
       "player2": "Caniato C. (10)",
-      "odds1": 1.78,
-      "odds2": 1.85,
+      "odds1": 1.79,
+      "odds2": 1.93,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Rome 2 challenger",
+      "time": "11:30",
+      "player1": "Jorda Sanchis D.",
+      "player2": "Cretu C. (11)",
+      "odds1": 1.8,
+      "odds2": 1.91,
       "tour": "ATP"
     },
     {
@@ -340,8 +322,8 @@
       "time": "11:30",
       "player1": "Forejtek J. (4)",
       "player2": "Carboni L.",
-      "odds1": 1.35,
-      "odds2": 2.97,
+      "odds1": 1.33,
+      "odds2": 3.12,
       "tour": "ATP"
     },
     {
@@ -350,7 +332,7 @@
       "player1": "Vekic D. (3)",
       "player2": "Jeanjean L.",
       "odds1": 1.25,
-      "odds2": 3.79,
+      "odds2": 3.87,
       "tour": "WTA"
     },
     {
@@ -358,8 +340,8 @@
       "time": "11:30",
       "player1": "Masarova R.",
       "player2": "Sramkova R. (23)",
-      "odds1": 1.85,
-      "odds2": 1.9,
+      "odds1": 1.88,
+      "odds2": 1.87,
       "tour": "WTA"
     },
     {
@@ -367,8 +349,8 @@
       "time": "11:30",
       "player1": "Blinkova A. (6)",
       "player2": "Brancaccio N.",
-      "odds1": 1.59,
-      "odds2": 2.29,
+      "odds1": 1.61,
+      "odds2": 2.27,
       "tour": "WTA"
     },
     {
@@ -376,9 +358,27 @@
       "time": "11:30",
       "player1": "Kalieva E.",
       "player2": "Lamens S. (21)",
-      "odds1": 2.0,
-      "odds2": 1.76,
+      "odds1": 1.89,
+      "odds2": 1.87,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "12:10",
+      "player1": "Bar Biryukov P. (8)",
+      "player2": "Brouwer G.",
+      "odds1": 2.85,
+      "odds2": 1.39,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent challenger",
+      "time": "12:30",
+      "player1": "Gulin S.",
+      "player2": "Rehberg M.",
+      "odds1": 2.42,
+      "odds2": 1.52,
+      "tour": "ATP"
     },
     {
       "tournament": "Rome 2 challenger",
@@ -386,7 +386,7 @@
       "player1": "Svrcina D. (1)",
       "player2": "Vasilev A.",
       "odds1": 1.1,
-      "odds2": 6.25,
+      "odds2": 6.49,
       "tour": "ATP"
     },
     {
@@ -394,8 +394,8 @@
       "time": "13:00",
       "player1": "Squire H.",
       "player2": "Sakellaridis S. (7)",
-      "odds1": 2.49,
-      "odds2": 1.49,
+      "odds1": 2.48,
+      "odds2": 1.5,
       "tour": "ATP"
     },
     {
@@ -404,7 +404,7 @@
       "player1": "Trungelliti M. (1)",
       "player2": "Gojo B.",
       "odds1": 1.86,
-      "odds2": 1.87,
+      "odds2": 1.89,
       "tour": "ATP"
     },
     {
@@ -412,7 +412,7 @@
       "time": "13:00",
       "player1": "Harris B.",
       "player2": "Merida Aguilar D. (13)",
-      "odds1": 3.73,
+      "odds1": 3.76,
       "odds2": 1.26,
       "tour": "ATP"
     },
@@ -421,8 +421,8 @@
       "time": "13:00",
       "player1": "Halys Q. (6)",
       "player2": "Faria J.",
-      "odds1": 1.78,
-      "odds2": 1.97,
+      "odds1": 1.82,
+      "odds2": 1.94,
       "tour": "ATP"
     },
     {
@@ -430,8 +430,8 @@
       "time": "13:00",
       "player1": "Harris L.",
       "player2": "McDonald M. (23)",
-      "odds1": 1.54,
-      "odds2": 2.4,
+      "odds1": 1.53,
+      "odds2": 2.43,
       "tour": "ATP"
     },
     {
@@ -439,8 +439,8 @@
       "time": "13:00",
       "player1": "Udvardy P. (4)",
       "player2": "Pareja J.",
-      "odds1": 1.6,
-      "odds2": 2.26,
+      "odds1": 1.59,
+      "odds2": 2.29,
       "tour": "WTA"
     },
     {
@@ -448,8 +448,8 @@
       "time": "13:00",
       "player1": "Grant T.",
       "player2": "Erjavec V. (15)",
-      "odds1": 2.13,
-      "odds2": 1.66,
+      "odds1": 2.11,
+      "odds2": 1.7,
       "tour": "WTA"
     },
     {
@@ -458,7 +458,7 @@
       "player1": "Volynets K. (5)",
       "player2": "Dodin O.",
       "odds1": 1.08,
-      "odds2": 7.23,
+      "odds2": 7.55,
       "tour": "WTA"
     },
     {
@@ -466,8 +466,8 @@
       "time": "13:00",
       "player1": "Sorribes Tormo S.",
       "player2": "Korpatsch T. (14)",
-      "odds1": 1.69,
-      "odds2": 2.1,
+      "odds1": 1.67,
+      "odds2": 2.14,
       "tour": "WTA"
     },
     {
@@ -475,8 +475,8 @@
       "time": "14:30",
       "player1": "Bernet H.",
       "player2": "Pavlovic L.",
-      "odds1": 1.86,
-      "odds2": 1.76,
+      "odds1": 2.29,
+      "odds2": 1.53,
       "tour": "ATP"
     },
     {
@@ -485,7 +485,7 @@
       "player1": "Vallejo A. (8)",
       "player2": "Martinez P.",
       "odds1": 1.56,
-      "odds2": 2.34,
+      "odds2": 2.36,
       "tour": "ATP"
     },
     {
@@ -493,8 +493,8 @@
       "time": "14:30",
       "player1": "Rocha H.",
       "player2": "Choinski J. (19)",
-      "odds1": 1.54,
-      "odds2": 2.37,
+      "odds1": 1.52,
+      "odds2": 2.46,
       "tour": "ATP"
     },
     {
@@ -503,7 +503,7 @@
       "player1": "Van Assche L. (10)",
       "player2": "Dedura-Palomero D.",
       "odds1": 1.38,
-      "odds2": 2.91,
+      "odds2": 2.94,
       "tour": "ATP"
     },
     {
@@ -511,8 +511,8 @@
       "time": "14:30",
       "player1": "Blanch D.",
       "player2": "Bonzi B. (15)",
-      "odds1": 2.21,
-      "odds2": 1.62,
+      "odds1": 2.22,
+      "odds2": 1.63,
       "tour": "ATP"
     },
     {
@@ -521,7 +521,7 @@
       "player1": "Starodubtseva Y. (1)",
       "player2": "Stefanini L.",
       "odds1": 1.08,
-      "odds2": 7.25,
+      "odds2": 7.84,
       "tour": "WTA"
     },
     {
@@ -529,8 +529,8 @@
       "time": "14:30",
       "player1": "Tomova V.",
       "player2": "Pavlyuchenkova A. (20)",
-      "odds1": 1.74,
-      "odds2": 2.02,
+      "odds1": 1.73,
+      "odds2": 2.05,
       "tour": "WTA"
     },
     {
@@ -538,8 +538,8 @@
       "time": "14:30",
       "player1": "Galfi D. (8)",
       "player2": "Romero Gormaz L.",
-      "odds1": 1.51,
-      "odds2": 2.48,
+      "odds1": 1.5,
+      "odds2": 2.51,
       "tour": "WTA"
     },
     {
@@ -548,7 +548,7 @@
       "player1": "Radivojevic L.",
       "player2": "Vidmanova D. (19)",
       "odds1": 1.8,
-      "odds2": 1.94,
+      "odds2": 1.95,
       "tour": "WTA"
     },
     {
@@ -556,8 +556,8 @@
       "time": "16:00",
       "player1": "Kovacevic A. (9)",
       "player2": "Echargui M.",
-      "odds1": 1.59,
-      "odds2": 2.28,
+      "odds1": 1.55,
+      "odds2": 2.39,
       "tour": "ATP"
     },
     {
@@ -566,7 +566,7 @@
       "player1": "Budkov Kjaer N.",
       "player2": "Maestrelli F. (16)",
       "odds1": 1.63,
-      "odds2": 2.2,
+      "odds2": 2.22,
       "tour": "ATP"
     },
     {
@@ -574,8 +574,8 @@
       "time": "16:00",
       "player1": "Hijikata R. (12)",
       "player2": "Rodesch C.",
-      "odds1": 1.89,
-      "odds2": 1.85,
+      "odds1": 1.88,
+      "odds2": 1.87,
       "tour": "ATP"
     },
     {
@@ -583,7 +583,7 @@
       "time": "16:00",
       "player1": "Lajovic D.",
       "player2": "Arnaldi M. (14)",
-      "odds1": 2.02,
+      "odds1": 2.03,
       "odds2": 1.74,
       "tour": "ATP"
     },
@@ -592,8 +592,8 @@
       "time": "16:00",
       "player1": "Johnson A.",
       "player2": "Cid Subervi R. (10)",
-      "odds1": 1.87,
-      "odds2": 1.69,
+      "odds1": 1.93,
+      "odds2": 1.75,
       "tour": "ATP"
     },
     {
@@ -611,7 +611,7 @@
       "player1": "Feldbausch K. (5)",
       "player2": "Langmo C. (9)",
       "odds1": 1.3,
-      "odds2": 3.24,
+      "odds2": 3.31,
       "tour": "ATP"
     },
     {
@@ -620,7 +620,7 @@
       "player1": "Vandewinkel H. (11)",
       "player2": "Fruhvirtova L.",
       "odds1": 1.31,
-      "odds2": 3.3,
+      "odds2": 3.32,
       "tour": "WTA"
     },
     {
@@ -628,8 +628,8 @@
       "time": "16:00",
       "player1": "Leme Da Silva N.",
       "player2": "Snigur D. (13)",
-      "odds1": 3.1,
-      "odds2": 1.34,
+      "odds1": 3.07,
+      "odds2": 1.35,
       "tour": "WTA"
     },
     {
@@ -637,8 +637,8 @@
       "time": "16:00",
       "player1": "Parry D. (12)",
       "player2": "Stephens S.",
-      "odds1": 1.42,
-      "odds2": 2.76,
+      "odds1": 1.41,
+      "odds2": 2.8,
       "tour": "WTA"
     },
     {
@@ -646,7 +646,7 @@
       "time": "16:00",
       "player1": "Bassols Ribera M.",
       "player2": "Kalinina A. (16)",
-      "odds1": 4.64,
+      "odds1": 4.69,
       "odds2": 1.18,
       "tour": "WTA"
     },
@@ -655,8 +655,8 @@
       "time": "16:30",
       "player1": "Barrena A. (4)",
       "player2": "Cadenasso G.",
-      "odds1": 2.25,
-      "odds2": 1.59,
+      "odds1": 2.41,
+      "odds2": 1.52,
       "tour": "ATP"
     },
     {
@@ -665,7 +665,7 @@
       "player1": "Prizmic D. (4)",
       "player2": "O'Connell C.",
       "odds1": 1.22,
-      "odds2": 4.07,
+      "odds2": 4.17,
       "tour": "ATP"
     },
     {
@@ -673,8 +673,8 @@
       "time": "17:30",
       "player1": "Piros Z.",
       "player2": "Barrios Vera M. (21)",
-      "odds1": 1.49,
-      "odds2": 2.52,
+      "odds1": 1.48,
+      "odds2": 2.57,
       "tour": "ATP"
     },
     {
@@ -682,8 +682,8 @@
       "time": "17:30",
       "player1": "Kypson P. (7)",
       "player2": "Kouame M.",
-      "odds1": 1.62,
-      "odds2": 2.2,
+      "odds1": 1.63,
+      "odds2": 2.21,
       "tour": "ATP"
     },
     {
@@ -691,7 +691,7 @@
       "time": "17:30",
       "player1": "Travaglia S.",
       "player2": "Basilashvili N. (20)",
-      "odds1": 1.94,
+      "odds1": 1.95,
       "odds2": 1.81,
       "tour": "ATP"
     },
@@ -700,8 +700,8 @@
       "time": "17:30",
       "player1": "Mayo A.",
       "player2": "Vandecasteele Q. (8)",
-      "odds1": 1.63,
-      "odds2": 1.93,
+      "odds1": 1.67,
+      "odds2": 1.99,
       "tour": "ATP"
     },
     {
@@ -709,8 +709,17 @@
       "time": "17:30",
       "player1": "Kicker N. (2)",
       "player2": "Perot R. (7)",
-      "odds1": 1.58,
-      "odds2": 1.83,
+      "odds1": 1.6,
+      "odds2": 2.14,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Savannah challenger",
+      "time": "17:30",
+      "player1": "Zink T. (1)",
+      "player2": "Kuzuhara B. (11)",
+      "odds1": 1.44,
+      "odds2": 2.6,
       "tour": "ATP"
     },
     {
@@ -718,8 +727,8 @@
       "time": "17:30",
       "player1": "Potapova A. (2)",
       "player2": "Kostovic T.",
-      "odds1": 1.23,
-      "odds2": 3.93,
+      "odds1": 1.25,
+      "odds2": 3.88,
       "tour": "WTA"
     },
     {
@@ -727,8 +736,8 @@
       "time": "17:30",
       "player1": "Trevisan M.",
       "player2": "Kraus S. (22)",
-      "odds1": 3.5,
-      "odds2": 1.28,
+      "odds1": 3.45,
+      "odds2": 1.3,
       "tour": "WTA"
     },
     {
@@ -737,7 +746,7 @@
       "player1": "Parks A. (9)",
       "player2": "Avanesyan E.",
       "odds1": 1.85,
-      "odds2": 1.89,
+      "odds2": 1.9,
       "tour": "WTA"
     },
     {
@@ -745,8 +754,8 @@
       "time": "17:30",
       "player1": "Efremova K.",
       "player2": "Sun L. (17)",
-      "odds1": 3.84,
-      "odds2": 1.24,
+      "odds1": 4.13,
+      "odds2": 1.22,
       "tour": "WTA"
     },
     {
@@ -754,8 +763,8 @@
       "time": "19:00",
       "player1": "Barton H.",
       "player2": "Galan D.",
-      "odds1": 1.54,
-      "odds2": 2.09,
+      "odds1": 1.58,
+      "odds2": 2.17,
       "tour": "ATP"
     },
     {
@@ -763,8 +772,8 @@
       "time": "19:00",
       "player1": "Glinka D. (3)",
       "player2": "Kozlov S.",
-      "odds1": 1.56,
-      "odds2": 2.05,
+      "odds1": 1.59,
+      "odds2": 2.15,
       "tour": "ATP"
     },
     {
@@ -773,7 +782,7 @@
       "player1": "Hamza Reguig S. (4)",
       "player2": "Adeleye D.",
       "odds1": 1.07,
-      "odds2": 7.37,
+      "odds2": 7.45,
       "tour": "ATP"
     },
     {
@@ -781,8 +790,8 @@
       "time": "19:00",
       "player1": "Lalami Laaroussi Y. (5)",
       "player2": "Maginley H.",
-      "odds1": 1.09,
-      "odds2": 5.92,
+      "odds1": 1.08,
+      "odds2": 6.28,
       "tour": "ATP"
     },
     {
@@ -791,7 +800,7 @@
       "player1": "Vishal Balsekar A. (6)",
       "player2": "Schifris J. (9)",
       "odds1": 1.77,
-      "odds2": 1.89,
+      "odds2": 1.91,
       "tour": "ATP"
     },
     {
@@ -799,8 +808,17 @@
       "time": "20:30",
       "player1": "Draxl L. (1)",
       "player2": "Boscardin Dias P.",
-      "odds1": 1.5,
-      "odds2": 2.17,
+      "odds1": 1.56,
+      "odds2": 2.22,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Abidjan challenger",
+      "time": "20:30",
+      "player1": "Giunta M.",
+      "player2": "Fenty A.",
+      "odds1": 2.13,
+      "odds2": 1.62,
       "tour": "ATP"
     },
     {
@@ -808,7 +826,7 @@
       "time": "20:30",
       "player1": "Dougaz A.",
       "player2": "Jubb P. (4)",
-      "odds1": 3.6,
+      "odds1": 3.79,
       "odds2": 1.21,
       "tour": "ATP"
     },
@@ -818,7 +836,16 @@
       "player1": "Kuhar M. (1)",
       "player2": "Fondriest M. (10)",
       "odds1": 1.55,
-      "odds2": 2.29,
+      "odds2": 2.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Abidjan challenger",
+      "time": "22:00",
+      "player1": "Chazal M.",
+      "player2": "Hurrion M.",
+      "odds1": 2.0,
+      "odds2": 1.67,
       "tour": "ATP"
     },
     {
@@ -826,8 +853,8 @@
       "time": "23:30",
       "player1": "Nishikori K.",
       "player2": "Smith C. (5)",
-      "odds1": 1.31,
-      "odds2": 2.81,
+      "odds1": 1.33,
+      "odds2": 2.91,
       "tour": "ATP"
     }
   ]
