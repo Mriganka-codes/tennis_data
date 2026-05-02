@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T07:46:13.202535",
+  "last_updated": "2026-05-02T13:14:50.017662",
   "count": 21,
   "matches": [
     {
@@ -30,24 +30,6 @@
       "tour": "WTA"
     },
     {
-      "tournament": "Shymkent 2 challenger",
-      "time": "08:10",
-      "player1": "Ghibaudo A. (6)",
-      "player2": "Dhamne M.",
-      "odds1": 1.89,
-      "odds2": 1.84,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Shymkent 2 challenger",
-      "time": "08:10",
-      "player1": "Butvilas E. (1)",
-      "player2": "Gadamauri B.",
-      "odds1": 1.75,
-      "odds2": 2.0,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Huzhou",
       "time": "09:15",
       "player1": "Kawa K. (3)",
@@ -58,7 +40,7 @@
     },
     {
       "tournament": "Mauthausen challenger",
-      "time": "10:00",
+      "time": "10:10",
       "player1": "Faria J. (7)",
       "player2": "Blanch D.",
       "odds1": 1.47,
@@ -67,92 +49,110 @@
     },
     {
       "tournament": "Ostrava challenger",
-      "time": "11:00",
-      "player1": "Brancaccio R.",
-      "player2": "Kolar Z. (6)",
-      "odds1": 2.28,
-      "odds2": 1.58,
+      "time": "11:10",
+      "player1": "Kolar Z. (6)",
+      "player2": "Brancaccio R.",
+      "odds1": 1.58,
+      "odds2": 2.27,
       "tour": "ATP"
     },
     {
       "tournament": "La Bisbal",
-      "time": "11:00",
+      "time": "11:10",
       "player1": "Kasatkina D. (7)",
       "player2": "Sorribes Tormo S.",
-      "odds1": 1.44,
-      "odds2": 2.69,
+      "odds1": 1.4,
+      "odds2": 2.81,
       "tour": "WTA"
     },
     {
       "tournament": "Saint-Malo WTA",
-      "time": "11:00",
-      "player1": "Ponchet J.",
-      "player2": "Uchijima M. (7)",
-      "odds1": 3.13,
-      "odds2": 1.34,
+      "time": "11:10",
+      "player1": "Uchijima M. (7)",
+      "player2": "Ponchet J.",
+      "odds1": 1.34,
+      "odds2": 3.13,
       "tour": "WTA"
     },
     {
-      "tournament": "Mauthausen challenger",
+      "tournament": "Shymkent 2 challenger",
+      "time": "11:45",
+      "player1": "Gadamauri B.",
+      "player2": "Butvilas E. (1)",
+      "odds1": 2.0,
+      "odds2": 1.75,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Shymkent 2 challenger",
       "time": "12:00",
-      "player1": "Neumayer L.",
-      "player2": "Safiullin R.",
-      "odds1": 2.07,
-      "odds2": 1.7,
+      "player1": "Dhamne M.",
+      "player2": "Ghibaudo A. (6)",
+      "odds1": 1.84,
+      "odds2": 1.89,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Mauthausen challenger",
+      "time": "12:10",
+      "player1": "Safiullin R.",
+      "player2": "Neumayer L.",
+      "odds1": 1.71,
+      "odds2": 2.05,
       "tour": "ATP"
     },
     {
       "tournament": "Ostrava challenger",
-      "time": "12:30",
+      "time": "13:00",
       "player1": "Sanchez Izquierdo N.",
       "player2": "Gentzsch T.",
       "odds1": 1.97,
-      "odds2": 1.76,
+      "odds2": 1.77,
       "tour": "ATP"
     },
     {
       "tournament": "La Bisbal",
-      "time": "12:30",
+      "time": "13:00",
       "player1": "Korpatsch T.",
       "player2": "Bassols Ribera M.",
-      "odds1": 1.49,
+      "odds1": 1.5,
       "odds2": 2.5,
       "tour": "WTA"
     },
     {
-      "tournament": "Saint-Malo WTA",
-      "time": "12:30",
-      "player1": "Valentova T. (1)",
-      "player2": "Blinkova A. (5)",
-      "odds1": 1.29,
-      "odds2": 3.43,
-      "tour": "WTA"
-    },
-    {
       "tournament": "Cagliari challenger",
-      "time": "13:00",
+      "time": "13:30",
       "player1": "Arnaldi M.",
       "player2": "Cadenasso G.",
-      "odds1": 1.55,
-      "odds2": 2.36,
+      "odds1": 1.52,
+      "odds2": 2.41,
       "tour": "ATP"
     },
     {
       "tournament": "Aix en Provence challenger",
-      "time": "14:00",
+      "time": "14:10",
       "player1": "Martin Tiffon P.",
       "player2": "Bergs Z. (3)",
-      "odds1": 2.96,
-      "odds2": 1.36,
+      "odds1": 3.11,
+      "odds2": 1.34,
       "tour": "ATP"
     },
     {
+      "tournament": "Saint-Malo WTA",
+      "time": "14:35",
+      "player1": "Valentova T. (1)",
+      "player2": "Blinkova A. (5)",
+      "odds1": 1.26,
+      "odds2": 3.67,
+      "tour": "WTA"
+    },
+    {
       "tournament": "Cagliari challenger",
-      "time": "14:30",
+      "time": "15:20",
       "player1": "Hurkacz H. (6)",
       "player2": "Burruchaga R. (4)",
       "odds1": 1.41,
-      "odds2": 2.73,
+      "odds2": 2.79,
       "tour": "ATP"
     },
     {
@@ -160,8 +160,8 @@
       "time": "15:30",
       "player1": "Quinn E. (4)",
       "player2": "Tabilo A. (2)",
-      "odds1": 2.88,
-      "odds2": 1.37,
+      "odds1": 3.23,
+      "odds2": 1.32,
       "tour": "ATP"
     },
     {
@@ -169,8 +169,8 @@
       "time": "17:00",
       "player1": "Andreeva M. (9)",
       "player2": "Kostyuk M. (26)",
-      "odds1": 1.64,
-      "odds2": 2.25,
+      "odds1": 1.65,
+      "odds2": 2.24,
       "tour": "WTA"
     },
     {
@@ -178,8 +178,8 @@
       "time": "19:00",
       "player1": "Onclin G. (1)",
       "player2": "Coulibaly E. (4)",
-      "odds1": 1.42,
-      "odds2": 2.73,
+      "odds1": 1.44,
+      "odds2": 2.67,
       "tour": "ATP"
     },
     {
@@ -187,8 +187,8 @@
       "time": "20:30",
       "player1": "Visker N.",
       "player2": "Mmoh M. (2)",
-      "odds1": 3.96,
-      "odds2": 1.22,
+      "odds1": 3.89,
+      "odds2": 1.23,
       "tour": "ATP"
     }
   ]
