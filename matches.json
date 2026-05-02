@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-05-02T02:48:28.194677",
+  "last_updated": "2026-05-02T07:46:13.202535",
   "count": 21,
   "matches": [
     {
       "tournament": "Jiujiang challenger",
-      "time": "05:00",
-      "player1": "Wong C. (4)",
-      "player2": "Sun F.",
-      "odds1": 1.4,
-      "odds2": 2.82,
+      "time": "05:10",
+      "player1": "Walton A. (3)",
+      "player2": "Bolt A. (6)",
+      "odds1": 1.51,
+      "odds2": 2.44,
       "tour": "ATP"
     },
     {
       "tournament": "Jiujiang challenger",
-      "time": "05:00",
-      "player1": "Bolt A. (6)",
-      "player2": "Walton A. (3)",
-      "odds1": 2.45,
-      "odds2": 1.51,
+      "time": "05:10",
+      "player1": "Wong C. (4)",
+      "player2": "Sun F.",
+      "odds1": 1.41,
+      "odds2": 2.77,
       "tour": "ATP"
     },
     {
       "tournament": "Huzhou",
-      "time": "07:00",
+      "time": "07:10",
       "player1": "Erjavec V. (1)",
       "player2": "Wang X. (4)",
-      "odds1": 2.33,
+      "odds1": 2.32,
       "odds2": 1.57,
       "tour": "WTA"
     },
     {
       "tournament": "Shymkent 2 challenger",
-      "time": "08:00",
+      "time": "08:10",
       "player1": "Ghibaudo A. (6)",
       "player2": "Dhamne M.",
-      "odds1": 1.78,
-      "odds2": 1.95,
+      "odds1": 1.89,
+      "odds2": 1.84,
       "tour": "ATP"
     },
     {
       "tournament": "Shymkent 2 challenger",
-      "time": "08:00",
+      "time": "08:10",
       "player1": "Butvilas E. (1)",
       "player2": "Gadamauri B.",
       "odds1": 1.75,
-      "odds2": 1.99,
+      "odds2": 2.0,
       "tour": "ATP"
     },
     {
       "tournament": "Huzhou",
-      "time": "08:30",
+      "time": "09:15",
       "player1": "Kawa K. (3)",
       "player2": "Guo H. (5)",
-      "odds1": 1.71,
-      "odds2": 2.07,
+      "odds1": 1.75,
+      "odds2": 2.02,
       "tour": "WTA"
     },
     {
@@ -61,8 +61,8 @@
       "time": "10:00",
       "player1": "Faria J. (7)",
       "player2": "Blanch D.",
-      "odds1": 1.53,
-      "odds2": 2.4,
+      "odds1": 1.47,
+      "odds2": 2.58,
       "tour": "ATP"
     },
     {
@@ -70,7 +70,7 @@
       "time": "11:00",
       "player1": "Brancaccio R.",
       "player2": "Kolar Z. (6)",
-      "odds1": 2.27,
+      "odds1": 2.28,
       "odds2": 1.58,
       "tour": "ATP"
     },
@@ -80,7 +80,7 @@
       "player1": "Kasatkina D. (7)",
       "player2": "Sorribes Tormo S.",
       "odds1": 1.44,
-      "odds2": 2.68,
+      "odds2": 2.69,
       "tour": "WTA"
     },
     {
@@ -97,8 +97,8 @@
       "time": "12:00",
       "player1": "Neumayer L.",
       "player2": "Safiullin R.",
-      "odds1": 2.08,
-      "odds2": 1.69,
+      "odds1": 2.07,
+      "odds2": 1.7,
       "tour": "ATP"
     },
     {
@@ -106,8 +106,8 @@
       "time": "12:30",
       "player1": "Sanchez Izquierdo N.",
       "player2": "Gentzsch T.",
-      "odds1": 1.94,
-      "odds2": 1.79,
+      "odds1": 1.97,
+      "odds2": 1.76,
       "tour": "ATP"
     },
     {
@@ -116,7 +116,7 @@
       "player1": "Korpatsch T.",
       "player2": "Bassols Ribera M.",
       "odds1": 1.49,
-      "odds2": 2.51,
+      "odds2": 2.5,
       "tour": "WTA"
     },
     {
@@ -124,8 +124,8 @@
       "time": "12:30",
       "player1": "Valentova T. (1)",
       "player2": "Blinkova A. (5)",
-      "odds1": 1.3,
-      "odds2": 3.35,
+      "odds1": 1.29,
+      "odds2": 3.43,
       "tour": "WTA"
     },
     {
@@ -133,8 +133,8 @@
       "time": "13:00",
       "player1": "Arnaldi M.",
       "player2": "Cadenasso G.",
-      "odds1": 1.58,
-      "odds2": 2.27,
+      "odds1": 1.55,
+      "odds2": 2.36,
       "tour": "ATP"
     },
     {
@@ -142,8 +142,8 @@
       "time": "14:00",
       "player1": "Martin Tiffon P.",
       "player2": "Bergs Z. (3)",
-      "odds1": 2.94,
-      "odds2": 1.37,
+      "odds1": 2.96,
+      "odds2": 1.36,
       "tour": "ATP"
     },
     {
@@ -151,8 +151,8 @@
       "time": "14:30",
       "player1": "Hurkacz H. (6)",
       "player2": "Burruchaga R. (4)",
-      "odds1": 1.42,
-      "odds2": 2.71,
+      "odds1": 1.41,
+      "odds2": 2.73,
       "tour": "ATP"
     },
     {
@@ -160,8 +160,8 @@
       "time": "15:30",
       "player1": "Quinn E. (4)",
       "player2": "Tabilo A. (2)",
-      "odds1": 2.84,
-      "odds2": 1.39,
+      "odds1": 2.88,
+      "odds2": 1.37,
       "tour": "ATP"
     },
     {
@@ -169,8 +169,8 @@
       "time": "17:00",
       "player1": "Andreeva M. (9)",
       "player2": "Kostyuk M. (26)",
-      "odds1": 1.67,
-      "odds2": 2.21,
+      "odds1": 1.64,
+      "odds2": 2.25,
       "tour": "WTA"
     },
     {
@@ -179,7 +179,7 @@
       "player1": "Onclin G. (1)",
       "player2": "Coulibaly E. (4)",
       "odds1": 1.42,
-      "odds2": 2.76,
+      "odds2": 2.73,
       "tour": "ATP"
     },
     {
@@ -187,7 +187,7 @@
       "time": "20:30",
       "player1": "Visker N.",
       "player2": "Mmoh M. (2)",
-      "odds1": 3.89,
+      "odds1": 3.96,
       "odds2": 1.22,
       "tour": "ATP"
     }
