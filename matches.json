@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-03T13:13:45.431717",
-  "count": 49,
+  "last_updated": "2026-05-03T19:01:40.692980",
+  "count": 46,
   "matches": [
     {
       "tournament": "Jiujiang challenger",
@@ -212,10 +212,10 @@
     {
       "tournament": "Saint-Malo WTA",
       "time": "13:40",
-      "player1": "Valentova T. (1)",
-      "player2": "Uchijima M. (7)",
-      "odds1": 1.38,
-      "odds2": 2.94,
+      "player1": "Uchijima M. (7)",
+      "player2": "Valentova T. (1)",
+      "odds1": 2.94,
+      "odds2": 1.38,
       "tour": "WTA"
     },
     {
@@ -230,37 +230,37 @@
     {
       "tournament": "Francavilla challenger",
       "time": "14:10",
-      "player1": "Bilardo J.",
-      "player2": "Krumich M. (7)",
-      "odds1": 10.97,
-      "odds2": 1.03,
+      "player1": "Krumich M. (7)",
+      "player2": "Bilardo J.",
+      "odds1": 1.03,
+      "odds2": 10.97,
       "tour": "ATP"
     },
     {
       "tournament": "Mauthausen challenger",
       "time": "14:45",
-      "player1": "Faria J. (7)",
-      "player2": "Safiullin R.",
-      "odds1": 2.01,
-      "odds2": 1.73,
+      "player1": "Safiullin R.",
+      "player2": "Faria J. (7)",
+      "odds1": 1.73,
+      "odds2": 2.01,
       "tour": "ATP"
     },
     {
       "tournament": "Aix en Provence challenger",
       "time": "15:10",
-      "player1": "Bergs Z. (3)",
-      "player2": "Tabilo A. (2)",
-      "odds1": 2.69,
-      "odds2": 1.43,
+      "player1": "Tabilo A. (2)",
+      "player2": "Bergs Z. (3)",
+      "odds1": 1.43,
+      "odds2": 2.68,
       "tour": "ATP"
     },
     {
       "tournament": "Cagliari challenger",
-      "time": "15:10",
-      "player1": "Hurkacz H. (6)",
-      "player2": "Arnaldi M.",
-      "odds1": 1.34,
-      "odds2": 3.06,
+      "time": "15:15",
+      "player1": "Arnaldi M.",
+      "player2": "Hurkacz H. (6)",
+      "odds1": 3.06,
+      "odds2": 1.34,
       "tour": "ATP"
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "tournament": "Francavilla challenger",
-      "time": "15:15",
+      "time": "16:45",
       "player1": "Ciurnelli R.",
       "player2": "Andaloro F. (10)",
       "odds1": 5.93,
@@ -283,79 +283,25 @@
     },
     {
       "tournament": "Santos challenger",
-      "time": "15:30",
-      "player1": "Villalon N. (2)",
-      "player2": "Braga V.",
-      "odds1": 1.04,
-      "odds2": 9.85,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "15:30",
-      "player1": "Araujo R.",
-      "player2": "Tenti F. (9)",
-      "odds1": 6.2,
-      "odds2": 1.09,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "15:30",
-      "player1": "Leite W. (6)",
-      "player2": "Basel V.",
-      "odds1": 1.39,
-      "odds2": 2.82,
+      "time": "17:00",
+      "player1": "Pucinelli De Almeida M.",
+      "player2": "Loureiro J. (7)",
+      "odds1": 6.5,
+      "odds2": 1.07,
       "tour": "ATP"
     },
     {
       "tournament": "Madrid",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Sinner J. (1)",
       "player2": "Zverev A. (2)",
-      "odds1": 1.17,
-      "odds2": 5.02,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "17:00",
-      "player1": "Zanellato N. (5)",
-      "player2": "Pinto L.",
-      "odds1": 1.06,
-      "odds2": 7.93,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "17:00",
-      "player1": "Braga B.",
-      "player2": "Falabella L. (8)",
-      "odds1": 9.4,
-      "odds2": 1.05,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "17:00",
-      "player1": "Pucinelli De Almeida M.",
-      "player2": "Loureiro J. (7)",
-      "odds1": 5.5,
-      "odds2": 1.1,
+      "odds1": 1.16,
+      "odds2": 5.17,
       "tour": "ATP"
     },
     {
       "tournament": "Brazzaville challenger",
-      "time": "17:30",
-      "player1": "Bolangi B.",
-      "player2": "Pandzou Ekoume C.",
-      "odds1": 1.02,
-      "odds2": 10.17,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brazzaville challenger",
-      "time": "17:30",
+      "time": "17:40",
       "player1": "Arcon A. (3)",
       "player2": "Goyal M. (9)",
       "odds1": null,
@@ -364,83 +310,110 @@
     },
     {
       "tournament": "Brazzaville challenger",
-      "time": "17:30",
+      "time": "17:40",
+      "player1": "Bolangi B.",
+      "player2": "Pandzou Ekoume C.",
+      "odds1": 1.02,
+      "odds2": 10.17,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brazzaville challenger",
+      "time": "17:40",
       "player1": "Britto L. (5)",
       "player2": "Mintz Z. (10)",
-      "odds1": 1.01,
-      "odds2": 20.0,
+      "odds1": 1.03,
+      "odds2": 24.75,
       "tour": "ATP"
     },
     {
       "tournament": "Santos challenger",
       "time": "18:30",
-      "player1": "Fernandez B. (1)",
-      "player2": "Ortenblad Nogueira H.",
-      "odds1": 1.04,
-      "odds2": 10.34,
+      "player1": "Villalon N. (2)",
+      "player2": "Braga V.",
+      "odds1": 1.03,
+      "odds2": 10.82,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brazzaville challenger",
+      "time": "18:55",
+      "player1": "Vilmaure G.",
+      "player2": "Kayombo G.",
+      "odds1": 1.46,
+      "odds2": 2.64,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Abidjan 2 challenger",
+      "time": "19:10",
+      "player1": "Onclin G. (1)",
+      "player2": "Mmoh M. (2)",
+      "odds1": 1.77,
+      "odds2": 1.97,
       "tour": "ATP"
     },
     {
       "tournament": "Santos challenger",
-      "time": "18:30",
+      "time": "20:10",
+      "player1": "Leite W. (6)",
+      "player2": "Basel V.",
+      "odds1": 1.37,
+      "odds2": 2.95,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Santos challenger",
+      "time": "20:30",
+      "player1": "Araujo R.",
+      "player2": "Tenti F. (9)",
+      "odds1": 7.41,
+      "odds2": 1.06,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Santos challenger",
+      "time": "21:00",
+      "player1": "Braga B.",
+      "player2": "Falabella L. (8)",
+      "odds1": 9.83,
+      "odds2": 1.05,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Santos challenger",
+      "time": "21:40",
+      "player1": "Zanellato N. (5)",
+      "player2": "Pinto L.",
+      "odds1": 1.06,
+      "odds2": 7.99,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Santos challenger",
+      "time": "22:30",
       "player1": "Remondy Pagotto V.",
       "player2": "Schachter N. (10)",
-      "odds1": 1.82,
+      "odds1": 1.83,
       "odds2": 1.88,
       "tour": "ATP"
     },
     {
       "tournament": "Santos challenger",
-      "time": "18:30",
+      "time": "23:10",
       "player1": "Tosetto R.",
       "player2": "Tsitsipas P. (12)",
-      "odds1": 1.49,
-      "odds2": 2.44,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brazzaville challenger",
-      "time": "18:40",
-      "player1": "Vilmaure G.",
-      "player2": "Kayombo G.",
-      "odds1": 1.32,
-      "odds2": 3.21,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Abidjan 2 challenger",
-      "time": "19:00",
-      "player1": "Onclin G. (1)",
-      "player2": "Mmoh M. (2)",
-      "odds1": 1.79,
-      "odds2": 1.94,
+      "odds1": 1.55,
+      "odds2": 2.33,
       "tour": "ATP"
     },
     {
       "tournament": "Santos challenger",
-      "time": "20:00",
-      "player1": "Cigarran T. (3)",
-      "player2": "Miguel L.",
-      "odds1": 2.54,
-      "odds2": 1.43,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "20:00",
-      "player1": "Schenekenberg G.",
-      "player2": "Scramin do Lago J. (11)",
-      "odds1": 1.77,
-      "odds2": 1.91,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santos challenger",
-      "time": "20:00",
-      "player1": "Huertas Del Pino A. (4)",
-      "player2": "Augusto Dos Santos R.",
-      "odds1": 1.19,
-      "odds2": 4.17,
+      "time": "23:30",
+      "player1": "Fernandez B. (1)",
+      "player2": "Ortenblad Nogueira H.",
+      "odds1": 1.03,
+      "odds2": 10.97,
       "tour": "ATP"
     }
   ]
