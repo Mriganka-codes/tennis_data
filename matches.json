@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T14:28:11.927256",
+  "last_updated": "2026-05-12T19:54:37.051813",
   "count": 92,
   "matches": [
     {
@@ -419,10 +419,10 @@
     {
       "tournament": "Bangalore 2 challenger",
       "time": "14:15",
-      "player1": "Matsuda R.",
-      "player2": "Papa C.",
-      "odds1": 1.53,
-      "odds2": 2.38,
+      "player1": "Papa C.",
+      "player2": "Matsuda R.",
+      "odds1": 2.38,
+      "odds2": 1.53,
       "tour": "ATP"
     },
     {
@@ -455,10 +455,10 @@
     {
       "tournament": "Bordeaux challenger",
       "time": "14:40",
-      "player1": "Hijikata R.",
-      "player2": "Vukic A.",
-      "odds1": 1.61,
-      "odds2": 2.21,
+      "player1": "Vukic A.",
+      "player2": "Hijikata R.",
+      "odds1": 2.21,
+      "odds2": 1.61,
       "tour": "ATP"
     },
     {
@@ -491,19 +491,10 @@
     {
       "tournament": "Cordoba challenger",
       "time": "15:05",
-      "player1": "Ambrogi L.",
-      "player2": "Olivo R.",
-      "odds1": 1.15,
-      "odds2": 4.99,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "15:05",
-      "player1": "De La Fuente S.",
-      "player2": "Dellien M. (5)",
-      "odds1": 3.53,
-      "odds2": 1.27,
+      "player1": "Dellien M. (5)",
+      "player2": "De La Fuente S.",
+      "odds1": 1.27,
+      "odds2": 3.53,
       "tour": "ATP"
     },
     {
@@ -516,12 +507,21 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Cordoba challenger",
+      "time": "15:05",
+      "player1": "Ambrogi L.",
+      "player2": "Olivo R.",
+      "odds1": 1.15,
+      "odds2": 4.99,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Paris WTA",
       "time": "15:05",
-      "player1": "Burel C.",
-      "player2": "Korpatsch T.",
-      "odds1": 3.24,
-      "odds2": 1.32,
+      "player1": "Korpatsch T.",
+      "player2": "Burel C.",
+      "odds1": 1.32,
+      "odds2": 3.24,
       "tour": "WTA"
     },
     {
@@ -536,37 +536,37 @@
     {
       "tournament": "Parma",
       "time": "15:10",
-      "player1": "Lepchenko V.",
-      "player2": "Golubic V. (8)",
-      "odds1": 4.0,
-      "odds2": 1.23,
+      "player1": "Golubic V. (8)",
+      "player2": "Lepchenko V.",
+      "odds1": 1.23,
+      "odds2": 4.0,
       "tour": "WTA"
     },
     {
       "tournament": "Parma",
       "time": "15:10",
-      "player1": "Basiletti N.",
-      "player2": "Tagger L.",
-      "odds1": 4.24,
-      "odds2": 1.21,
+      "player1": "Tagger L.",
+      "player2": "Basiletti N.",
+      "odds1": 1.21,
+      "odds2": 4.24,
       "tour": "WTA"
     },
     {
       "tournament": "Oeiras 2 challenger",
       "time": "15:25",
-      "player1": "Torres T.",
-      "player2": "Faria J. (3)",
-      "odds1": 4.55,
-      "odds2": 1.18,
+      "player1": "Faria J. (3)",
+      "player2": "Torres T.",
+      "odds1": 1.18,
+      "odds2": 4.55,
       "tour": "ATP"
     },
     {
       "tournament": "Valencie challenger",
       "time": "15:55",
-      "player1": "Prado Angelo J.",
-      "player2": "Riedi L.",
-      "odds1": 2.73,
-      "odds2": 1.42,
+      "player1": "Riedi L.",
+      "player2": "Prado Angelo J.",
+      "odds1": 1.42,
+      "odds2": 2.73,
       "tour": "ATP"
     },
     {
@@ -606,24 +606,6 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Cordoba challenger",
-      "time": "16:20",
-      "player1": "Estevez J.",
-      "player2": "Collarini A. (2)",
-      "odds1": 2.72,
-      "odds2": 1.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Paris WTA",
-      "time": "16:30",
-      "player1": "Keys M. (1)",
-      "player2": "Ferro F.",
-      "odds1": 1.19,
-      "odds2": 4.47,
-      "tour": "WTA"
-    },
-    {
       "tournament": "Oeiras 2 challenger",
       "time": "16:35",
       "player1": "Hassan B.",
@@ -633,30 +615,21 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Oeiras 2 challenger",
+      "tournament": "Cordoba challenger",
       "time": "16:40",
-      "player1": "Gaubas V. (5)",
-      "player2": "Silva F.",
+      "player1": "Collarini A. (2)",
+      "player2": "Estevez J.",
       "odds1": 1.41,
-      "odds2": 2.77,
+      "odds2": 2.72,
       "tour": "ATP"
     },
     {
       "tournament": "Tunis challenger",
       "time": "16:45",
-      "player1": "Zhou Y.",
-      "player2": "Blanch D.",
-      "odds1": 3.97,
-      "odds2": 1.22,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "16:45",
-      "player1": "Monzon I.",
-      "player2": "Kicker N. (7)",
-      "odds1": 4.21,
-      "odds2": 1.2,
+      "player1": "Blanch D.",
+      "player2": "Zhou Y.",
+      "odds1": 1.22,
+      "odds2": 3.99,
       "tour": "ATP"
     },
     {
@@ -665,160 +638,187 @@
       "player1": "Linde Palacios S.",
       "player2": "Farjat T.",
       "odds1": 2.31,
-      "odds2": 1.56,
+      "odds2": 1.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cordoba challenger",
+      "time": "16:55",
+      "player1": "Kicker N. (7)",
+      "player2": "Monzon I.",
+      "odds1": 1.2,
+      "odds2": 4.2,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Paris WTA",
+      "time": "16:55",
+      "player1": "Keys M. (1)",
+      "player2": "Ferro F.",
+      "odds1": 1.19,
+      "odds2": 4.5,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Bordeaux challenger",
+      "time": "17:05",
+      "player1": "Bonzi B.",
+      "player2": "Kouame M.",
+      "odds1": 1.41,
+      "odds2": 2.77,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Oeiras 2 challenger",
+      "time": "17:05",
+      "player1": "Gaubas V. (5)",
+      "player2": "Silva F.",
+      "odds1": 1.4,
+      "odds2": 2.79,
       "tour": "ATP"
     },
     {
       "tournament": "Rome",
-      "time": "16:50",
+      "time": "17:10",
       "player1": "Rublev A. (12)",
       "player2": "Basilashvili N.",
-      "odds1": 1.32,
-      "odds2": 3.4,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bordeaux challenger",
-      "time": "17:00",
-      "player1": "Kouame M.",
-      "player2": "Bonzi B.",
-      "odds1": 2.77,
-      "odds2": 1.41,
+      "odds1": 1.31,
+      "odds2": 3.46,
       "tour": "ATP"
     },
     {
       "tournament": "Parma",
-      "time": "17:00",
-      "player1": "Yuan Y.",
-      "player2": "Sherif M.",
-      "odds1": 2.03,
-      "odds2": 1.74,
+      "time": "17:10",
+      "player1": "Sherif M.",
+      "player2": "Yuan Y.",
+      "odds1": 1.74,
+      "odds2": 2.03,
       "tour": "WTA"
-    },
-    {
-      "tournament": "Tunis challenger",
-      "time": "17:15",
-      "player1": "Martin Tiffon P.",
-      "player2": "Broom C.",
-      "odds1": 1.18,
-      "odds2": 4.43,
-      "tour": "ATP"
     },
     {
       "tournament": "Oeiras 2 challenger",
       "time": "17:50",
-      "player1": "Jorda Sanchis D.",
-      "player2": "Vasa E.",
-      "odds1": 1.42,
-      "odds2": 2.7,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Rome",
-      "time": "18:00",
-      "player1": "Medjedovic H.",
-      "player2": "Landaluce M.",
-      "odds1": 1.56,
-      "odds2": 2.44,
+      "player1": "Vasa E.",
+      "player2": "Jorda Sanchis D.",
+      "odds1": 2.75,
+      "odds2": 1.41,
       "tour": "ATP"
     },
     {
       "tournament": "Valencie challenger",
-      "time": "18:00",
-      "player1": "Zapata Miralles B.",
-      "player2": "Vallejo A.",
-      "odds1": 9.09,
-      "odds2": 1.04,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Oeiras 2 challenger",
-      "time": "18:00",
-      "player1": "Kolar Z.",
-      "player2": "Zhang Z.",
-      "odds1": 2.03,
-      "odds2": 1.72,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "18:00",
-      "player1": "Goity Zapico S.",
-      "player2": "Tobon M.",
-      "odds1": 5.94,
-      "odds2": 1.11,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Oeiras 2 challenger",
-      "time": "18:05",
-      "player1": "Diaz Acosta F.",
-      "player2": "Dellien H. (6)",
-      "odds1": 1.67,
-      "odds2": 2.11,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "18:15",
-      "player1": "Cigarran T.",
-      "player2": "Villanueva G.",
-      "odds1": 4.78,
-      "odds2": 1.16,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "18:15",
-      "player1": "Huertas Del Pino A.",
-      "player2": "Varillas J. (4)",
-      "odds1": 4.03,
-      "odds2": 1.2,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Rome WTA",
-      "time": "19:00",
-      "player1": "Gauff C. (3)",
-      "player2": "Andreeva M. (8)",
-      "odds1": 1.92,
-      "odds2": 1.87,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "19:30",
-      "player1": "Torres J. (6)",
-      "player2": "Fernandez B.",
-      "odds1": 1.15,
-      "odds2": 4.95,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cordoba challenger",
-      "time": "19:45",
-      "player1": "Roncadelli F. (3)",
-      "player2": "Sakamoto P.",
-      "odds1": 1.29,
-      "odds2": 3.38,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bordeaux challenger",
-      "time": "20:00",
-      "player1": "Shevchenko A.",
-      "player2": "Gaston H.",
-      "odds1": 1.54,
-      "odds2": 2.37,
+      "time": "18:10",
+      "player1": "Vallejo A.",
+      "player2": "Zapata Miralles B.",
+      "odds1": 1.04,
+      "odds2": 8.93,
       "tour": "ATP"
     },
     {
       "tournament": "Rome",
-      "time": "20:30",
+      "time": "18:30",
+      "player1": "Landaluce M.",
+      "player2": "Medjedovic H.",
+      "odds1": 2.45,
+      "odds2": 1.54,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tunis challenger",
+      "time": "18:30",
+      "player1": "Martin Tiffon P.",
+      "player2": "Broom C.",
+      "odds1": 1.19,
+      "odds2": 4.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Oeiras 2 challenger",
+      "time": "18:35",
+      "player1": "Dellien H. (6)",
+      "player2": "Diaz Acosta F.",
+      "odds1": 2.1,
+      "odds2": 1.68,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cordoba challenger",
+      "time": "18:35",
+      "player1": "Tobon M.",
+      "player2": "Goity Zapico S.",
+      "odds1": 1.11,
+      "odds2": 5.98,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cordoba challenger",
+      "time": "18:35",
+      "player1": "Villanueva G.",
+      "player2": "Cigarran T.",
+      "odds1": 1.16,
+      "odds2": 4.86,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cordoba challenger",
+      "time": "18:50",
+      "player1": "Huertas Del Pino A.",
+      "player2": "Varillas J. (4)",
+      "odds1": 3.94,
+      "odds2": 1.21,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Rome WTA",
+      "time": "19:05",
+      "player1": "Gauff C. (3)",
+      "player2": "Andreeva M. (8)",
+      "odds1": 1.91,
+      "odds2": 1.88,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Oeiras 2 challenger",
+      "time": "19:40",
+      "player1": "Kolar Z.",
+      "player2": "Zhang Z.",
+      "odds1": 2.02,
+      "odds2": 1.73,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cordoba challenger",
+      "time": "19:50",
+      "player1": "Torres J. (6)",
+      "player2": "Fernandez B.",
+      "odds1": 1.14,
+      "odds2": 5.07,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cordoba challenger",
+      "time": "20:00",
+      "player1": "Roncadelli F. (3)",
+      "player2": "Sakamoto P.",
+      "odds1": 1.31,
+      "odds2": 3.29,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Bordeaux challenger",
+      "time": "20:15",
+      "player1": "Shevchenko A.",
+      "player2": "Gaston H.",
+      "odds1": 1.56,
+      "odds2": 2.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Rome",
+      "time": "21:45",
       "player1": "Tirante T.",
       "player2": "Medvedev D. (7)",
-      "odds1": 2.3,
-      "odds2": 1.61,
+      "odds1": 2.18,
+      "odds2": 1.67,
       "tour": "ATP"
     },
     {
@@ -826,8 +826,8 @@
       "time": "23:00",
       "player1": "Pucinelli De Almeida M.",
       "player2": "Casanova H.",
-      "odds1": 1.55,
-      "odds2": 2.34,
+      "odds1": 1.54,
+      "odds2": 2.37,
       "tour": "ATP"
     }
   ]
