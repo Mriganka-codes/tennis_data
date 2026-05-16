@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-16T08:06:01.504137",
-  "count": 15,
+  "last_updated": "2026-05-16T13:24:29.432751",
+  "count": 16,
   "matches": [
     {
       "tournament": "Zagreb challenger",
@@ -31,43 +31,61 @@
     },
     {
       "tournament": "Oeiras 2 challenger",
-      "time": "12:00",
+      "time": "12:10",
       "player1": "Djere L.",
       "player2": "Nava E. (2)",
-      "odds1": 1.62,
-      "odds2": 2.21,
+      "odds1": 1.6,
+      "odds2": 2.23,
       "tour": "ATP"
     },
     {
       "tournament": "Bangalore 2 challenger",
-      "time": "13:00",
+      "time": "13:30",
       "player1": "Smith K. (1)",
       "player2": "Sekulic P. (4)",
-      "odds1": 1.63,
-      "odds2": 2.19,
+      "odds1": 1.61,
+      "odds2": 2.22,
       "tour": "ATP"
     },
     {
       "tournament": "Bordeaux challenger",
-      "time": "14:00",
+      "time": "14:10",
       "player1": "Cerundolo J.",
       "player2": "Halys Q.",
-      "odds1": 1.58,
-      "odds2": 2.26,
+      "odds1": 1.56,
+      "odds2": 2.33,
       "tour": "ATP"
     },
     {
       "tournament": "Paris WTA",
-      "time": "14:00",
+      "time": "14:25",
       "player1": "Keys M. (1)",
       "player2": "Starodubtseva Y. (7)",
       "odds1": 1.31,
-      "odds2": 3.3,
+      "odds2": 3.32,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Tunis challenger",
+      "time": "15:05",
+      "player1": "Boyer T.",
+      "player2": "Blanch D.",
+      "odds1": 1.9,
+      "odds2": 1.83,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Parma",
+      "time": "15:15",
+      "player1": "Krejcikova B. (4)",
+      "player2": "Yastremska D. (3)",
+      "odds1": 1.49,
+      "odds2": 2.53,
       "tour": "WTA"
     },
     {
       "tournament": "Rome",
-      "time": "15:00",
+      "time": "15:50",
       "player1": "Sinner J. (1)",
       "player2": "Medvedev D. (7)",
       "odds1": 1.06,
@@ -75,39 +93,21 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Tunis challenger",
-      "time": "15:00",
-      "player1": "Boyer T.",
-      "player2": "Blanch D.",
-      "odds1": 1.94,
-      "odds2": 1.79,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Paris WTA",
-      "time": "15:30",
+      "time": "15:50",
       "player1": "Parry D.",
       "player2": "Charaeva A.",
-      "odds1": 2.37,
-      "odds2": 1.55,
+      "odds1": 2.35,
+      "odds2": 1.56,
       "tour": "WTA"
-    },
-    {
-      "tournament": "Valencie challenger",
-      "time": "16:00",
-      "player1": "Tabilo A. (1)",
-      "player2": "Kecmanovic M. (7)",
-      "odds1": 1.65,
-      "odds2": 2.14,
-      "tour": "ATP"
     },
     {
       "tournament": "Bordeaux challenger",
       "time": "16:00",
       "player1": "Collignon R. (8)",
       "player2": "Griekspoor T. (2)",
-      "odds1": 1.53,
-      "odds2": 2.37,
+      "odds1": 1.48,
+      "odds2": 2.52,
       "tour": "ATP"
     },
     {
@@ -115,26 +115,35 @@
       "time": "16:00",
       "player1": "Roncadelli F. (3)",
       "player2": "La Serna J. (8)",
-      "odds1": 1.52,
-      "odds2": 2.41,
+      "odds1": 1.51,
+      "odds2": 2.43,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Valencie challenger",
+      "time": "16:10",
+      "player1": "Tabilo A. (1)",
+      "player2": "Kecmanovic M. (7)",
+      "odds1": 1.7,
+      "odds2": 2.07,
       "tour": "ATP"
     },
     {
       "tournament": "Rome WTA",
-      "time": "17:00",
+      "time": "17:20",
       "player1": "Gauff C. (3)",
       "player2": "Svitolina E. (7)",
-      "odds1": 1.63,
-      "odds2": 2.26,
+      "odds1": 1.65,
+      "odds2": 2.25,
       "tour": "WTA"
     },
     {
       "tournament": "Valencie challenger",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Vallejo A.",
       "player2": "Munar J. (2)",
-      "odds1": 1.75,
-      "odds2": 1.98,
+      "odds1": 1.8,
+      "odds2": 1.93,
       "tour": "ATP"
     }
   ]
