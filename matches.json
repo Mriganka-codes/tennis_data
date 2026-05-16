@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T03:20:36.118593",
+  "last_updated": "2026-05-16T08:06:01.504137",
   "count": 15,
   "matches": [
     {
@@ -34,8 +34,8 @@
       "time": "12:00",
       "player1": "Djere L.",
       "player2": "Nava E. (2)",
-      "odds1": 1.6,
-      "odds2": 2.23,
+      "odds1": 1.62,
+      "odds2": 2.21,
       "tour": "ATP"
     },
     {
@@ -43,8 +43,8 @@
       "time": "13:00",
       "player1": "Smith K. (1)",
       "player2": "Sekulic P. (4)",
-      "odds1": 1.69,
-      "odds2": 2.08,
+      "odds1": 1.63,
+      "odds2": 2.19,
       "tour": "ATP"
     },
     {
@@ -62,7 +62,7 @@
       "player1": "Keys M. (1)",
       "player2": "Starodubtseva Y. (7)",
       "odds1": 1.31,
-      "odds2": 3.31,
+      "odds2": 3.3,
       "tour": "WTA"
     },
     {
@@ -79,8 +79,8 @@
       "time": "15:00",
       "player1": "Boyer T.",
       "player2": "Blanch D.",
-      "odds1": 1.93,
-      "odds2": 1.8,
+      "odds1": 1.94,
+      "odds2": 1.79,
       "tour": "ATP"
     },
     {
@@ -88,8 +88,8 @@
       "time": "15:30",
       "player1": "Parry D.",
       "player2": "Charaeva A.",
-      "odds1": 2.28,
-      "odds2": 1.58,
+      "odds1": 2.37,
+      "odds2": 1.55,
       "tour": "WTA"
     },
     {
@@ -107,7 +107,7 @@
       "player1": "Collignon R. (8)",
       "player2": "Griekspoor T. (2)",
       "odds1": 1.53,
-      "odds2": 2.36,
+      "odds2": 2.37,
       "tour": "ATP"
     },
     {
@@ -124,8 +124,8 @@
       "time": "17:00",
       "player1": "Gauff C. (3)",
       "player2": "Svitolina E. (7)",
-      "odds1": 1.64,
-      "odds2": 2.25,
+      "odds1": 1.63,
+      "odds2": 2.26,
       "tour": "WTA"
     },
     {
@@ -133,7 +133,7 @@
       "time": "18:00",
       "player1": "Vallejo A.",
       "player2": "Munar J. (2)",
-      "odds1": 1.76,
+      "odds1": 1.75,
       "odds2": 1.98,
       "tour": "ATP"
     }
