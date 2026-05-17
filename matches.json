@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T08:22:38.623798",
-  "count": 29,
+  "last_updated": "2026-05-17T13:22:49.400579",
+  "count": 30,
   "matches": [
     {
       "tournament": "Bangalore 3 challenger",
@@ -41,10 +41,10 @@
     {
       "tournament": "Bangalore 3 challenger",
       "time": "09:10",
-      "player1": "Masabayashi T.",
-      "player2": "Sinha N. (8)",
-      "odds1": 1.8,
-      "odds2": 1.9,
+      "player1": "Sinha N. (8)",
+      "player2": "Masabayashi T.",
+      "odds1": 1.9,
+      "odds2": 1.8,
       "tour": "ATP"
     },
     {
@@ -59,141 +59,159 @@
     {
       "tournament": "Zagreb challenger",
       "time": "10:00",
-      "player1": "Moller E. (3)",
-      "player2": "Piros Z. (5)",
-      "odds1": 1.95,
-      "odds2": 1.68,
+      "player1": "Piros Z. (5)",
+      "player2": "Moller E. (3)",
+      "odds1": 1.68,
+      "odds2": 1.95,
       "tour": "ATP"
     },
     {
       "tournament": "Bangalore 3 challenger",
       "time": "10:10",
-      "player1": "Bouzige M. (1)",
-      "player2": "Kshitij A.",
-      "odds1": 1.02,
-      "odds2": 14.92,
+      "player1": "Kshitij A.",
+      "player2": "Bouzige M. (1)",
+      "odds1": 14.92,
+      "odds2": 1.02,
       "tour": "ATP"
     },
     {
       "tournament": "Bangalore 3 challenger",
-      "time": "10:35",
-      "player1": "Kawahashi Y. (2)",
-      "player2": "Taguchi R.",
-      "odds1": 2.19,
-      "odds2": 1.62,
+      "time": "10:30",
+      "player1": "Taguchi R.",
+      "player2": "Kawahashi Y. (2)",
+      "odds1": 1.62,
+      "odds2": 2.19,
       "tour": "ATP"
     },
     {
       "tournament": "Geneva",
-      "time": "11:00",
-      "player1": "Duckworth J. (2)",
-      "player2": "Butvilas E.",
-      "odds1": 2.24,
-      "odds2": 1.61,
+      "time": "11:05",
+      "player1": "Butvilas E.",
+      "player2": "Duckworth J. (2)",
+      "odds1": 1.59,
+      "odds2": 2.29,
       "tour": "ATP"
     },
     {
       "tournament": "Geneva",
-      "time": "11:00",
-      "player1": "Feldbausch K.",
-      "player2": "Basavareddy N. (7)",
-      "odds1": 1.86,
-      "odds2": 1.88,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bangalore 3 challenger",
-      "time": "11:20",
-      "player1": "Yamanaka T. (5)",
-      "player2": "Kalyanpur A.",
-      "odds1": 1.17,
-      "odds2": 4.59,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg",
-      "time": "11:30",
-      "player1": "Giron M. (2)",
-      "player2": "Schoenhaus M.",
-      "odds1": 1.31,
-      "odds2": 3.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg",
-      "time": "11:30",
-      "player1": "Hijikata R. (4)",
-      "player2": "Squire H.",
-      "odds1": 1.91,
+      "time": "11:10",
+      "player1": "Basavareddy N. (7)",
+      "player2": "Feldbausch K.",
+      "odds1": 1.92,
       "odds2": 1.83,
       "tour": "ATP"
     },
     {
-      "tournament": "Bangalore 3 challenger",
+      "tournament": "Hamburg",
       "time": "11:40",
-      "player1": "Shanmugam A.",
-      "player2": "Javia D. (9)",
-      "odds1": 2.61,
-      "odds2": 1.42,
+      "player1": "Hijikata R. (4)",
+      "player2": "Squire H.",
+      "odds1": 1.95,
+      "odds2": 1.8,
       "tour": "ATP"
     },
     {
       "tournament": "Hamburg",
-      "time": "12:00",
-      "player1": "Buse I. (1)",
-      "player2": "Gaston H. (7)",
-      "odds1": 1.29,
-      "odds2": 3.45,
+      "time": "11:40",
+      "player1": "Schoenhaus M.",
+      "player2": "Giron M. (2)",
+      "odds1": 3.27,
+      "odds2": 1.32,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Bangalore 3 challenger",
+      "time": "11:55",
+      "player1": "Javia D. (9)",
+      "player2": "Shanmugam A.",
+      "odds1": 1.42,
+      "odds2": 2.68,
       "tour": "ATP"
     },
     {
       "tournament": "Bangalore 3 challenger",
       "time": "12:05",
-      "player1": "Mehrotra A.",
-      "player2": "Lomakin G. (11)",
-      "odds1": 1.69,
-      "odds2": 2.06,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Geneva",
-      "time": "12:30",
-      "player1": "Brancaccio R. (9)",
-      "player2": "Tabur C. (8)",
-      "odds1": 2.58,
-      "odds2": 1.46,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bangalore 3 challenger",
-      "time": "12:50",
-      "player1": "Lakshmanan A.",
-      "player2": "Karki R. (12)",
-      "odds1": 4.11,
-      "odds2": 1.21,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Geneva",
-      "time": "13:00",
-      "player1": "Rehberg M.",
-      "player2": "Comesana F. (6)",
-      "odds1": 2.92,
-      "odds2": 1.38,
+      "player1": "Yamanaka T. (5)",
+      "player2": "Kalyanpur A.",
+      "odds1": 1.17,
+      "odds2": 4.62,
       "tour": "ATP"
     },
     {
       "tournament": "Hamburg",
-      "time": "13:00",
-      "player1": "Kovacevic A. (3)",
-      "player2": "Gea A. (8)",
-      "odds1": 1.97,
-      "odds2": 1.77,
+      "time": "12:10",
+      "player1": "Buse I. (1)",
+      "player2": "Gaston H. (7)",
+      "odds1": 1.29,
+      "odds2": 3.47,
       "tour": "ATP"
     },
     {
       "tournament": "Bangalore 3 challenger",
-      "time": "13:10",
+      "time": "12:45",
+      "player1": "Lomakin G. (11)",
+      "player2": "Mehrotra A.",
+      "odds1": 2.1,
+      "odds2": 1.67,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Geneva",
+      "time": "12:55",
+      "player1": "Tabur C. (8)",
+      "player2": "Brancaccio R. (9)",
+      "odds1": 1.47,
+      "odds2": 2.59,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Bangalore 3 challenger",
+      "time": "13:35",
+      "player1": "Karki R. (12)",
+      "player2": "Lakshmanan A.",
+      "odds1": 1.21,
+      "odds2": 4.02,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Geneva",
+      "time": "14:05",
+      "player1": "Comesana F. (6)",
+      "player2": "Rehberg M.",
+      "odds1": 1.35,
+      "odds2": 3.04,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Geneva",
+      "time": "14:10",
+      "player1": "Trungelliti M.",
+      "player2": "Navone M.",
+      "odds1": 3.34,
+      "odds2": 1.31,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Zagreb challenger",
+      "time": "14:10",
+      "player1": "Choinski J. (1)",
+      "player2": "Piros Z. (5)",
+      "odds1": 2.37,
+      "odds2": 1.49,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Paris WTA",
+      "time": "14:25",
+      "player1": "Keys M. (1)",
+      "player2": "Parry D.",
+      "odds1": 1.22,
+      "odds2": 4.03,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Bangalore 3 challenger",
+      "time": "14:35",
       "player1": "Chanta T. (6)",
       "player2": "Senthil Kumar R.",
       "odds1": 1.43,
@@ -202,46 +220,37 @@
     },
     {
       "tournament": "Hamburg",
-      "time": "13:30",
+      "time": "14:50",
       "player1": "Dedura-Palomero D.",
       "player2": "Tiafoe F. (8)",
-      "odds1": 3.16,
-      "odds2": 1.35,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Geneva",
-      "time": "14:00",
-      "player1": "Trungelliti M.",
-      "player2": "Navone M.",
       "odds1": 3.26,
       "odds2": 1.33,
       "tour": "ATP"
     },
     {
-      "tournament": "Paris WTA",
-      "time": "14:15",
-      "player1": "Keys M. (1)",
-      "player2": "Parry D.",
-      "odds1": 1.23,
-      "odds2": 3.95,
-      "tour": "WTA"
+      "tournament": "Hamburg",
+      "time": "15:30",
+      "player1": "Kovacevic A. (3)",
+      "player2": "Gea A. (8)",
+      "odds1": 2.22,
+      "odds2": 1.62,
+      "tour": "ATP"
     },
     {
       "tournament": "Hamburg",
-      "time": "15:00",
+      "time": "15:40",
       "player1": "Paul T. (6)",
       "player2": "Quinn E.",
-      "odds1": 1.35,
-      "odds2": 3.15,
+      "odds1": 1.34,
+      "odds2": 3.2,
       "tour": "ATP"
     },
     {
       "tournament": "Bordeaux challenger",
-      "time": "15:00",
+      "time": "15:55",
       "player1": "Cerundolo J.",
       "player2": "Collignon R. (8)",
-      "odds1": 2.94,
+      "odds1": 2.9,
       "odds2": 1.37,
       "tour": "ATP"
     },
@@ -250,8 +259,8 @@
       "time": "16:00",
       "player1": "Kecmanovic M. (7)",
       "player2": "Vallejo A.",
-      "odds1": 1.47,
-      "odds2": 2.56,
+      "odds1": 1.46,
+      "odds2": 2.59,
       "tour": "ATP"
     },
     {
@@ -259,8 +268,8 @@
       "time": "17:00",
       "player1": "Sinner J. (1)",
       "player2": "Ruud C. (23)",
-      "odds1": 1.13,
-      "odds2": 5.89,
+      "odds1": 1.14,
+      "odds2": 5.73,
       "tour": "ATP"
     }
   ]
