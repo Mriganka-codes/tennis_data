@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T14:44:40.058339",
+  "last_updated": "2026-05-22T19:47:34.722939",
   "count": 30,
   "matches": [
     {
@@ -194,37 +194,37 @@
     {
       "tournament": "Istanbul 4 challenger",
       "time": "15:10",
-      "player1": "Barton H. (7)",
-      "player2": "Jorda Sanchis D.",
-      "odds1": 1.38,
-      "odds2": 2.9,
+      "player1": "Jorda Sanchis D.",
+      "player2": "Barton H. (7)",
+      "odds1": 2.9,
+      "odds2": 1.38,
       "tour": "ATP"
     },
     {
       "tournament": "Cervia challenger",
       "time": "15:30",
-      "player1": "Guerrieri A. (1)",
-      "player2": "Alcala Gurri M.",
-      "odds1": 1.79,
-      "odds2": 1.94,
+      "player1": "Alcala Gurri M.",
+      "player2": "Guerrieri A. (1)",
+      "odds1": 1.94,
+      "odds2": 1.79,
       "tour": "ATP"
     },
     {
       "tournament": "Rabat",
       "time": "15:30",
-      "player1": "Teichmann J.",
-      "player2": "Marcinko P. (6)",
-      "odds1": 2.72,
-      "odds2": 1.44,
+      "player1": "Marcinko P. (6)",
+      "player2": "Teichmann J.",
+      "odds1": 1.44,
+      "odds2": 2.72,
       "tour": "WTA"
     },
     {
       "tournament": "Hamburg",
       "time": "15:40",
-      "player1": "Kovacevic A.",
-      "player2": "Buse I.",
-      "odds1": 3.43,
-      "odds2": 1.31,
+      "player1": "Buse I.",
+      "player2": "Kovacevic A.",
+      "odds1": 1.31,
+      "odds2": 3.43,
       "tour": "ATP"
     },
     {
@@ -239,19 +239,19 @@
     {
       "tournament": "French Open",
       "time": "16:25",
-      "player1": "Gill F.",
-      "player2": "Jacquet K. (32)",
-      "odds1": 2.25,
-      "odds2": 1.61,
+      "player1": "Jacquet K. (32)",
+      "player2": "Gill F.",
+      "odds1": 1.61,
+      "odds2": 2.25,
       "tour": "ATP"
     },
     {
       "tournament": "French Open",
       "time": "16:25",
-      "player1": "Kudermetova P. (16)",
-      "player2": "Wang X. (30)",
-      "odds1": 2.24,
-      "odds2": 1.61,
+      "player1": "Wang X. (30)",
+      "player2": "Kudermetova P. (16)",
+      "odds1": 1.61,
+      "odds2": 2.24,
       "tour": "WTA"
     },
     {
@@ -265,11 +265,11 @@
     },
     {
       "tournament": "Hamburg",
-      "time": "17:30",
-      "player1": "De Minaur A. (3)",
-      "player2": "Paul T. (6)",
-      "odds1": 1.61,
-      "odds2": 2.29,
+      "time": "17:40",
+      "player1": "Paul T. (6)",
+      "player2": "De Minaur A. (3)",
+      "odds1": 2.29,
+      "odds2": 1.61,
       "tour": "ATP"
     }
   ]
