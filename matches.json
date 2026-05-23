@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T03:23:26.987672",
+  "last_updated": "2026-05-23T08:21:16.720129",
   "count": 7,
   "matches": [
     {
@@ -17,7 +17,7 @@
       "player1": "Nedic A. (3)",
       "player2": "Jorda Sanchis D.",
       "odds1": 1.45,
-      "odds2": 2.6,
+      "odds2": 2.61,
       "tour": "ATP"
     },
     {
@@ -25,8 +25,8 @@
       "time": "14:00",
       "player1": "Mboko V. (1)",
       "player2": "Navarro E.",
-      "odds1": 1.56,
-      "odds2": 2.39,
+      "odds1": 1.55,
+      "odds2": 2.43,
       "tour": "WTA"
     },
     {
@@ -34,8 +34,8 @@
       "time": "14:00",
       "player1": "Kalinina A.",
       "player2": "Marcinko P. (6)",
-      "odds1": 1.39,
-      "odds2": 2.96,
+      "odds1": 1.38,
+      "odds2": 2.97,
       "tour": "WTA"
     },
     {
@@ -43,8 +43,8 @@
       "time": "14:30",
       "player1": "Buse I.",
       "player2": "Paul T. (6)",
-      "odds1": 2.32,
-      "odds2": 1.6,
+      "odds1": 2.34,
+      "odds2": 1.59,
       "tour": "ATP"
     },
     {
@@ -52,8 +52,8 @@
       "time": "15:00",
       "player1": "Navone M.",
       "player2": "Tien L. (4)",
-      "odds1": 1.66,
-      "odds2": 2.2,
+      "odds1": 1.6,
+      "odds2": 2.31,
       "tour": "ATP"
     },
     {
@@ -62,7 +62,7 @@
       "player1": "Alcala Gurri M.",
       "player2": "Gadamauri B. (6)",
       "odds1": 1.6,
-      "odds2": 2.24,
+      "odds2": 2.23,
       "tour": "ATP"
     }
   ]
