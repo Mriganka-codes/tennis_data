@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T13:27:24.787182",
+  "last_updated": "2026-05-23T19:11:35.693373",
   "count": 7,
   "matches": [
     {
@@ -23,10 +23,10 @@
     {
       "tournament": "Strasbourg",
       "time": "14:10",
-      "player1": "Mboko V. (1)",
-      "player2": "Navarro E.",
-      "odds1": 1.52,
-      "odds2": 2.51,
+      "player1": "Navarro E.",
+      "player2": "Mboko V. (1)",
+      "odds1": 2.51,
+      "odds2": 1.52,
       "tour": "WTA"
     },
     {
@@ -50,19 +50,19 @@
     {
       "tournament": "Geneva",
       "time": "15:10",
-      "player1": "Navone M.",
-      "player2": "Tien L. (4)",
-      "odds1": 1.59,
-      "odds2": 2.34,
+      "player1": "Tien L. (4)",
+      "player2": "Navone M.",
+      "odds1": 2.34,
+      "odds2": 1.59,
       "tour": "ATP"
     },
     {
       "tournament": "Cervia challenger",
-      "time": "17:00",
+      "time": "17:05",
       "player1": "Alcala Gurri M.",
       "player2": "Gadamauri B. (6)",
-      "odds1": 1.6,
-      "odds2": 2.23,
+      "odds1": 1.61,
+      "odds2": 2.22,
       "tour": "ATP"
     }
   ]
