@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T16:51:08.768780",
-  "count": 44,
+  "last_updated": "2026-06-03T20:56:29.447540",
+  "count": 49,
   "matches": [
     {
       "tournament": "Centurion 2 challenger",
@@ -239,10 +239,10 @@
     {
       "tournament": "French Open",
       "time": "16:10",
-      "player1": "Auger Aliassime F. (4)",
-      "player2": "Cobolli F. (10)",
-      "odds1": 1.83,
-      "odds2": 1.97,
+      "player1": "Cobolli F. (10)",
+      "player2": "Auger Aliassime F. (4)",
+      "odds1": 1.97,
+      "odds2": 1.83,
       "tour": "ATP"
     },
     {
@@ -320,10 +320,10 @@
     {
       "tournament": "Heilbronn challenger",
       "time": "18:15",
-      "player1": "Schoenhaus M.",
-      "player2": "Moro Canas A.",
-      "odds1": 1.73,
-      "odds2": 2.03,
+      "player1": "Moro Canas A.",
+      "player2": "Schoenhaus M.",
+      "odds1": 2.03,
+      "odds2": 1.73,
       "tour": "ATP"
     },
     {
@@ -346,7 +346,7 @@
     },
     {
       "tournament": "Tyler challenger",
-      "time": "19:15",
+      "time": "19:05",
       "player1": "Walton A. (1)",
       "player2": "Wu T.",
       "odds1": 1.37,
@@ -355,16 +355,7 @@
     },
     {
       "tournament": "Tyler challenger",
-      "time": "19:30",
-      "player1": "Martin A.",
-      "player2": "Ellis B.",
-      "odds1": 1.48,
-      "odds2": 2.52,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Tyler challenger",
-      "time": "19:30",
+      "time": "19:15",
       "player1": "Shimizu Y.",
       "player2": "Sweeny D. (2)",
       "odds1": 2.09,
@@ -373,29 +364,83 @@
     },
     {
       "tournament": "Foggia",
-      "time": "20:00",
-      "player1": "Lepchenko V. (7)",
-      "player2": "Grant T.",
-      "odds1": 3.79,
-      "odds2": 1.25,
+      "time": "20:10",
+      "player1": "Grant T.",
+      "player2": "Lepchenko V. (7)",
+      "odds1": 1.25,
+      "odds2": 3.79,
       "tour": "WTA"
     },
     {
       "tournament": "French Open",
-      "time": "20:15",
-      "player1": "Berrettini M.",
-      "player2": "Arnaldi M.",
+      "time": "20:30",
+      "player1": "Arnaldi M.",
+      "player2": "Berrettini M.",
+      "odds1": 2.54,
+      "odds2": 1.51,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "20:35",
+      "player1": "Martin A.",
+      "player2": "Ellis B.",
       "odds1": 1.51,
-      "odds2": 2.56,
+      "odds2": 2.52,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "21:25",
+      "player1": "Tomic B. (6)",
+      "player2": "Matsuoka H.",
+      "odds1": 1.63,
+      "odds2": 2.17,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "21:45",
+      "player1": "Poling K.",
+      "player2": "Mejia N. (4)",
+      "odds1": 4.3,
+      "odds2": 1.18,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "22:55",
+      "player1": "Cassone M.",
+      "player2": "Milavsky D.",
+      "odds1": 1.67,
+      "odds2": 2.12,
       "tour": "ATP"
     },
     {
       "tournament": "Perugia challenger",
-      "time": "20:30",
+      "time": "23:10",
       "player1": "Broady L.",
       "player2": "Merida Aguilar D. (3)",
-      "odds1": 3.5,
-      "odds2": 1.28,
+      "odds1": 3.87,
+      "odds2": 1.23,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "23:15",
+      "player1": "Draxl L. (3)",
+      "player2": "Kim A.",
+      "odds1": 1.42,
+      "odds2": 2.7,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "23:15",
+      "player1": "Gorzny S.",
+      "player2": "Fenty A.",
+      "odds1": 2.37,
+      "odds2": 1.54,
       "tour": "ATP"
     }
   ]
