@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T14:53:33.621798",
+  "last_updated": "2026-06-05T19:56:15.167683",
   "count": 39,
   "matches": [
     {
@@ -140,19 +140,19 @@
     {
       "tournament": "French Open",
       "time": "14:40",
-      "player1": "Mensik J. (26)",
-      "player2": "Zverev A. (2)",
-      "odds1": 3.78,
-      "odds2": 1.27,
+      "player1": "Zverev A. (2)",
+      "player2": "Mensik J. (26)",
+      "odds1": 1.27,
+      "odds2": 3.78,
       "tour": "ATP"
     },
     {
       "tournament": "Heilbronn challenger",
       "time": "14:45",
-      "player1": "Den Ouden G.",
-      "player2": "Nava E. (2)",
-      "odds1": 2.67,
-      "odds2": 1.44,
+      "player1": "Nava E. (2)",
+      "player2": "Den Ouden G.",
+      "odds1": 1.44,
+      "odds2": 2.67,
       "tour": "ATP"
     },
     {
@@ -185,28 +185,28 @@
     {
       "tournament": "Tyler challenger",
       "time": "16:10",
-      "player1": "Searle H.",
-      "player2": "Poling K.",
-      "odds1": 1.11,
-      "odds2": 5.89,
+      "player1": "Poling K.",
+      "player2": "Searle H.",
+      "odds1": 5.89,
+      "odds2": 1.11,
       "tour": "ATP"
     },
     {
       "tournament": "Makarska",
       "time": "16:10",
-      "player1": "Palicova B.",
-      "player2": "Avanesyan E.",
-      "odds1": 3.26,
-      "odds2": 1.32,
+      "player1": "Avanesyan E.",
+      "player2": "Palicova B.",
+      "odds1": 1.32,
+      "odds2": 3.26,
       "tour": "WTA"
     },
     {
       "tournament": "Makarska",
       "time": "16:10",
-      "player1": "Lazaro Garcia A.",
-      "player2": "Semenistaja D. (5)",
-      "odds1": 1.6,
-      "odds2": 2.27,
+      "player1": "Semenistaja D. (5)",
+      "player2": "Lazaro Garcia A.",
+      "odds1": 2.27,
+      "odds2": 1.6,
       "tour": "WTA"
     },
     {
@@ -247,110 +247,110 @@
     },
     {
       "tournament": "Heilbronn challenger",
-      "time": "17:00",
-      "player1": "Trungelliti M. (1)",
-      "player2": "Dedura-Palomero D.",
-      "odds1": 1.51,
-      "odds2": 2.46,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Birmingham",
-      "time": "17:00",
-      "player1": "Eala A. (1)",
-      "player2": "Sawangkaew M.",
-      "odds1": 1.33,
-      "odds2": 3.17,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Tyler challenger",
-      "time": "17:30",
-      "player1": "Ilagan A.",
-      "player2": "Shimizu Y.",
-      "odds1": 1.7,
-      "odds2": 2.06,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Tyler challenger",
-      "time": "18:00",
-      "player1": "Walton A. (1)",
-      "player2": "Legout T.",
-      "odds1": 1.15,
-      "odds2": 4.98,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Makarska",
-      "time": "18:00",
-      "player1": "Noha Akugue N.",
-      "player2": "Sorribes Tormo S.",
-      "odds1": 2.31,
-      "odds2": 1.58,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Makarska",
-      "time": "18:00",
-      "player1": "Timofeeva M. (7)",
-      "player2": "Kabbaj Y.",
-      "odds1": 1.19,
-      "odds2": 4.48,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Foggia",
-      "time": "18:00",
-      "player1": "Grant T.",
-      "player2": "Pieri T.",
-      "odds1": 1.06,
-      "odds2": 8.32,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Perugia challenger",
-      "time": "18:30",
-      "player1": "Llamas Ruiz P. (5)",
-      "player2": "Merida Aguilar D. (3)",
-      "odds1": 1.6,
-      "odds2": 2.24,
+      "time": "17:15",
+      "player1": "Dedura-Palomero D.",
+      "player2": "Trungelliti M. (1)",
+      "odds1": 2.46,
+      "odds2": 1.51,
       "tour": "ATP"
     },
     {
       "tournament": "Heilbronn challenger",
-      "time": "18:30",
+      "time": "18:10",
       "player1": "Mikrut L.",
       "player2": "Moeller M.",
-      "odds1": 1.43,
-      "odds2": 2.7,
+      "odds1": 1.44,
+      "odds2": 2.68,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Makarska",
+      "time": "18:10",
+      "player1": "Timofeeva M. (7)",
+      "player2": "Kabbaj Y.",
+      "odds1": 1.19,
+      "odds2": 4.46,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Foggia",
+      "time": "18:30",
+      "player1": "Grant T.",
+      "player2": "Pieri T.",
+      "odds1": 1.06,
+      "odds2": 8.3,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Birmingham",
+      "time": "18:35",
+      "player1": "Eala A. (1)",
+      "player2": "Sawangkaew M.",
+      "odds1": 1.33,
+      "odds2": 3.19,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Perugia challenger",
+      "time": "18:40",
+      "player1": "Merida Aguilar D. (3)",
+      "player2": "Llamas Ruiz P. (5)",
+      "odds1": 2.24,
+      "odds2": 1.6,
       "tour": "ATP"
     },
     {
       "tournament": "French Open",
       "time": "19:00",
-      "player1": "Arnaldi M.",
-      "player2": "Cobolli F. (10)",
-      "odds1": 2.97,
-      "odds2": 1.4,
+      "player1": "Cobolli F. (10)",
+      "player2": "Arnaldi M.",
+      "odds1": 1.42,
+      "odds2": 2.9,
       "tour": "ATP"
     },
     {
-      "tournament": "Foggia",
-      "time": "20:00",
-      "player1": "Pedone G.",
-      "player2": "Bronzetti L. (8)",
-      "odds1": 3.49,
-      "odds2": 1.28,
+      "tournament": "Makarska",
+      "time": "19:30",
+      "player1": "Sorribes Tormo S.",
+      "player2": "Noha Akugue N.",
+      "odds1": 1.58,
+      "odds2": 2.31,
       "tour": "WTA"
     },
     {
+      "tournament": "Foggia",
+      "time": "20:10",
+      "player1": "Bronzetti L. (8)",
+      "player2": "Pedone G.",
+      "odds1": 1.29,
+      "odds2": 3.48,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "20:35",
+      "player1": "Ilagan A.",
+      "player2": "Shimizu Y.",
+      "odds1": 1.71,
+      "odds2": 2.07,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Perugia challenger",
-      "time": "20:30",
+      "time": "20:40",
       "player1": "Pellegrino A. (6)",
       "player2": "Basile P.",
       "odds1": 1.23,
-      "odds2": 3.86,
+      "odds2": 3.9,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tyler challenger",
+      "time": "20:55",
+      "player1": "Walton A. (1)",
+      "player2": "Legout T.",
+      "odds1": 1.14,
+      "odds2": 5.23,
       "tour": "ATP"
     }
   ]
