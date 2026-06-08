@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T15:54:49.761952",
-  "count": 89,
+  "last_updated": "2026-06-08T20:19:55.512890",
+  "count": 87,
   "matches": [
     {
       "tournament": "San Miguel de Tucuman challenger",
@@ -473,10 +473,10 @@
     {
       "tournament": "Queen's Club",
       "time": "16:00",
-      "player1": "Zheng Q.",
-      "player2": "Cristian J.",
-      "odds1": 1.33,
-      "odds2": 3.25,
+      "player1": "Cristian J.",
+      "player2": "Zheng Q.",
+      "odds1": 3.25,
+      "odds2": 1.33,
       "tour": "WTA"
     },
     {
@@ -500,11 +500,20 @@
     {
       "tournament": "Lyon challenger",
       "time": "16:10",
-      "player1": "Djere L.",
-      "player2": "Coppejans K. (7)",
-      "odds1": 1.31,
-      "odds2": 3.23,
+      "player1": "Coppejans K. (7)",
+      "player2": "Djere L.",
+      "odds1": 3.23,
+      "odds2": 1.31,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Ilkley WTA",
+      "time": "16:15",
+      "player1": "Valdmannova V. (3)",
+      "player2": "Griffiths E.",
+      "odds1": 1.06,
+      "odds2": 7.58,
+      "tour": "WTA"
     },
     {
       "tournament": "Ilkley challenger",
@@ -536,19 +545,19 @@
     {
       "tournament": "Bratislava 2 challenger",
       "time": "16:50",
-      "player1": "Gombos N.",
-      "player2": "Choinski J. (3)",
-      "odds1": 3.36,
-      "odds2": 1.3,
+      "player1": "Choinski J. (3)",
+      "player2": "Gombos N.",
+      "odds1": 1.3,
+      "odds2": 3.36,
       "tour": "ATP"
     },
     {
       "tournament": "Ilkley challenger",
       "time": "17:00",
-      "player1": "Jones B.",
-      "player2": "Okonkwo O.",
-      "odds1": 1.56,
-      "odds2": 2.28,
+      "player1": "Okonkwo O.",
+      "player2": "Jones B.",
+      "odds1": 2.28,
+      "odds2": 1.56,
       "tour": "ATP"
     },
     {
@@ -561,53 +570,44 @@
       "tour": "WTA"
     },
     {
-      "tournament": "Ilkley challenger",
+      "tournament": "Lyon challenger",
       "time": "17:25",
-      "player1": "Wendelken H.",
-      "player2": "Pinnington Jones J. (8)",
-      "odds1": 2.57,
-      "odds2": 1.46,
+      "player1": "Van Assche L. (2)",
+      "player2": "Grenier H.",
+      "odds1": 1.1,
+      "odds2": 6.21,
       "tour": "ATP"
     },
     {
       "tournament": "Lyon challenger",
       "time": "17:25",
-      "player1": "Giustino L. (8)",
-      "player2": "Rincon D.",
-      "odds1": 1.8,
-      "odds2": 1.93,
+      "player1": "Rincon D.",
+      "player2": "Giustino L. (8)",
+      "odds1": 1.92,
+      "odds2": 1.81,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Lyon challenger",
-      "time": "17:25",
-      "player1": "Grenier H.",
-      "player2": "Van Assche L. (2)",
-      "odds1": 6.21,
-      "odds2": 1.1,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Queen's Club",
-      "time": "17:30",
-      "player1": "Boulter K.",
-      "player2": "Fernandez L. (8)",
-      "odds1": 1.81,
-      "odds2": 1.97,
-      "tour": "WTA"
     },
     {
       "tournament": "Ilkley WTA",
-      "time": "17:30",
-      "player1": "Klimovicova L.",
-      "player2": "Kraus S. (3)",
-      "odds1": 2.15,
-      "odds2": 1.68,
+      "time": "17:25",
+      "player1": "Kraus S. (3)",
+      "player2": "Klimovicova L.",
+      "odds1": 1.68,
+      "odds2": 2.15,
       "tour": "WTA"
     },
     {
       "tournament": "Ilkley challenger",
-      "time": "17:50",
+      "time": "17:30",
+      "player1": "Pinnington Jones J. (8)",
+      "player2": "Wendelken H.",
+      "odds1": 1.46,
+      "odds2": 2.57,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Ilkley challenger",
+      "time": "17:55",
       "player1": "Holmgren A.",
       "player2": "Budkov Kjaer N. (3)",
       "odds1": 1.97,
@@ -615,8 +615,17 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Hertogenbosch",
+      "tournament": "Ilkley challenger",
       "time": "17:55",
+      "player1": "Stewart H. (11)",
+      "player2": "Crawford O. (6)",
+      "odds1": 1.96,
+      "odds2": 1.73,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Hertogenbosch",
+      "time": "18:05",
       "player1": "Humbert U. (5)",
       "player2": "Ymer E.",
       "odds1": 1.17,
@@ -624,17 +633,8 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Ilkley challenger",
-      "time": "17:55",
-      "player1": "Crawford O. (6)",
-      "player2": "Stewart H. (11)",
-      "odds1": 1.73,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Cattolica challenger",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Guerrieri A.",
       "player2": "Svrcina D. (2)",
       "odds1": 2.48,
@@ -643,43 +643,124 @@
     },
     {
       "tournament": "Modena",
-      "time": "18:00",
+      "time": "18:20",
       "player1": "Vandromme J.",
       "player2": "Fita Boluda A.",
       "odds1": 1.74,
-      "odds2": 2.01,
+      "odds2": 2.0,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Modena",
+      "time": "18:30",
+      "player1": "Trevisan M.",
+      "player2": "Ruggeri J.",
+      "odds1": 1.89,
+      "odds2": 2.03,
       "tour": "WTA"
     },
     {
       "tournament": "Ilkley WTA",
-      "time": "18:25",
+      "time": "18:35",
       "player1": "Golubic V. (1)",
       "player2": "Britton D.",
       "odds1": 1.03,
-      "odds2": 10.42,
+      "odds2": 10.61,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Ilkley WTA",
+      "time": "19:05",
+      "player1": "Prozorova T.",
+      "player2": "Podrez V.",
+      "odds1": 1.65,
+      "odds2": 2.15,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Ilkley challenger",
+      "time": "19:20",
+      "player1": "Tarvet O.",
+      "player2": "Blanchet U.",
+      "odds1": 1.47,
+      "odds2": 2.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Ilkley challenger",
+      "time": "19:25",
+      "player1": "Samuel T.",
+      "player2": "Jacquet K.",
+      "odds1": 1.43,
+      "odds2": 2.69,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Ilkley WTA",
+      "time": "19:30",
+      "player1": "Urhobo A.",
+      "player2": "Sawangkaew M.",
+      "odds1": 3.04,
+      "odds2": 1.36,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Ilkley WTA",
+      "time": "20:05",
+      "player1": "Vidmanova D. (4)",
+      "player2": "Fruhvirtova L.",
+      "odds1": 2.4,
+      "odds2": 1.54,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Queen's Club",
+      "time": "20:30",
+      "player1": "Boulter K.",
+      "player2": "Fernandez L. (8)",
+      "odds1": 1.78,
+      "odds2": 2.02,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Modena",
+      "time": "21:15",
+      "player1": "Kawa K.",
+      "player2": "Pigato L. (8)",
+      "odds1": 2.11,
+      "odds2": 1.72,
       "tour": "WTA"
     },
     {
       "tournament": "San Miguel de Tucuman challenger",
-      "time": "18:30",
-      "player1": "Heredia S. (3)",
-      "player2": "Cundom J. (11)",
-      "odds1": 1.53,
-      "odds2": 2.39,
+      "time": "22:00",
+      "player1": "Chelia B.",
+      "player2": "Martinez T. (10)",
+      "odds1": 3.12,
+      "odds2": 1.32,
       "tour": "ATP"
     },
     {
       "tournament": "San Miguel de Tucuman challenger",
-      "time": "18:30",
+      "time": "22:10",
+      "player1": "Heredia S. (3)",
+      "player2": "Cundom J. (11)",
+      "odds1": 1.51,
+      "odds2": 2.43,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "San Miguel de Tucuman challenger",
+      "time": "22:10",
       "player1": "Rodriguez Rodriguez J. (4)",
       "player2": "Leite W. (9)",
       "odds1": 1.39,
-      "odds2": 2.82,
+      "odds2": 2.84,
       "tour": "ATP"
     },
     {
       "tournament": "San Miguel de Tucuman challenger",
-      "time": "18:30",
+      "time": "22:10",
       "player1": "Del Pino M.",
       "player2": "Huertas Del Pino A. (7)",
       "odds1": null,
@@ -687,71 +768,8 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Ilkley WTA",
-      "time": "18:45",
-      "player1": "Podrez V.",
-      "player2": "Prozorova T.",
-      "odds1": 2.15,
-      "odds2": 1.66,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Modena",
-      "time": "18:45",
-      "player1": "Trevisan M.",
-      "player2": "Ruggeri J.",
-      "odds1": 1.94,
-      "odds2": 1.8,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Ilkley challenger",
-      "time": "19:00",
-      "player1": "Jacquet K.",
-      "player2": "Samuel T.",
-      "odds1": 2.63,
-      "odds2": 1.45,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Queen's Club",
-      "time": "19:00",
-      "player1": "Siegemund L.",
-      "player2": "Jones F.",
-      "odds1": 1.37,
-      "odds2": 3.05,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Ilkley challenger",
-      "time": "19:20",
-      "player1": "Blanchet U.",
-      "player2": "Tarvet O.",
-      "odds1": 2.54,
-      "odds2": 1.48,
-      "tour": "ATP"
-    },
-    {
       "tournament": "San Miguel de Tucuman challenger",
-      "time": "19:30",
-      "player1": "Chelia B.",
-      "player2": "Martinez T. (10)",
-      "odds1": 3.27,
-      "odds2": 1.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Ilkley WTA",
-      "time": "19:55",
-      "player1": "Vidmanova D. (4)",
-      "player2": "Fruhvirtova L.",
-      "odds1": 2.42,
-      "odds2": 1.52,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "San Miguel de Tucuman challenger",
-      "time": "20:00",
+      "time": "23:40",
       "player1": "Villalon N. (2)",
       "player2": "Monferrer E. (12)",
       "odds1": 1.52,
@@ -760,47 +778,11 @@
     },
     {
       "tournament": "San Miguel de Tucuman challenger",
-      "time": "20:00",
+      "time": "23:40",
       "player1": "Giamichelle S.",
       "player2": "Cigarran T. (8)",
-      "odds1": 1.74,
-      "odds2": 1.99,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Ilkley WTA",
-      "time": "20:00",
-      "player1": "Sawangkaew M.",
-      "player2": "Urhobo A.",
-      "odds1": 1.35,
-      "odds2": 3.05,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Modena",
-      "time": "21:15",
-      "player1": "Kawa K.",
-      "player2": "Pigato L. (8)",
-      "odds1": 2.16,
-      "odds2": 1.65,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "San Miguel de Tucuman challenger",
-      "time": "22:30",
-      "player1": "Gomez J.",
-      "player2": "Ambrogi L. (8)",
-      "odds1": 5.13,
-      "odds2": 1.14,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Miguel de Tucuman challenger",
-      "time": "22:30",
-      "player1": "Ribeiro E.",
-      "player2": "De La Fuente S.",
-      "odds1": 1.24,
-      "odds2": 3.76,
+      "odds1": 1.76,
+      "odds2": 1.97,
       "tour": "ATP"
     }
   ]
