@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T09:29:08.337296",
-  "count": 20,
+  "last_updated": "2026-06-26T14:26:20.274717",
+  "count": 22,
   "matches": [
     {
       "tournament": "Targu Mures challenger",
@@ -13,79 +13,79 @@
     },
     {
       "tournament": "Eastbourne",
-      "time": "12:00",
+      "time": "12:10",
       "player1": "Maria T.",
       "player2": "Ostapenko J. (3)",
-      "odds1": 2.51,
+      "odds1": 2.49,
       "odds2": 1.52,
       "tour": "WTA"
     },
     {
-      "tournament": "Targu Mures challenger",
-      "time": "12:40",
-      "player1": "Nagal S.",
-      "player2": "Cretu C.",
-      "odds1": 2.36,
-      "odds2": 1.55,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Bad Homburg WTA",
-      "time": "13:00",
-      "player1": "Wang X.",
-      "player2": "Osaka N. (6)",
-      "odds1": 3.75,
-      "odds2": 1.27,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Eastbourne",
-      "time": "13:30",
-      "player1": "Marcinko P.",
-      "player2": "Keys M. (2)",
-      "odds1": 5.6,
-      "odds2": 1.14,
+      "time": "13:10",
+      "player1": "Osaka N. (6)",
+      "player2": "Wang X.",
+      "odds1": 1.27,
+      "odds2": 3.76,
       "tour": "WTA"
     },
     {
       "tournament": "Plovdiv challenger",
-      "time": "14:30",
-      "player1": "Santamarta Roig A.",
-      "player2": "Montes-De La Torre I. (5)",
-      "odds1": 2.29,
-      "odds2": 1.57,
+      "time": "13:55",
+      "player1": "Montes-De La Torre I. (5)",
+      "player2": "Santamarta Roig A.",
+      "odds1": 1.53,
+      "odds2": 2.37,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Eastbourne",
+      "time": "14:20",
+      "player1": "Keys M. (2)",
+      "player2": "Marcinko P.",
+      "odds1": 1.16,
+      "odds2": 5.28,
+      "tour": "WTA"
     },
     {
       "tournament": "Mallorca",
-      "time": "15:00",
-      "player1": "Borges N.",
-      "player2": "Quinn E.",
-      "odds1": 1.67,
-      "odds2": 2.18,
+      "time": "15:10",
+      "player1": "Quinn E.",
+      "player2": "Borges N.",
+      "odds1": 2.18,
+      "odds2": 1.67,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Targu Mures challenger",
+      "time": "15:10",
+      "player1": "Nagal S.",
+      "player2": "Cretu C.",
+      "odds1": 2.48,
+      "odds2": 1.5,
       "tour": "ATP"
     },
     {
       "tournament": "Piracicaba challenger",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Soto M. (4)",
       "player2": "Villanueva G.",
-      "odds1": 1.55,
-      "odds2": 2.38,
+      "odds1": 1.53,
+      "odds2": 2.43,
       "tour": "ATP"
     },
     {
       "tournament": "Piracicaba challenger",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Saraiva Dos Santos P.",
       "player2": "Pucinelli De Almeida M",
-      "odds1": 6.36,
+      "odds1": 6.32,
       "odds2": 1.1,
       "tour": "ATP"
     },
     {
       "tournament": "Piracicaba challenger",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Aboian V.",
       "player2": "Casanova H.",
       "odds1": 3.32,
@@ -94,16 +94,16 @@
     },
     {
       "tournament": "Piracicaba challenger",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Torres J. (1)",
       "player2": "Aguilar Cardozo J.",
-      "odds1": 1.49,
-      "odds2": 2.49,
+      "odds1": 1.51,
+      "odds2": 2.45,
       "tour": "ATP"
     },
     {
       "tournament": "Bad Homburg WTA",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Ruse E.",
       "player2": "Muchova K. (4)",
       "odds1": 2.75,
@@ -111,39 +111,48 @@
       "tour": "WTA"
     },
     {
-      "tournament": "Eastbourne",
+      "tournament": "Boodles Tennis Challenge",
       "time": "15:30",
+      "player1": "Bautista-Agut R.",
+      "player2": "Mpetshi Perricard G.",
+      "odds1": 2.61,
+      "odds2": 1.46,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Eastbourne",
+      "time": "15:35",
       "player1": "Bergs Z.",
       "player2": "Samuel T.",
-      "odds1": 1.52,
-      "odds2": 2.5,
+      "odds1": 1.56,
+      "odds2": 2.39,
       "tour": "ATP"
     },
     {
       "tournament": "Piracicaba challenger",
-      "time": "16:30",
+      "time": "16:40",
       "player1": "Hardt N. (6)",
       "player2": "Leite W.",
-      "odds1": 1.13,
-      "odds2": 5.46,
+      "odds1": 1.12,
+      "odds2": 5.69,
       "tour": "ATP"
     },
     {
       "tournament": "Piracicaba challenger",
-      "time": "16:30",
+      "time": "16:40",
       "player1": "Rodriguez Taverna S.",
       "player2": "La Serna J. (2)",
-      "odds1": 2.54,
-      "odds2": 1.47,
+      "odds1": 2.47,
+      "odds2": 1.49,
       "tour": "ATP"
     },
     {
-      "tournament": "Eastbourne",
+      "tournament": "Boodles Tennis Challenge",
       "time": "17:00",
-      "player1": "Draper J.",
-      "player2": "Humbert U. (6)",
-      "odds1": 1.55,
-      "odds2": 2.43,
+      "player1": "Tsitsipas S.",
+      "player2": "Prizmic D.",
+      "odds1": 1.64,
+      "odds2": 2.17,
       "tour": "ATP"
     },
     {
@@ -151,8 +160,8 @@
       "time": "17:00",
       "player1": "Andrade Da Silva L.",
       "player2": "Seyboth Wild T. (3)",
-      "odds1": 3.47,
-      "odds2": 1.27,
+      "odds1": 3.48,
+      "odds2": 1.28,
       "tour": "ATP"
     },
     {
@@ -161,7 +170,7 @@
       "player1": "Kicker N. (7)",
       "player2": "Zanellato N.",
       "odds1": 1.16,
-      "odds2": 4.71,
+      "odds2": 4.69,
       "tour": "ATP"
     },
     {
@@ -169,8 +178,17 @@
       "time": "17:00",
       "player1": "Kopp S. (7)",
       "player2": "Nesterov P.",
-      "odds1": 1.61,
-      "odds2": 2.2,
+      "odds1": 1.64,
+      "odds2": 2.17,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Eastbourne",
+      "time": "17:05",
+      "player1": "Draper J.",
+      "player2": "Humbert U. (6)",
+      "odds1": 1.49,
+      "odds2": 2.61,
       "tour": "ATP"
     },
     {
@@ -178,8 +196,8 @@
       "time": "17:30",
       "player1": "Marozsan F.",
       "player2": "Davidovich Fokina A. (2)",
-      "odds1": 3.09,
-      "odds2": 1.36,
+      "odds1": 2.96,
+      "odds2": 1.39,
       "tour": "ATP"
     }
   ]
