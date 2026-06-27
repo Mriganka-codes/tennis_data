@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T03:33:43.331322",
+  "last_updated": "2026-06-27T08:36:37.343254",
   "count": 10,
   "matches": [
     {
@@ -7,8 +7,8 @@
       "time": "11:00",
       "player1": "Muchova K. (4)",
       "player2": "Osaka N. (6)",
-      "odds1": 2.28,
-      "odds2": 1.62,
+      "odds1": 2.32,
+      "odds2": 1.61,
       "tour": "WTA"
     },
     {
@@ -16,7 +16,7 @@
       "time": "13:00",
       "player1": "Maria T.",
       "player2": "Keys M. (2)",
-      "odds1": 3.73,
+      "odds1": 3.74,
       "odds2": 1.27,
       "tour": "WTA"
     },
@@ -35,7 +35,7 @@
       "player1": "Balshaw F.",
       "player2": "Nagal S.",
       "odds1": 1.5,
-      "odds2": 2.47,
+      "odds2": 2.48,
       "tour": "ATP"
     },
     {
@@ -52,8 +52,8 @@
       "time": "15:30",
       "player1": "Bergs Z.",
       "player2": "Humbert U. (6)",
-      "odds1": 3.06,
-      "odds2": 1.37,
+      "odds1": 3.12,
+      "odds2": 1.36,
       "tour": "ATP"
     },
     {
@@ -61,7 +61,7 @@
       "time": "15:30",
       "player1": "Pucinelli De Almeida M.",
       "player2": "Villanueva G.",
-      "odds1": 1.4,
+      "odds1": 1.41,
       "odds2": 2.76,
       "tour": "ATP"
     },
@@ -71,7 +71,7 @@
       "player1": "Montes-De La Torre I. (5)",
       "player2": "Kopp S. (7)",
       "odds1": 1.36,
-      "odds2": 2.91,
+      "odds2": 2.95,
       "tour": "ATP"
     },
     {
@@ -89,7 +89,7 @@
       "player1": "Seyboth Wild T. (3)",
       "player2": "La Serna J. (2)",
       "odds1": 1.32,
-      "odds2": 3.12,
+      "odds2": 3.16,
       "tour": "ATP"
     }
   ]
