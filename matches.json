@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T14:35:35.466795",
-  "count": 81,
+  "last_updated": "2026-07-27T19:27:39.185151",
+  "count": 77,
   "matches": [
     {
       "tournament": "Memphis",
@@ -255,12 +255,39 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Samsun challenger",
+      "time": "12:20",
+      "player1": "Bittoun Kouzmine C. (1)",
+      "player2": "Lomakin G. (12)",
+      "odds1": 1.11,
+      "odds2": 4.82,
+      "tour": "ATP"
+    },
+    {
       "tournament": "San Marino challenger",
       "time": "12:30",
       "player1": "Varillas J. (1)",
       "player2": "Forti F. (9)",
       "odds1": 1.82,
       "odds2": 1.9,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Samsun challenger",
+      "time": "12:45",
+      "player1": "Duran T. (8)",
+      "player2": "Singh D. (3)",
+      "odds1": 1.36,
+      "odds2": 2.94,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Samsun challenger",
+      "time": "12:55",
+      "player1": "Tokac T.",
+      "player2": "Mckennon M. (2)",
+      "odds1": 2.5,
+      "odds2": 1.47,
       "tour": "ATP"
     },
     {
@@ -347,19 +374,19 @@
     {
       "tournament": "San Marino challenger",
       "time": "14:10",
-      "player1": "Rincon D.",
-      "player2": "Prado Angelo J.",
-      "odds1": 1.64,
-      "odds2": 2.17,
+      "player1": "Prado Angelo J.",
+      "player2": "Rincon D.",
+      "odds1": 2.17,
+      "odds2": 1.64,
       "tour": "ATP"
     },
     {
       "tournament": "Liberec challenger",
       "time": "14:30",
-      "player1": "Braynin A.",
-      "player2": "Sultanov K. (7)",
-      "odds1": 5.09,
-      "odds2": 1.14,
+      "player1": "Sultanov K. (7)",
+      "player2": "Braynin A.",
+      "odds1": 1.14,
+      "odds2": 5.09,
       "tour": "ATP"
     },
     {
@@ -401,28 +428,28 @@
     {
       "tournament": "Liberec challenger",
       "time": "15:00",
-      "player1": "Ambrogi L.",
-      "player2": "Kicker N.",
-      "odds1": 1.89,
-      "odds2": 1.84,
+      "player1": "Kicker N.",
+      "player2": "Ambrogi L.",
+      "odds1": 1.84,
+      "odds2": 1.89,
       "tour": "ATP"
     },
     {
       "tournament": "Targu Mures",
       "time": "15:10",
-      "player1": "Romero Gormaz L. (6)",
-      "player2": "Sorribes Tormo S.",
-      "odds1": 2.2,
-      "odds2": 1.63,
+      "player1": "Sorribes Tormo S.",
+      "player2": "Romero Gormaz L. (6)",
+      "odds1": 1.63,
+      "odds2": 2.2,
       "tour": "WTA"
     },
     {
       "tournament": "Bonn challenger",
       "time": "15:35",
-      "player1": "Gadamauri B.",
-      "player2": "MacKenzie J.",
-      "odds1": 2.05,
-      "odds2": 1.71,
+      "player1": "MacKenzie J.",
+      "player2": "Gadamauri B.",
+      "odds1": 1.71,
+      "odds2": 2.05,
       "tour": "ATP"
     },
     {
@@ -437,114 +464,105 @@
     {
       "tournament": "Liberec challenger",
       "time": "16:00",
-      "player1": "Kolar Z. (1)",
-      "player2": "Kumstat J.",
-      "odds1": 1.67,
-      "odds2": 2.11,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Washington",
-      "time": "17:00",
-      "player1": "Tabilo A.",
-      "player2": "Griekspoor T.",
-      "odds1": 2.28,
-      "odds2": 1.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Marino challenger",
-      "time": "17:00",
-      "player1": "Muller A. (5)",
-      "player2": "Napolitano S.",
-      "odds1": 1.5,
-      "odds2": 2.47,
+      "player1": "Kumstat J.",
+      "player2": "Kolar Z. (1)",
+      "odds1": 2.11,
+      "odds2": 1.67,
       "tour": "ATP"
     },
     {
       "tournament": "Bonn challenger",
-      "time": "17:00",
-      "player1": "Boscardin Dias P.",
-      "player2": "Rodionov J. (3)",
-      "odds1": 3.4,
-      "odds2": 1.29,
+      "time": "17:05",
+      "player1": "Rodionov J. (3)",
+      "player2": "Boscardin Dias P.",
+      "odds1": 1.29,
+      "odds2": 3.4,
       "tour": "ATP"
     },
     {
       "tournament": "Washington",
-      "time": "17:00",
+      "time": "17:10",
+      "player1": "Tabilo A.",
+      "player2": "Griekspoor T.",
+      "odds1": 2.3,
+      "odds2": 1.6,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Liberec challenger",
+      "time": "17:10",
+      "player1": "Nagal S. (7)",
+      "player2": "Montes-De La Torre I.",
+      "odds1": 1.98,
+      "odds2": 1.75,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Washington",
+      "time": "17:10",
       "player1": "Cocciaretto E.",
       "player2": "Tauson C.",
-      "odds1": 3.0,
+      "odds1": 2.99,
       "odds2": 1.38,
       "tour": "WTA"
     },
     {
       "tournament": "Washington",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Fernandez L. (7)",
       "player2": "Linette M.",
-      "odds1": 1.53,
+      "odds1": 1.52,
       "odds2": 2.49,
       "tour": "WTA"
     },
     {
       "tournament": "Memphis",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Joint M.",
       "player2": "Osuigwe W.",
       "odds1": 1.22,
-      "odds2": 4.17,
+      "odds2": 4.19,
       "tour": "WTA"
     },
     {
       "tournament": "Memphis",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Volynets K.",
       "player2": "Golubic V. (3)",
-      "odds1": 1.5,
-      "odds2": 2.54,
+      "odds1": 1.57,
+      "odds2": 2.37,
       "tour": "WTA"
     },
     {
       "tournament": "Memphis",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Zakharova A.",
       "player2": "Fruhvirtova L.",
-      "odds1": 1.51,
-      "odds2": 2.53,
+      "odds1": 1.49,
+      "odds2": 2.57,
       "tour": "WTA"
     },
     {
-      "tournament": "Liberec challenger",
-      "time": "17:30",
-      "player1": "Montes-De La Torre I.",
-      "player2": "Nagal S. (7)",
-      "odds1": 1.74,
-      "odds2": 2.0,
+      "tournament": "San Marino challenger",
+      "time": "17:15",
+      "player1": "Muller A. (5)",
+      "player2": "Napolitano S.",
+      "odds1": 1.51,
+      "odds2": 2.46,
       "tour": "ATP"
     },
     {
       "tournament": "Samsun challenger",
-      "time": "17:45",
+      "time": "17:40",
       "player1": "Kuzmanov D. (7)",
       "player2": "Binda A.",
       "odds1": 1.18,
-      "odds2": 4.42,
+      "odds2": 4.4,
       "tour": "ATP"
     },
     {
       "tournament": "Washington",
-      "time": "18:30",
-      "player1": "Arnaldi M.",
-      "player2": "Musetti L. (4)",
-      "odds1": 2.32,
-      "odds2": 1.6,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Washington",
-      "time": "18:30",
+      "time": "18:50",
       "player1": "Navarro E. (8)",
       "player2": "Kenin S.",
       "odds1": 1.36,
@@ -552,89 +570,107 @@
       "tour": "WTA"
     },
     {
-      "tournament": "Vancouver challenger",
-      "time": "19:00",
-      "player1": "Shick B. (1)",
-      "player2": "George B.",
-      "odds1": 1.1,
-      "odds2": 6.1,
+      "tournament": "Washington",
+      "time": "19:50",
+      "player1": "Musetti L. (4)",
+      "player2": "Arnaldi M.",
+      "odds1": 1.59,
+      "odds2": 2.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Washington",
+      "time": "21:10",
+      "player1": "Fritz T. (3)",
+      "player2": "Bergs Z.",
+      "odds1": 1.22,
+      "odds2": 4.21,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver challenger",
-      "time": "19:00",
+      "time": "21:10",
+      "player1": "Bouchelaghem C.",
+      "player2": "Vandecasteele Q. (9)",
+      "odds1": 2.03,
+      "odds2": 1.72,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "21:20",
+      "player1": "Shick B. (1)",
+      "player2": "George B.",
+      "odds1": 1.11,
+      "odds2": 6.06,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "21:20",
       "player1": "Sheehy J.",
       "player2": "Tokuda R. (11)",
-      "odds1": 2.38,
+      "odds1": 2.33,
+      "odds2": 1.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "21:20",
+      "player1": "Milavsky D. (3)",
+      "player2": "Bigun K.",
+      "odds1": 1.48,
+      "odds2": 2.53,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "21:20",
+      "player1": "Zink T. (4)",
+      "player2": "Arseneault N.",
+      "odds1": 1.47,
+      "odds2": 2.56,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "22:40",
+      "player1": "Zhu E.",
+      "player2": "Shepp A.",
+      "odds1": 2.39,
       "odds2": 1.53,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver challenger",
-      "time": "19:00",
-      "player1": "Milavsky D. (3)",
-      "player2": "Bigun K.",
-      "odds1": 1.5,
-      "odds2": 2.47,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "19:00",
-      "player1": "Bouchelaghem C.",
-      "player2": "Vandecasteele Q. (9)",
-      "odds1": 2.05,
-      "odds2": 1.7,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "19:00",
-      "player1": "Zink T. (4)",
-      "player2": "Arseneault N.",
-      "odds1": 1.47,
-      "odds2": 2.55,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "20:30",
+      "time": "22:50",
       "player1": "Marinkov P.",
       "player2": "Langmo C. (10)",
-      "odds1": 2.87,
-      "odds2": 1.38,
+      "odds1": 2.9,
+      "odds2": 1.37,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver challenger",
-      "time": "20:30",
+      "time": "22:50",
       "player1": "Isomura K.",
       "player2": "Poling K. (12)",
-      "odds1": 2.53,
-      "odds2": 1.47,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "20:30",
-      "player1": "Zhu E.",
-      "player2": "Shepp A.",
-      "odds1": 2.47,
+      "odds1": 2.56,
       "odds2": 1.46,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver WTA",
-      "time": "20:30",
+      "time": "22:50",
       "player1": "Scott K. (1)",
       "player2": "Schoppe E.",
       "odds1": 1.14,
-      "odds2": 5.27,
+      "odds2": 5.29,
       "tour": "WTA"
     },
     {
       "tournament": "Vancouver WTA",
-      "time": "20:30",
+      "time": "22:50",
       "player1": "Dong E.",
       "player2": "Savinykh V. (7)",
       "odds1": 2.07,
@@ -643,93 +679,21 @@
     },
     {
       "tournament": "Washington",
-      "time": "21:00",
-      "player1": "Fritz T. (3)",
-      "player2": "Bergs Z.",
-      "odds1": 1.23,
-      "odds2": 4.16,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Washington",
-      "time": "21:30",
-      "player1": "Vukic A.",
-      "player2": "Svajda Z.",
-      "odds1": 2.08,
-      "odds2": 1.74,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "22:00",
-      "player1": "Church C.",
-      "player2": "Boulais J. (7)",
-      "odds1": 5.65,
-      "odds2": 1.12,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "22:00",
-      "player1": "Matsuoka H. (5)",
-      "player2": "Dalmasso G.",
-      "odds1": 1.25,
-      "odds2": 3.67,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "22:00",
-      "player1": "Arseneault M.",
-      "player2": "Trotter J. (8)",
-      "odds1": 3.07,
-      "odds2": 1.34,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver challenger",
-      "time": "22:00",
-      "player1": "Friend J. (6)",
-      "player2": "Moriya H.",
-      "odds1": 1.23,
-      "odds2": 3.81,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Vancouver WTA",
-      "time": "22:00",
-      "player1": "Kuramochi M. (2)",
-      "player2": "Alexander A.",
-      "odds1": 1.26,
-      "odds2": 3.66,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Washington",
       "time": "23:00",
       "player1": "Nishikori K.",
       "player2": "Shang J.",
-      "odds1": 2.47,
-      "odds2": 1.53,
+      "odds1": 2.39,
+      "odds2": 1.57,
       "tour": "ATP"
     },
     {
       "tournament": "Washington",
-      "time": "23:00",
-      "player1": "Tjen J.",
-      "player2": "Sramkova R.",
-      "odds1": 1.52,
-      "odds2": 2.5,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Vancouver WTA",
-      "time": "23:30",
-      "player1": "Wei S. (3)",
-      "player2": "Wong H. (8)",
-      "odds1": 1.72,
-      "odds2": 2.03,
-      "tour": "WTA"
+      "time": "23:45",
+      "player1": "Vukic A.",
+      "player2": "Svajda Z.",
+      "odds1": 2.27,
+      "odds2": 1.62,
+      "tour": "ATP"
     }
   ]
 }
