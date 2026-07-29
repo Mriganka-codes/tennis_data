@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T02:41:54.941860",
-  "count": 65,
+  "last_updated": "2026-07-29T08:41:10.453047",
+  "count": 75,
   "matches": [
     {
       "tournament": "Vancouver WTA",
@@ -104,10 +104,10 @@
     {
       "tournament": "Los Cabos",
       "time": "03:05",
-      "player1": "Shimabukuro S.",
-      "player2": "Pacheco Mendez R.",
-      "odds1": 1.64,
-      "odds2": 2.22,
+      "player1": "Duckworth J.",
+      "player2": "Mayo A.",
+      "odds1": 1.6,
+      "odds2": 2.29,
       "tour": "ATP"
     },
     {
@@ -117,6 +117,15 @@
       "player2": "Kouame M.",
       "odds1": 3.03,
       "odds2": 1.38,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Los Cabos",
+      "time": "03:05",
+      "player1": "Pacheco Mendez R.",
+      "player2": "Shimabukuro S.",
+      "odds1": 2.22,
+      "odds2": 1.64,
       "tour": "ATP"
     },
     {
@@ -149,10 +158,10 @@
     {
       "tournament": "Vancouver challenger",
       "time": "03:35",
-      "player1": "Pinnington Jones J.",
-      "player2": "Samuel T. (7)",
-      "odds1": 2.84,
-      "odds2": 1.39,
+      "player1": "Samuel T. (7)",
+      "player2": "Pinnington Jones J.",
+      "odds1": 1.39,
+      "odds2": 2.84,
       "tour": "ATP"
     },
     {
@@ -167,19 +176,28 @@
     {
       "tournament": "Vancouver challenger",
       "time": "03:50",
-      "player1": "Hsu Y.",
-      "player2": "Mmoh M.",
-      "odds1": 2.02,
-      "odds2": 1.73,
+      "player1": "Mmoh M.",
+      "player2": "Hsu Y.",
+      "odds1": 1.73,
+      "odds2": 2.02,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver WTA",
       "time": "03:50",
-      "player1": "Kaji H.",
-      "player2": "Preston T. (3)",
-      "odds1": 3.65,
-      "odds2": 1.26,
+      "player1": "Preston T. (3)",
+      "player2": "Kaji H.",
+      "odds1": 1.26,
+      "odds2": 3.65,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Memphis",
+      "time": "04:00",
+      "player1": "Zarazua R.",
+      "player2": "Kessler M. (2)",
+      "odds1": 3.72,
+      "odds2": 1.27,
       "tour": "WTA"
     },
     {
@@ -192,66 +210,75 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Vancouver WTA",
+      "time": "05:30",
+      "player1": "Dart H. (7)",
+      "player2": "Cross K.",
+      "odds1": 1.7,
+      "odds2": 2.07,
+      "tour": "WTA"
+    },
+    {
       "tournament": "Los Cabos",
-      "time": "05:00",
-      "player1": "Shapovalov D. (8)",
-      "player2": "Hijikata R.",
-      "odds1": 1.58,
-      "odds2": 2.34,
+      "time": "05:35",
+      "player1": "Gea A.",
+      "player2": "Kwon S.",
+      "odds1": 2.02,
+      "odds2": 1.77,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver challenger",
-      "time": "05:15",
+      "time": "06:10",
       "player1": "Rice K.",
       "player2": "Llamas Ruiz P. (4)",
-      "odds1": 3.24,
+      "odds1": 3.25,
       "odds2": 1.32,
       "tour": "ATP"
     },
     {
-      "tournament": "Vancouver WTA",
-      "time": "05:20",
-      "player1": "Wong H.",
-      "player2": "Sakatsume H. (5)",
-      "odds1": 3.24,
-      "odds2": 1.31,
-      "tour": "WTA"
-    },
-    {
       "tournament": "Los Cabos",
       "time": "06:20",
+      "player1": "Shapovalov D. (8)",
+      "player2": "Hijikata R.",
+      "odds1": 1.59,
+      "odds2": 2.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver WTA",
+      "time": "06:50",
+      "player1": "Dong E.",
+      "player2": "Ku Y.",
+      "odds1": 4.56,
+      "odds2": 1.18,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Los Cabos",
+      "time": "08:25",
       "player1": "Svrcina D.",
       "player2": "Walton A.",
-      "odds1": 2.44,
-      "odds2": 1.54,
+      "odds1": 2.5,
+      "odds2": 1.52,
       "tour": "ATP"
     },
     {
       "tournament": "Los Cabos",
-      "time": "06:30",
+      "time": "08:35",
       "player1": "Zheng M.",
       "player2": "Landaluce M. (7)",
-      "odds1": 1.71,
-      "odds2": 2.12,
+      "odds1": 1.67,
+      "odds2": 2.17,
       "tour": "ATP"
     },
     {
       "tournament": "Vancouver WTA",
-      "time": "06:45",
+      "time": "09:00",
       "player1": "Arseneault A.",
       "player2": "Xu A.",
-      "odds1": 1.21,
-      "odds2": 4.06,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Vancouver WTA",
-      "time": "07:00",
-      "player1": "Ku Y.",
-      "player2": "Dong E.",
-      "odds1": 1.18,
-      "odds2": 4.43,
+      "odds1": 1.26,
+      "odds2": 3.64,
       "tour": "WTA"
     },
     {
@@ -259,8 +286,8 @@
       "time": "11:00",
       "player1": "Choinski J. (1)",
       "player2": "Barrena A.",
-      "odds1": 1.21,
-      "odds2": 4.1,
+      "odds1": 1.2,
+      "odds2": 4.23,
       "tour": "ATP"
     },
     {
@@ -268,8 +295,8 @@
       "time": "11:00",
       "player1": "Wallin O.",
       "player2": "Carballes Baena R. (5)",
-      "odds1": 2.55,
-      "odds2": 1.46,
+      "odds1": 2.65,
+      "odds2": 1.44,
       "tour": "ATP"
     },
     {
@@ -277,8 +304,8 @@
       "time": "11:00",
       "player1": "Kicker N.",
       "player2": "Silva F. (8)",
-      "odds1": 2.05,
-      "odds2": 1.71,
+      "odds1": 2.09,
+      "odds2": 1.69,
       "tour": "ATP"
     },
     {
@@ -286,8 +313,8 @@
       "time": "11:00",
       "player1": "Kumstat J.",
       "player2": "Seyboth Wild T.",
-      "odds1": 2.53,
-      "odds2": 1.47,
+      "odds1": 2.54,
+      "odds2": 1.48,
       "tour": "ATP"
     },
     {
@@ -295,8 +322,8 @@
       "time": "11:00",
       "player1": "Debru G.",
       "player2": "Bax F. (2)",
-      "odds1": 1.67,
-      "odds2": 2.1,
+      "odds1": 1.66,
+      "odds2": 2.12,
       "tour": "ATP"
     },
     {
@@ -304,8 +331,8 @@
       "time": "11:00",
       "player1": "Quevedo K. (1)",
       "player2": "Burillo Escorihuela I.",
-      "odds1": 1.23,
-      "odds2": 3.92,
+      "odds1": 1.22,
+      "odds2": 4.01,
       "tour": "WTA"
     },
     {
@@ -319,11 +346,11 @@
     },
     {
       "tournament": "Liberec challenger",
-      "time": "12:30",
+      "time": "12:10",
       "player1": "Schwaerzler J. (3)",
       "player2": "Krumich M.",
-      "odds1": 1.67,
-      "odds2": 2.1,
+      "odds1": 1.64,
+      "odds2": 2.16,
       "tour": "ATP"
     },
     {
@@ -332,7 +359,7 @@
       "player1": "Sinclair C.",
       "player2": "Matsuda K.",
       "odds1": 2.14,
-      "odds2": 1.64,
+      "odds2": 1.65,
       "tour": "ATP"
     },
     {
@@ -340,17 +367,17 @@
       "time": "12:30",
       "player1": "Bertea E.",
       "player2": "Monnet C. (8)",
-      "odds1": 2.31,
-      "odds2": 1.57,
+      "odds1": 2.3,
+      "odds2": 1.56,
       "tour": "WTA"
     },
     {
       "tournament": "Bonn challenger",
-      "time": "14:00",
+      "time": "13:20",
       "player1": "Moller E. (7)",
       "player2": "MacKenzie J.",
       "odds1": 1.4,
-      "odds2": 2.76,
+      "odds2": 2.77,
       "tour": "ATP"
     },
     {
@@ -358,7 +385,7 @@
       "time": "14:00",
       "player1": "Brunclik P.",
       "player2": "Nagal S. (7)",
-      "odds1": 1.68,
+      "odds1": 1.69,
       "odds2": 2.09,
       "tour": "ATP"
     },
@@ -367,8 +394,8 @@
       "time": "15:00",
       "player1": "Kuzmanov D. (7)",
       "player2": "Inchauspe P.",
-      "odds1": 1.84,
-      "odds2": 1.87,
+      "odds1": 2.01,
+      "odds2": 1.74,
       "tour": "ATP"
     },
     {
@@ -376,7 +403,7 @@
       "time": "16:00",
       "player1": "Poljicak M.",
       "player2": "Basilashvili N. (4)",
-      "odds1": 2.39,
+      "odds1": 2.38,
       "odds2": 1.53,
       "tour": "ATP"
     },
@@ -385,8 +412,8 @@
       "time": "16:00",
       "player1": "Prado Angelo J.",
       "player2": "Dellien H. (7)",
-      "odds1": 2.6,
-      "odds2": 1.45,
+      "odds1": 2.64,
+      "odds2": 1.44,
       "tour": "ATP"
     },
     {
@@ -403,7 +430,7 @@
       "time": "17:00",
       "player1": "McDonald N.",
       "player2": "Rodionov J. (3)",
-      "odds1": 2.79,
+      "odds1": 2.78,
       "odds2": 1.4,
       "tour": "ATP"
     },
@@ -412,8 +439,8 @@
       "time": "17:00",
       "player1": "Albot R.",
       "player2": "Erel Y. (4)",
-      "odds1": 2.2,
-      "odds2": 1.53,
+      "odds1": 2.25,
+      "odds2": 1.57,
       "tour": "ATP"
     },
     {
@@ -421,8 +448,8 @@
       "time": "17:00",
       "player1": "Wang X.",
       "player2": "Samsonova L.",
-      "odds1": 2.52,
-      "odds2": 1.5,
+      "odds1": 2.46,
+      "odds2": 1.54,
       "tour": "WTA"
     },
     {
@@ -430,8 +457,8 @@
       "time": "17:00",
       "player1": "Fernandez L. (7)",
       "player2": "Eala A.",
-      "odds1": 2.24,
-      "odds2": 1.6,
+      "odds1": 1.98,
+      "odds2": 1.81,
       "tour": "WTA"
     },
     {
@@ -439,8 +466,8 @@
       "time": "18:00",
       "player1": "Shymanovich I.",
       "player2": "Volynets K.",
-      "odds1": 3.91,
-      "odds2": 1.24,
+      "odds1": 4.05,
+      "odds2": 1.23,
       "tour": "WTA"
     },
     {
@@ -448,7 +475,7 @@
       "time": "18:30",
       "player1": "Muller A. (5)",
       "player2": "Cecchinato M.",
-      "odds1": 1.68,
+      "odds1": 1.76,
       "odds2": 1.97,
       "tour": "ATP"
     },
@@ -457,8 +484,8 @@
       "time": "19:00",
       "player1": "De Minaur A. (1)",
       "player2": "Tsitsipas S.",
-      "odds1": 1.7,
-      "odds2": 2.13,
+      "odds1": 1.67,
+      "odds2": 2.18,
       "tour": "ATP"
     },
     {
@@ -466,36 +493,54 @@
       "time": "19:00",
       "player1": "Vukic A.",
       "player2": "Musetti L. (4)",
-      "odds1": 3.0,
-      "odds2": 1.38,
+      "odds1": 3.05,
+      "odds2": 1.37,
       "tour": "ATP"
     },
     {
-      "tournament": "Los Cabos",
+      "tournament": "Vancouver challenger",
       "time": "19:00",
-      "player1": "Tomic B.",
-      "player2": "Khachanov K. (4)",
-      "odds1": 3.85,
-      "odds2": 1.25,
+      "player1": "Broady L.",
+      "player2": "Friend J.",
+      "odds1": 1.68,
+      "odds2": 2.1,
       "tour": "ATP"
     },
     {
-      "tournament": "Los Cabos",
+      "tournament": "Vancouver challenger",
       "time": "19:00",
-      "player1": "Cerundolo F. (3)",
-      "player2": "Boyer T.",
-      "odds1": 1.31,
-      "odds2": 3.33,
+      "player1": "Watanuki Y.",
+      "player2": "Matsuoka H.",
+      "odds1": 1.4,
+      "odds2": 2.39,
       "tour": "ATP"
     },
     {
-      "tournament": "Los Cabos",
+      "tournament": "Vancouver challenger",
       "time": "19:00",
-      "player1": "Lehecka J. (1)",
-      "player2": "Wong C.",
-      "odds1": 1.25,
-      "odds2": 3.87,
+      "player1": "Milavsky D.",
+      "player2": "Zhou Y.",
+      "odds1": 2.64,
+      "odds2": 1.44,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "19:00",
+      "player1": "Lajal M. (8)",
+      "player2": "Zhu E.",
+      "odds1": 1.14,
+      "odds2": 5.3,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver WTA",
+      "time": "19:00",
+      "player1": "Uchijima M. (1)",
+      "player2": "Kinoshita H.",
+      "odds1": 1.38,
+      "odds2": 2.91,
+      "tour": "WTA"
     },
     {
       "tournament": "Memphis",
@@ -503,7 +548,7 @@
       "player1": "Osorio C. (5)",
       "player2": "Zakharova A.",
       "odds1": 1.44,
-      "odds2": 2.67,
+      "odds2": 2.74,
       "tour": "WTA"
     },
     {
@@ -511,7 +556,7 @@
       "time": "20:30",
       "player1": "Fritz T. (3)",
       "player2": "Majchrzak K.",
-      "odds1": 1.25,
+      "odds1": 1.31,
       "odds2": 3.44,
       "tour": "ATP"
     },
@@ -520,8 +565,26 @@
       "time": "20:30",
       "player1": "Wolf J.",
       "player2": "Zhang Z. (9)",
-      "odds1": 2.17,
-      "odds2": 1.61,
+      "odds1": 2.1,
+      "odds2": 1.67,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "20:30",
+      "player1": "Trotter J.",
+      "player2": "Zink T.",
+      "odds1": 1.95,
+      "odds2": 1.78,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "20:30",
+      "player1": "Holmgren A.",
+      "player2": "Shick B.",
+      "odds1": 1.4,
+      "odds2": 2.77,
       "tour": "ATP"
     },
     {
@@ -530,7 +593,7 @@
       "player1": "Diaz Acosta F. (1)",
       "player2": "Forti F.",
       "odds1": 1.13,
-      "odds2": 5.44,
+      "odds2": 5.38,
       "tour": "ATP"
     },
     {
@@ -538,7 +601,7 @@
       "time": "20:30",
       "player1": "Navarro E. (8)",
       "player2": "Cocciaretto E.",
-      "odds1": 1.44,
+      "odds1": 1.45,
       "odds2": 2.73,
       "tour": "WTA"
     },
@@ -565,17 +628,35 @@
       "time": "21:00",
       "player1": "Sonmez Z. (4)",
       "player2": "Kalieva E.",
-      "odds1": 1.38,
-      "odds2": 2.81,
+      "odds1": 1.45,
+      "odds2": 2.68,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "22:00",
+      "player1": "Bonzi B. (1)",
+      "player2": "Mmoh M.",
+      "odds1": 1.5,
+      "odds2": 2.12,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vancouver challenger",
+      "time": "22:00",
+      "player1": "Wendelken H.",
+      "player2": "Rice K.",
+      "odds1": 1.38,
+      "odds2": 2.34,
+      "tour": "ATP"
     },
     {
       "tournament": "Vancouver WTA",
       "time": "22:00",
       "player1": "Hibino N.",
       "player2": "Sawangkaew M. (2)",
-      "odds1": 1.02,
-      "odds2": 1.03,
+      "odds1": 2.52,
+      "odds2": 1.4,
       "tour": "WTA"
     },
     {
@@ -583,8 +664,17 @@
       "time": "22:00",
       "player1": "Hontama M.",
       "player2": "Lu J.",
-      "odds1": 1.03,
-      "odds2": 1.03,
+      "odds1": 1.25,
+      "odds2": 3.74,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Vancouver WTA",
+      "time": "22:00",
+      "player1": "Wong H.",
+      "player2": "Sakatsume H. (5)",
+      "odds1": 3.23,
+      "odds2": 1.32,
       "tour": "WTA"
     }
   ]
