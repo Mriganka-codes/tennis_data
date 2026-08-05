@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T14:09:46.971869",
-  "count": 71,
+  "last_updated": "2026-08-05T19:35:15.262186",
+  "count": 91,
   "matches": [
     {
       "tournament": "Montreal",
@@ -257,15 +257,15 @@
     {
       "tournament": "Plovdiv 2 challenger",
       "time": "15:45",
-      "player1": "Galan D. (4)",
-      "player2": "Sanchez Jover C.",
-      "odds1": 1.35,
-      "odds2": 2.99,
+      "player1": "Sanchez Jover C.",
+      "player2": "Galan D. (4)",
+      "odds1": 2.99,
+      "odds2": 1.35,
       "tour": "ATP"
     },
     {
       "tournament": "Plovdiv 2 challenger",
-      "time": "16:00",
+      "time": "16:05",
       "player1": "Nesterov P.",
       "player2": "Sorger S.",
       "odds1": 1.73,
@@ -283,147 +283,75 @@
     },
     {
       "tournament": "Montreal",
-      "time": "17:00",
-      "player1": "Borges N.",
-      "player2": "Etcheverry T. (26)",
-      "odds1": 1.56,
-      "odds2": 2.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "17:00",
-      "player1": "Mejia N.",
-      "player2": "Musetti L. (11)",
-      "odds1": 6.43,
-      "odds2": 1.12,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "17:00",
-      "player1": "Vacherot V. (14)",
-      "player2": "Navone M.",
-      "odds1": 1.59,
-      "odds2": 2.35,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "17:00",
-      "player1": "Tsitsipas S.",
-      "player2": "Fonseca J. (22)",
-      "odds1": 2.26,
-      "odds2": 1.63,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "17:00",
-      "player1": "Bergs Z. (31)",
-      "player2": "Baez S.",
-      "odds1": 1.62,
-      "odds2": 2.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "17:00",
-      "player1": "Li A. (28)",
-      "player2": "Cross K.",
-      "odds1": 1.27,
-      "odds2": 3.74,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Hagen challenger",
       "time": "17:05",
-      "player1": "Tseng C.",
-      "player2": "Gentzsch T.",
-      "odds1": 2.25,
+      "player1": "Navone M.",
+      "player2": "Vacherot V. (14)",
+      "odds1": 2.34,
       "odds2": 1.59,
       "tour": "ATP"
     },
     {
-      "tournament": "Warsaw 2 WTA",
-      "time": "17:15",
-      "player1": "Valdmannova V.",
-      "player2": "Pawlikowska Z.",
-      "odds1": 1.12,
-      "odds2": 5.68,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Plovdiv 2 challenger",
-      "time": "17:30",
-      "player1": "Lazarov G.",
-      "player2": "Milev Y.",
-      "odds1": 1.96,
-      "odds2": 1.77,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Montreal",
-      "time": "18:30",
-      "player1": "Kecmanovic M.",
-      "player2": "Rinderknech A. (23)",
-      "odds1": 1.83,
-      "odds2": 1.97,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "18:30",
-      "player1": "Buse I. (29)",
-      "player2": "Norrie C.",
-      "odds1": 2.85,
-      "odds2": 1.42,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "18:30",
-      "player1": "Brooksby J.",
-      "player2": "Shelton B. (5)",
-      "odds1": 3.38,
-      "odds2": 1.32,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "18:30",
-      "player1": "Svajda Z.",
-      "player2": "Fils A. (18)",
-      "odds1": 3.5,
-      "odds2": 1.3,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "18:30",
-      "player1": "Ruud C. (9)",
-      "player2": "Cerundolo J. (16)",
-      "odds1": 1.35,
-      "odds2": 3.2,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Lexington challenger",
-      "time": "18:30",
-      "player1": "Harris L.",
-      "player2": "Lajovic D. (2)",
-      "odds1": 1.6,
+      "time": "17:05",
+      "player1": "Bergs Z. (31)",
+      "player2": "Baez S.",
+      "odds1": 1.65,
       "odds2": 2.23,
       "tour": "ATP"
     },
     {
-      "tournament": "Lexington challenger",
-      "time": "18:30",
-      "player1": "Shelbayh A.",
-      "player2": "Cina F.",
-      "odds1": 2.42,
-      "odds2": 1.52,
+      "tournament": "Montreal",
+      "time": "17:05",
+      "player1": "Borges N.",
+      "player2": "Etcheverry T. (26)",
+      "odds1": 1.54,
+      "odds2": 2.47,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "17:05",
+      "player1": "Fonseca J. (22)",
+      "player2": "Tsitsipas S.",
+      "odds1": 1.63,
+      "odds2": 2.27,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "17:05",
+      "player1": "Musetti L. (11)",
+      "player2": "Mejia N.",
+      "odds1": 1.12,
+      "odds2": 6.23,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Hagen challenger",
+      "time": "17:05",
+      "player1": "Gentzsch T.",
+      "player2": "Tseng C.",
+      "odds1": 1.57,
+      "odds2": 2.28,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "17:05",
+      "player1": "Li A. (28)",
+      "player2": "Cross K.",
+      "odds1": 1.28,
+      "odds2": 3.69,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Warsaw 2 WTA",
+      "time": "18:25",
+      "player1": "Valdmannova V.",
+      "player2": "Pawlikowska Z.",
+      "odds1": 1.11,
+      "odds2": 6.27,
+      "tour": "WTA"
     },
     {
       "tournament": "Plovdiv 2 challenger",
@@ -431,48 +359,183 @@
       "player1": "Andreev A.",
       "player2": "Demanet E.",
       "odds1": 1.51,
-      "odds2": 2.46,
+      "odds2": 2.45,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Plovdiv 2 challenger",
+      "time": "18:35",
+      "player1": "Lazarov G.",
+      "player2": "Milev Y.",
+      "odds1": 2.13,
+      "odds2": 1.66,
       "tour": "ATP"
     },
     {
       "tournament": "Toronto WTA",
-      "time": "18:30",
+      "time": "18:40",
+      "player1": "Rybakina E. (2)",
+      "player2": "Kasatkina D.",
+      "odds1": 1.13,
+      "odds2": 5.9,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "18:40",
+      "player1": "Bencic B. (12)",
+      "player2": "Stephens S.",
+      "odds1": 1.11,
+      "odds2": 6.38,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "18:40",
+      "player1": "Townsend T.",
+      "player2": "Bouzkova M. (21)",
+      "odds1": 2.12,
+      "odds2": 1.72,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Lexington challenger",
+      "time": "18:45",
+      "player1": "Shelbayh A.",
+      "player2": "Cina F.",
+      "odds1": 2.41,
+      "odds2": 1.52,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "18:55",
       "player1": "Pegula J. (3)",
       "player2": "Frech M.",
-      "odds1": 1.1,
-      "odds2": 7.06,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "18:30",
-      "player1": "Bouzkova M. (21)",
-      "player2": "Townsend T.",
-      "odds1": 1.7,
-      "odds2": 2.14,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "18:30",
-      "player1": "Stephens S.",
-      "player2": "Bencic B. (12)",
-      "odds1": 6.38,
-      "odds2": 1.12,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "18:30",
-      "player1": "Kasatkina D.",
-      "player2": "Rybakina E. (2)",
-      "odds1": 6.06,
-      "odds2": 1.13,
+      "odds1": 1.09,
+      "odds2": 7.17,
       "tour": "WTA"
     },
     {
       "tournament": "Montreal",
-      "time": "20:00",
+      "time": "19:10",
+      "player1": "Kecmanovic M.",
+      "player2": "Rinderknech A. (23)",
+      "odds1": 1.8,
+      "odds2": 2.01,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "19:15",
+      "player1": "Norrie C.",
+      "player2": "Buse I. (29)",
+      "odds1": 1.39,
+      "odds2": 2.99,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "19:20",
+      "player1": "Shelton B. (5)",
+      "player2": "Brooksby J.",
+      "odds1": 1.32,
+      "odds2": 3.41,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "19:35",
+      "player1": "Ruud C. (9)",
+      "player2": "Cerundolo J. (16)",
+      "odds1": 1.35,
+      "odds2": 3.21,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "19:35",
+      "player1": "Fils A. (18)",
+      "player2": "Svajda Z.",
+      "odds1": 1.32,
+      "odds2": 3.41,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Lexington challenger",
+      "time": "20:20",
+      "player1": "Harris L.",
+      "player2": "Lajovic D. (2)",
+      "odds1": 1.6,
+      "odds2": 2.23,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "20:35",
+      "player1": "Jovic I. (13)",
+      "player2": "Linette M.",
+      "odds1": 1.23,
+      "odds2": 4.16,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "20:55",
+      "player1": "Tirante T.",
+      "player2": "Fritz T. (7)",
+      "odds1": 5.18,
+      "odds2": 1.16,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "21:05",
+      "player1": "Korneeva A.",
+      "player2": "Navarro E. (23)",
+      "odds1": 1.99,
+      "odds2": 1.81,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "21:10",
+      "player1": "Hurkacz H.",
+      "player2": "Tabilo A. (25)",
+      "odds1": 1.65,
+      "odds2": 2.23,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "21:15",
+      "player1": "Andreeva M. (5)",
+      "player2": "Pliskova K.",
+      "odds1": 1.2,
+      "odds2": 4.46,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "21:30",
+      "player1": "Zverev A. (1)",
+      "player2": "Griekspoor T.",
+      "odds1": 1.14,
+      "odds2": 5.74,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "21:30",
+      "player1": "Day K.",
+      "player2": "Gauff C. (4)",
+      "odds1": 8.42,
+      "odds2": 1.07,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "21:35",
       "player1": "Jodar R. (20)",
       "player2": "Moutet C.",
       "odds1": 1.31,
@@ -481,155 +544,38 @@
     },
     {
       "tournament": "Montreal",
-      "time": "20:00",
-      "player1": "Tirante T.",
-      "player2": "Fritz T. (7)",
-      "odds1": 5.28,
-      "odds2": 1.16,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "20:00",
-      "player1": "Hurkacz H.",
-      "player2": "Tabilo A. (25)",
-      "odds1": 1.64,
-      "odds2": 2.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "20:00",
+      "time": "22:10",
       "player1": "Collignon R. (32)",
       "player2": "Popyrin A.",
-      "odds1": 1.56,
-      "odds2": 2.4,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "20:00",
-      "player1": "Zverev A. (1)",
-      "player2": "Griekspoor T.",
-      "odds1": 1.08,
-      "odds2": 7.87,
+      "odds1": 1.58,
+      "odds2": 2.38,
       "tour": "ATP"
     },
     {
       "tournament": "Toronto WTA",
-      "time": "20:00",
-      "player1": "Korneeva A.",
-      "player2": "Navarro E. (23)",
-      "odds1": 2.02,
-      "odds2": 1.78,
+      "time": "22:15",
+      "player1": "Sakkari M. (29)",
+      "player2": "Sonmez Z.",
+      "odds1": 1.55,
+      "odds2": 2.44,
       "tour": "WTA"
     },
     {
       "tournament": "Toronto WTA",
-      "time": "20:00",
-      "player1": "Andreeva M. (5)",
-      "player2": "Pliskova K.",
-      "odds1": 1.22,
-      "odds2": 4.31,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "20:00",
-      "player1": "Day K.",
-      "player2": "Gauff C. (4)",
-      "odds1": 8.18,
-      "odds2": 1.07,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "20:00",
-      "player1": "Jovic I. (13)",
-      "player2": "Linette M.",
-      "odds1": 1.24,
-      "odds2": 4.0,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "21:00",
+      "time": "22:35",
       "player1": "Mertens E. (20)",
       "player2": "Bondar A.",
       "odds1": 1.34,
-      "odds2": 3.25,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "21:00",
-      "player1": "Sakkari M. (29)",
-      "player2": "Sonmez Z.",
-      "odds1": 1.54,
-      "odds2": 2.46,
+      "odds2": 3.26,
       "tour": "WTA"
     },
     {
       "tournament": "Montreal",
-      "time": "21:30",
+      "time": "22:40",
       "player1": "Michelsen A.",
       "player2": "Cerundolo F.",
-      "odds1": 1.56,
-      "odds2": 2.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "21:30",
-      "player1": "Khachanov K. (21)",
-      "player2": "Atmane T.",
-      "odds1": 1.67,
-      "odds2": 2.2,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "21:30",
-      "player1": "Marozsan F.",
-      "player2": "Arnaldi M. (30)",
-      "odds1": 1.71,
-      "odds2": 2.14,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "22:30",
-      "player1": "Samsonova L.",
-      "player2": "Krejcikova B. (22)",
-      "odds1": 2.26,
-      "odds2": 1.63,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Toronto WTA",
-      "time": "22:30",
-      "player1": "Cirstea S. (14)",
-      "player2": "Joint M.",
-      "odds1": 1.34,
-      "odds2": 3.22,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "23:00",
-      "player1": "Fearnley J.",
-      "player2": "Mensik J. (13)",
-      "odds1": 2.93,
-      "odds2": 1.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "23:00",
-      "player1": "Humbert U. (24)",
-      "player2": "Merida Aguilar D.",
-      "odds1": 1.4,
-      "odds2": 2.95,
+      "odds1": 1.62,
+      "odds2": 2.28,
       "tour": "ATP"
     },
     {
@@ -637,8 +583,242 @@
       "time": "23:00",
       "player1": "Udvardy P.",
       "player2": "Osaka N. (11)",
-      "odds1": 9.2,
+      "odds1": 9.12,
       "odds2": 1.06,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "23:10",
+      "player1": "Khachanov K. (21)",
+      "player2": "Atmane T.",
+      "odds1": 1.7,
+      "odds2": 2.15,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Montreal",
+      "time": "23:40",
+      "player1": "Marozsan F.",
+      "player2": "Arnaldi M. (30)",
+      "odds1": 1.67,
+      "odds2": 2.21,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Toronto WTA",
+      "time": "23:45",
+      "player1": "Samsonova L.",
+      "player2": "Krejcikova B. (22)",
+      "odds1": 2.27,
+      "odds2": 1.62,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Paul J.",
+      "player2": "Burdet A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Sanchez Izquierdo N.",
+      "player2": "Montes-De La Torre I.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Fonio G.",
+      "player2": "Napolitano S.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Wenger D.",
+      "player2": "Pensini G.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Bertola R.",
+      "player2": "Rodriguez Taverna S.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Staeheli L.",
+      "player2": "Gruenig G.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Von Der Schulenburg J.",
+      "player2": "Genier T.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Ritschard A.",
+      "player2": "Schaer J.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Huesler M.",
+      "player2": "Lopez N.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Brunold M.",
+      "player2": "Parizzia N.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Zimmermann I.",
+      "player2": "Lustenberger R.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Wieland L.",
+      "player2": "Sauer Jimenez N.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Nikles J.",
+      "player2": "Senn N.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Schoen P.",
+      "player2": "Karma N.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Fatic N.",
+      "player2": "Casanova A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Marti S.",
+      "player2": "Carron V.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Lanz A.",
+      "player2": "Radovanovic A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Durrer A.",
+      "player2": "Voegele S.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Semenistaja D.",
+      "player2": "Hertel A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Duerst J.",
+      "player2": "Schnyder S.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Ryser V.",
+      "player2": "Gabric A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Von Deichmann K.",
+      "player2": "Kung L.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Swiss Nationalliga A",
+      "time": "",
+      "player1": "Mettraux M.",
+      "player2": "Tsygourova K.",
+      "odds1": null,
+      "odds2": null,
       "tour": "WTA"
     }
   ]
