@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T06:53:51.752701",
+  "last_updated": "2026-08-08T12:49:07.979022",
   "count": 23,
   "matches": [
     {
@@ -76,47 +76,47 @@
     },
     {
       "tournament": "Grodzisk Mazowiecki challenger",
-      "time": "13:00",
+      "time": "11:00",
       "player1": "Guerrieri A. (4)",
       "player2": "Glinka D. (2)",
-      "odds1": 1.64,
-      "odds2": 2.17,
+      "odds1": 1.77,
+      "odds2": 2.06,
       "tour": "ATP"
     },
     {
       "tournament": "Grodzisk Mazowiecki challenger",
-      "time": "13:00",
+      "time": "13:15",
       "player1": "Erhard M.",
       "player2": "Schwaerzler J. (3)",
-      "odds1": 2.21,
-      "odds2": 1.62,
+      "odds1": 2.27,
+      "odds2": 1.58,
       "tour": "ATP"
     },
     {
       "tournament": "Hagen challenger",
-      "time": "14:00",
+      "time": "14:05",
       "player1": "Kym J.",
       "player2": "Moller E.",
-      "odds1": 1.49,
-      "odds2": 2.49,
+      "odds1": 1.48,
+      "odds2": 2.53,
       "tour": "ATP"
     },
     {
       "tournament": "Istanbul challenger",
-      "time": "14:00",
+      "time": "14:05",
       "player1": "Ghibaudo A.",
       "player2": "Simakin I. (7)",
-      "odds1": 2.44,
-      "odds2": 1.52,
+      "odds1": 2.54,
+      "odds2": 1.48,
       "tour": "ATP"
     },
     {
       "tournament": "Warsaw 2 WTA",
-      "time": "14:00",
+      "time": "14:05",
       "player1": "Lee C.",
       "player2": "Knutson G.",
-      "odds1": 1.44,
-      "odds2": 2.68,
+      "odds1": 1.47,
+      "odds2": 2.57,
       "tour": "WTA"
     },
     {
@@ -124,8 +124,8 @@
       "time": "15:30",
       "player1": "Gentzsch T.",
       "player2": "Piros Z. (3)",
-      "odds1": 2.55,
-      "odds2": 1.47,
+      "odds1": 2.52,
+      "odds2": 1.49,
       "tour": "ATP"
     },
     {
@@ -133,8 +133,8 @@
       "time": "16:00",
       "player1": "Poullain L.",
       "player2": "Brouwer G.",
-      "odds1": 1.53,
-      "odds2": 2.4,
+      "odds1": 1.51,
+      "odds2": 2.44,
       "tour": "ATP"
     },
     {
@@ -142,8 +142,8 @@
       "time": "17:00",
       "player1": "Piraino G.",
       "player2": "Sanchez Jover C.",
-      "odds1": 1.94,
-      "odds2": 1.78,
+      "odds1": 1.99,
+      "odds2": 1.75,
       "tour": "ATP"
     },
     {
@@ -151,8 +151,8 @@
       "time": "18:30",
       "player1": "Borges N.",
       "player2": "Darderi L. (19)",
-      "odds1": 1.58,
-      "odds2": 2.35,
+      "odds1": 1.57,
+      "odds2": 2.41,
       "tour": "ATP"
     },
     {
@@ -160,8 +160,8 @@
       "time": "18:30",
       "player1": "Kostyuk M. (10)",
       "player2": "Swiatek I. (7)",
-      "odds1": 2.23,
-      "odds2": 1.65,
+      "odds1": 2.19,
+      "odds2": 1.67,
       "tour": "WTA"
     },
     {
@@ -169,8 +169,8 @@
       "time": "19:00",
       "player1": "Nesterov P.",
       "player2": "Papoe R.",
-      "odds1": 2.25,
-      "odds2": 1.57,
+      "odds1": 2.24,
+      "odds2": 1.58,
       "tour": "ATP"
     },
     {
@@ -178,8 +178,8 @@
       "time": "20:00",
       "player1": "Rinderknech A. (23)",
       "player2": "Nakashima B. (28)",
-      "odds1": 2.8,
-      "odds2": 1.43,
+      "odds1": 2.76,
+      "odds2": 1.44,
       "tour": "ATP"
     },
     {
@@ -187,8 +187,8 @@
       "time": "20:00",
       "player1": "Pegula J. (3)",
       "player2": "Shnaider D. (15)",
-      "odds1": 1.39,
-      "odds2": 3.0,
+      "odds1": 1.37,
+      "odds2": 3.1,
       "tour": "WTA"
     },
     {
@@ -196,8 +196,8 @@
       "time": "21:00",
       "player1": "Butvilas E.",
       "player2": "Lajovic D. (2)",
-      "odds1": 1.79,
-      "odds2": 1.94,
+      "odds1": 1.75,
+      "odds2": 1.98,
       "tour": "ATP"
     },
     {
@@ -205,8 +205,8 @@
       "time": "21:00",
       "player1": "Johnson S.",
       "player2": "Ilagan A.",
-      "odds1": 1.49,
-      "odds2": 2.47,
+      "odds1": 1.52,
+      "odds2": 2.4,
       "tour": "ATP"
     }
   ]
