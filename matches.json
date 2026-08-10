@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T13:08:39.296088",
+  "last_updated": "2026-08-10T18:57:38.236677",
   "count": 44,
   "matches": [
     {
@@ -239,28 +239,19 @@
     {
       "tournament": "Hamburg challenger",
       "time": "14:45",
-      "player1": "Tseng C.",
-      "player2": "Sachko V. (5)",
-      "odds1": 1.79,
-      "odds2": 1.93,
+      "player1": "Sachko V. (5)",
+      "player2": "Tseng C.",
+      "odds1": 1.93,
+      "odds2": 1.79,
       "tour": "ATP"
     },
     {
       "tournament": "Hamburg challenger",
-      "time": "14:50",
-      "player1": "Cretu C.",
-      "player2": "Moeller M.",
-      "odds1": 2.22,
-      "odds2": 1.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "15:05",
-      "player1": "Dellien M.",
-      "player2": "Galan D.",
-      "odds1": 3.52,
-      "odds2": 1.27,
+      "time": "15:10",
+      "player1": "Moeller M.",
+      "player2": "Cretu C.",
+      "odds1": 1.61,
+      "odds2": 2.22,
       "tour": "ATP"
     },
     {
@@ -273,84 +264,66 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Hamburg challenger",
-      "time": "16:40",
-      "player1": "Brancaccio R. (8)",
-      "player2": "Jianu F.",
-      "odds1": 1.44,
-      "odds2": 2.65,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Todi challenger",
-      "time": "17:00",
-      "player1": "Cecchinato M. (3)",
-      "player2": "Hardt N.",
-      "odds1": 1.39,
-      "odds2": 2.82,
+      "time": "15:50",
+      "player1": "Galan D.",
+      "player2": "Dellien M.",
+      "odds1": 1.28,
+      "odds2": 3.45,
       "tour": "ATP"
     },
     {
       "tournament": "Brownsburg challenger",
-      "time": "17:00",
-      "player1": "King E.",
-      "player2": "Fenty A. (7)",
-      "odds1": 3.68,
-      "odds2": 1.25,
+      "time": "17:10",
+      "player1": "Fenty A. (7)",
+      "player2": "King E.",
+      "odds1": 1.25,
+      "odds2": 3.64,
       "tour": "ATP"
     },
     {
       "tournament": "Brownsburg challenger",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Winter E. (3)",
       "player2": "Young G.",
-      "odds1": 1.93,
-      "odds2": 1.79,
+      "odds1": 1.91,
+      "odds2": 1.81,
       "tour": "ATP"
     },
     {
       "tournament": "Brownsburg challenger",
-      "time": "17:00",
-      "player1": "Boyer T. (1)",
-      "player2": "Mayo A. (12)",
-      "odds1": 1.63,
-      "odds2": 2.18,
+      "time": "17:10",
+      "player1": "Mayo A. (12)",
+      "player2": "Boyer T. (1)",
+      "odds1": 2.12,
+      "odds2": 1.66,
       "tour": "ATP"
     },
     {
       "tournament": "Hamburg challenger",
-      "time": "17:10",
-      "player1": "Petkovic M.",
-      "player2": "McDonald N.",
-      "odds1": 2.24,
-      "odds2": 1.59,
+      "time": "17:15",
+      "player1": "Brancaccio R. (8)",
+      "player2": "Jianu F.",
+      "odds1": 1.33,
+      "odds2": 3.05,
       "tour": "ATP"
     },
     {
       "tournament": "Todi challenger",
-      "time": "18:30",
-      "player1": "Romano F.",
-      "player2": "Giunta M.",
-      "odds1": 1.78,
-      "odds2": 1.95,
+      "time": "17:55",
+      "player1": "Cecchinato M. (3)",
+      "player2": "Hardt N.",
+      "odds1": 1.38,
+      "odds2": 2.87,
       "tour": "ATP"
     },
     {
-      "tournament": "Brownsburg challenger",
-      "time": "18:30",
-      "player1": "Johns G. (5)",
-      "player2": "Rottgering M. (8)",
-      "odds1": 2.37,
-      "odds2": 1.5,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "18:30",
-      "player1": "Suresh D. (6)",
-      "player2": "Kim A. (11)",
-      "odds1": 1.83,
-      "odds2": 1.88,
+      "tournament": "Hamburg challenger",
+      "time": "18:15",
+      "player1": "McDonald N.",
+      "player2": "Petkovic M.",
+      "odds1": 1.66,
+      "odds2": 2.13,
       "tour": "ATP"
     },
     {
@@ -358,17 +331,44 @@
       "time": "18:30",
       "player1": "Rai A.",
       "player2": "Vandecasteele Q. (9)",
-      "odds1": 3.32,
-      "odds2": 1.29,
+      "odds1": 3.24,
+      "odds2": 1.3,
       "tour": "ATP"
     },
     {
       "tournament": "Todi challenger",
-      "time": "20:30",
+      "time": "18:35",
+      "player1": "Romano F.",
+      "player2": "Giunta M.",
+      "odds1": 1.77,
+      "odds2": 1.95,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brownsburg challenger",
+      "time": "18:45",
+      "player1": "Johns G. (5)",
+      "player2": "Rottgering M. (8)",
+      "odds1": 2.46,
+      "odds2": 1.5,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brownsburg challenger",
+      "time": "18:50",
+      "player1": "Suresh D. (6)",
+      "player2": "Kim A. (11)",
+      "odds1": 1.79,
+      "odds2": 1.92,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Todi challenger",
+      "time": "20:40",
       "player1": "Mrva M.",
       "player2": "Basile P.",
-      "odds1": 1.67,
-      "odds2": 2.11,
+      "odds1": 1.56,
+      "odds2": 2.3,
       "tour": "ATP"
     },
     {
@@ -376,7 +376,7 @@
       "time": "22:00",
       "player1": "Jorda Sanchis D.",
       "player2": "Pinnington Jones J. (5)",
-      "odds1": 3.63,
+      "odds1": 3.64,
       "odds2": 1.26,
       "tour": "ATP"
     },
@@ -385,8 +385,8 @@
       "time": "22:00",
       "player1": "Balshaw F.",
       "player2": "Milavsky D.",
-      "odds1": 1.87,
-      "odds2": 1.84,
+      "odds1": 1.83,
+      "odds2": 1.89,
       "tour": "ATP"
     },
     {
@@ -394,7 +394,7 @@
       "time": "23:30",
       "player1": "Blanchet U.",
       "player2": "Sakamoto R. (3)",
-      "odds1": 3.76,
+      "odds1": 3.75,
       "odds2": 1.24,
       "tour": "ATP"
     }
