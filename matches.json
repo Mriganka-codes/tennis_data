@@ -1,496 +1,415 @@
 {
-  "last_updated": "2026-08-11T19:02:06.271514",
-  "count": 95,
+  "last_updated": "2026-08-12T01:59:15.445267",
+  "count": 64,
   "matches": [
     {
-      "tournament": "Brownsburg challenger",
-      "time": "00:45",
-      "player1": "Rottgering M. (8)",
-      "player2": "Johns G. (5)",
-      "odds1": 1.5,
-      "odds2": 2.46,
+      "tournament": "Montreal",
+      "time": "00:10",
+      "player1": "Shelton B. (5)",
+      "player2": "Mensik J. (13)",
+      "odds1": 1.68,
+      "odds2": 2.19,
       "tour": "ATP"
     },
     {
-      "tournament": "Brownsburg challenger",
-      "time": "00:45",
-      "player1": "Suresh D. (6)",
-      "player2": "Kim A. (11)",
-      "odds1": 1.74,
-      "odds2": 2.02,
+      "tournament": "Cincinnati",
+      "time": "00:25",
+      "player1": "Nishikori K.",
+      "player2": "Comesana F. (14)",
+      "odds1": 1.96,
+      "odds2": 1.78,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "00:50",
+      "player1": "Korneeva A. (7)",
+      "player2": "Lepchenko V.",
+      "odds1": 1.12,
+      "odds2": 5.89,
+      "tour": "WTA"
     },
     {
       "tournament": "Toronto WTA",
       "time": "01:10",
-      "player1": "Swiatek I. (7)",
-      "player2": "Shnaider D. (15)",
-      "odds1": 1.32,
-      "odds2": 3.39,
+      "player1": "Gauff C. (4)",
+      "player2": "Bencic B. (12)",
+      "odds1": 1.55,
+      "odds2": 2.45,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "01:15",
+      "player1": "Faria J. (3)",
+      "player2": "Basilashvili N.",
+      "odds1": 1.43,
+      "odds2": 2.71,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "01:25",
+      "player1": "Wu Y.",
+      "player2": "McDonald M.",
+      "odds1": 1.47,
+      "odds2": 2.59,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "01:25",
+      "player1": "Charaeva A. (22)",
+      "player2": "Marino R.",
+      "odds1": 1.45,
+      "odds2": 2.64,
       "tour": "WTA"
     },
     {
       "tournament": "Toronto WTA",
-      "time": "02:30",
-      "player1": "Svitolina E. (9)",
-      "player2": "Alexandrova E. (16)",
-      "odds1": 1.35,
-      "odds2": 3.16,
+      "time": "01:40",
+      "player1": "Osaka N. (11)",
+      "player2": "Rybakina E. (2)",
+      "odds1": 1.91,
+      "odds2": 1.88,
       "tour": "WTA"
     },
     {
-      "tournament": "Brownsburg challenger",
-      "time": "02:40",
-      "player1": "Pinnington Jones J. (5)",
-      "player2": "Jorda Sanchis D.",
-      "odds1": 1.22,
-      "odds2": 4.02,
+      "tournament": "Montreal",
+      "time": "01:45",
+      "player1": "Tien L. (12)",
+      "player2": "Merida Aguilar D.",
+      "odds1": 1.48,
+      "odds2": 2.64,
       "tour": "ATP"
     },
     {
-      "tournament": "Brownsburg challenger",
-      "time": "02:50",
-      "player1": "Milavsky D.",
-      "player2": "Balshaw F.",
-      "odds1": 1.81,
-      "odds2": 1.91,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "07:10",
-      "player1": "Bar Biryukov P. (1)",
-      "player2": "Ichikawa T.",
-      "odds1": 1.46,
-      "odds2": 2.58,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "07:10",
-      "player1": "Cui J.",
-      "player2": "Ouakaa A.",
-      "odds1": 1.34,
-      "odds2": 3.08,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "07:10",
-      "player1": "Dhamne M. (7)",
-      "player2": "Ursu V.",
-      "odds1": 1.49,
-      "odds2": 2.48,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "08:45",
-      "player1": "Zhukayev B.",
-      "player2": "Omarkhanov A.",
-      "odds1": 1.77,
-      "odds2": 1.97,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "09:00",
-      "player1": "Kumasaka T.",
-      "player2": "Sinclair C.",
-      "odds1": 1.79,
-      "odds2": 1.94,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "09:20",
-      "player1": "Alkaya M. (2)",
-      "player2": "Rawat S.",
+      "tournament": "Cincinnati",
+      "time": "01:45",
+      "player1": "Yunchaokete B.",
+      "player2": "Maestrelli F.",
       "odds1": 1.27,
-      "odds2": 3.57,
+      "odds2": 3.69,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "02:10",
+      "player1": "Echargui M.",
+      "player2": "Zheng M.",
+      "odds1": 7.12,
+      "odds2": 1.08,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "02:15",
+      "player1": "Ito A.",
+      "player2": "Sierra S. (6)",
+      "odds1": 3.18,
+      "odds2": 1.34,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "02:30",
+      "player1": "Trungelliti M. (6)",
+      "player2": "Ofner S.",
+      "odds1": 2.3,
+      "odds2": 1.59,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "02:30",
+      "player1": "Lys E. (5)",
+      "player2": "Kawa K.",
+      "odds1": 1.37,
+      "odds2": 2.95,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "02:35",
+      "player1": "Gaston H. (10)",
+      "player2": "Budkov Kjaer N.",
+      "odds1": 1.7,
+      "odds2": 2.09,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "02:50",
+      "player1": "Dart H.",
+      "player2": "Uchijima M. (20)",
+      "odds1": 2.22,
+      "odds2": 1.62,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "03:10",
+      "player1": "Popyrin A.",
+      "player2": "Droguet T.",
+      "odds1": 1.72,
+      "odds2": 2.07,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "03:20",
+      "player1": "Salkova D.",
+      "player2": "Blinkova A. (18)",
+      "odds1": 2.0,
+      "odds2": 1.76,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "03:40",
+      "player1": "Harris B.",
+      "player2": "Jacquet K.",
+      "odds1": 3.35,
+      "odds2": 1.31,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "04:10",
+      "player1": "Damm M. (11)",
+      "player2": "Sakellaridis S.",
+      "odds1": 1.29,
+      "odds2": 3.5,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "04:25",
+      "player1": "Shimabukuro S. (9)",
+      "player2": "Dellien H.",
+      "odds1": 1.18,
+      "odds2": 4.57,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "04:25",
+      "player1": "Wolf J.",
+      "player2": "Mochizuki S.",
+      "odds1": 1.51,
+      "odds2": 2.46,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Astana 4 challenger",
+      "time": "08:00",
+      "player1": "Ratti L. (8)",
+      "player2": "Sultanov K.",
+      "odds1": 2.57,
+      "odds2": 1.47,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Astana 4 challenger",
+      "time": "08:00",
+      "player1": "Kumasaka T.",
+      "player2": "Matsuoka H. (4)",
+      "odds1": 3.46,
+      "odds2": 1.28,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Astana 4 challenger",
+      "time": "09:30",
+      "player1": "Sun F. (5)",
+      "player2": "Pankin S.",
+      "odds1": 1.58,
+      "odds2": 2.26,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Hamburg challenger",
+      "time": "10:30",
+      "player1": "Dietrich D.",
+      "player2": "Sachko V. (5)",
+      "odds1": 1.51,
+      "odds2": 2.44,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Hamburg challenger",
+      "time": "12:00",
+      "player1": "McDonald N.",
+      "player2": "Ribeiro E.",
+      "odds1": 1.54,
+      "odds2": 2.36,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Astana 4 challenger",
+      "time": "12:30",
+      "player1": "Zhukayev B.",
+      "player2": "Alkaya M. (2)",
+      "odds1": 2.43,
+      "odds2": 1.51,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Hamburg challenger",
+      "time": "14:30",
+      "player1": "Brancaccio R. (8)",
+      "player2": "Moeller M.",
+      "odds1": 2.0,
+      "odds2": 1.71,
       "tour": "ATP"
     },
     {
       "tournament": "Todi challenger",
-      "time": "10:05",
-      "player1": "Forti F.",
-      "player2": "Mecarelli M.",
-      "odds1": 1.3,
-      "odds2": 3.27,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "10:05",
-      "player1": "Ambrogi L.",
-      "player2": "Ajdukovic D.",
+      "time": "15:00",
+      "player1": "Romano F.",
+      "player2": "Torres J. (8)",
       "odds1": 2.04,
       "odds2": 1.71,
       "tour": "ATP"
     },
     {
       "tournament": "Todi challenger",
-      "time": "10:05",
-      "player1": "Torres J. (8)",
-      "player2": "Dalla Valle E.",
-      "odds1": 2.6,
-      "odds2": 1.45,
+      "time": "15:30",
+      "player1": "Cecchinato M. (3)",
+      "player2": "Forti F.",
+      "odds1": 1.36,
+      "odds2": 2.94,
       "tour": "ATP"
     },
     {
-      "tournament": "Astana 4 challenger",
-      "time": "10:20",
-      "player1": "Sun F. (5)",
-      "player2": "Nurlanuly Z.",
-      "odds1": 1.18,
-      "odds2": 4.47,
+      "tournament": "Brownsburg challenger",
+      "time": "16:00",
+      "player1": "Kozlov S.",
+      "player2": "Mayo A.",
+      "odds1": 2.47,
+      "odds2": 1.5,
       "tour": "ATP"
     },
     {
-      "tournament": "Hamburg challenger",
-      "time": "10:35",
-      "player1": "Dietrich D.",
-      "player2": "Krutykh O.",
-      "odds1": 1.37,
-      "odds2": 2.91,
+      "tournament": "Brownsburg challenger",
+      "time": "16:00",
+      "player1": "Searle H.",
+      "player2": "Rottgering M.",
+      "odds1": 1.43,
+      "odds2": 2.69,
       "tour": "ATP"
     },
     {
-      "tournament": "Hamburg challenger",
-      "time": "10:35",
-      "player1": "Pucinelli De Almeida M.",
-      "player2": "Broska F.",
-      "odds1": 1.45,
-      "odds2": 2.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "10:45",
-      "player1": "Arutiunian E.",
-      "player2": "Shin S.",
-      "odds1": 1.57,
-      "odds2": 2.28,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "10:45",
-      "player1": "Imamura M.",
-      "player2": "Ghibaudo A. (6)",
-      "odds1": 2.37,
-      "odds2": 1.54,
+      "tournament": "Brownsburg challenger",
+      "time": "16:00",
+      "player1": "Harris L. (7)",
+      "player2": "Fenty A.",
+      "odds1": 1.24,
+      "odds2": 3.8,
       "tour": "ATP"
     },
     {
       "tournament": "Hamburg challenger",
-      "time": "11:10",
+      "time": "16:00",
       "player1": "Schoenhaus M.",
-      "player2": "Piros Z. (1)",
-      "odds1": 2.61,
-      "odds2": 1.45,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "11:55",
-      "player1": "Barrena A. (7)",
-      "player2": "Kravchenko G.",
-      "odds1": 1.57,
-      "odds2": 2.28,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg challenger",
-      "time": "12:10",
-      "player1": "Purtseladze S.",
-      "player2": "Lechno-Wasiutynski F.",
-      "odds1": 2.72,
-      "odds2": 1.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "12:30",
-      "player1": "Samrej K.",
-      "player2": "Isomura K.",
-      "odds1": 1.48,
-      "odds2": 2.53,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg challenger",
-      "time": "12:35",
-      "player1": "Dodig M.",
-      "player2": "Yevseyev D.",
-      "odds1": 1.15,
-      "odds2": 4.92,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg challenger",
-      "time": "12:40",
-      "player1": "Rehberg M.",
-      "player2": "Dedura-Palomero D. (6)",
-      "odds1": 1.92,
+      "player2": "Pucinelli De Almeida M.",
+      "odds1": 1.91,
       "odds2": 1.8,
       "tour": "ATP"
     },
     {
-      "tournament": "Todi challenger",
-      "time": "12:45",
-      "player1": "Neumayer L. (2)",
-      "player2": "Weis A.",
-      "odds1": 1.2,
-      "odds2": 4.21,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Astana 4 challenger",
-      "time": "12:50",
-      "player1": "Dougaz A.",
-      "player2": "Deckers A.",
-      "odds1": 1.26,
-      "odds2": 3.69,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "13:00",
-      "player1": "Gomez F. (4)",
-      "player2": "Martin Manzano J.",
+      "tournament": "Cincinnati",
+      "time": "16:00",
+      "player1": "Giron M. (4)",
+      "player2": "Rocha H.",
       "odds1": 1.43,
-      "odds2": 2.65,
+      "odds2": 2.71,
       "tour": "ATP"
     },
     {
-      "tournament": "Astana 4 challenger",
-      "time": "13:00",
-      "player1": "Fomin S. (3)",
-      "player2": "Zhukov M.",
-      "odds1": 1.53,
-      "odds2": 2.4,
+      "tournament": "Cincinnati",
+      "time": "16:00",
+      "player1": "Mejia N.",
+      "player2": "Fearnley J. (16)",
+      "odds1": 3.63,
+      "odds2": 1.27,
       "tour": "ATP"
     },
     {
-      "tournament": "Hamburg challenger",
-      "time": "13:30",
-      "player1": "Molleker R.",
-      "player2": "Moller E. (3)",
-      "odds1": 3.11,
-      "odds2": 1.33,
+      "tournament": "Cincinnati",
+      "time": "16:00",
+      "player1": "Vukic A. (12)",
+      "player2": "Blanch D.",
+      "odds1": 1.62,
+      "odds2": 2.23,
       "tour": "ATP"
     },
     {
-      "tournament": "Hamburg challenger",
-      "time": "13:50",
-      "player1": "Taberner C.",
-      "player2": "Wallin O.",
-      "odds1": 1.63,
-      "odds2": 2.18,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg challenger",
-      "time": "14:00",
-      "player1": "Nedic A.",
-      "player2": "Kirkin E.",
-      "odds1": 1.2,
-      "odds2": 4.14,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "14:00",
-      "player1": "Faurel T.",
-      "player2": "Mena F.",
-      "odds1": 1.43,
-      "odds2": 2.64,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "15:15",
-      "player1": "Sanchez Izquierdo N. (5)",
-      "player2": "Piraino G.",
-      "odds1": 1.51,
-      "odds2": 2.44,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "16:10",
-      "player1": "Ilagan A.",
-      "player2": "Martin A.",
+      "tournament": "Cincinnati",
+      "time": "16:00",
+      "player1": "Lajal M.",
+      "player2": "Svrcina D.",
       "odds1": 1.93,
-      "odds2": 1.78,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "16:10",
-      "player1": "Wendelken H.",
-      "player2": "Gojo B. (2)",
-      "odds1": 2.69,
-      "odds2": 1.42,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "16:10",
-      "player1": "Butvilas E.",
-      "player2": "Mmoh M. (8)",
-      "odds1": 1.8,
-      "odds2": 1.92,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg challenger",
-      "time": "16:20",
-      "player1": "Kumstat J.",
-      "player2": "MacKenzie J.",
-      "odds1": 1.51,
-      "odds2": 2.45,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "16:25",
-      "player1": "Roca Batalla O.",
-      "player2": "Mashtakov M.",
-      "odds1": 1.3,
-      "odds2": 3.27,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hamburg challenger",
-      "time": "16:40",
-      "player1": "Houkes M.",
-      "player2": "Nagal S. (7)",
-      "odds1": 2.08,
-      "odds2": 1.69,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "17:55",
-      "player1": "Smith C.",
-      "player2": "Gill F.",
-      "odds1": 1.52,
-      "odds2": 2.42,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "18:10",
-      "player1": "Kicker N.",
-      "player2": "Travaglia S. (1)",
-      "odds1": 3.36,
-      "odds2": 1.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "18:10",
-      "player1": "Virtanen O.",
-      "player2": "Gogineni V.",
-      "odds1": 1.22,
-      "odds2": 4.08,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "18:10",
-      "player1": "Shevchenko A. (5)",
-      "player2": "Llamas Ruiz P.",
-      "odds1": 1.8,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "18:10",
-      "player1": "Wong C. (8)",
-      "player2": "Hong S.",
-      "odds1": 1.16,
-      "odds2": 5.01,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "18:10",
-      "player1": "O'Connell C.",
-      "player2": "Sweeny D.",
-      "odds1": 1.51,
-      "odds2": 2.47,
+      "odds2": 1.81,
       "tour": "ATP"
     },
     {
       "tournament": "Cincinnati WTA",
-      "time": "18:10",
-      "player1": "Tagger L. (1)",
-      "player2": "Zhu L.",
-      "odds1": 1.35,
-      "odds2": 3.08,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "18:10",
-      "player1": "Montgomery R.",
-      "player2": "Grabher J. (21)",
-      "odds1": 1.25,
-      "odds2": 3.83,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "18:10",
-      "player1": "Day K.",
-      "player2": "Preston T. (17)",
-      "odds1": 1.77,
-      "odds2": 2.0,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "18:10",
-      "player1": "Sawangkaew M. (19)",
-      "player2": "Jimenez Kasintseva V.",
-      "odds1": 1.43,
-      "odds2": 2.73,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "18:10",
-      "player1": "Yuan Y.",
-      "player2": "Zarazua R. (2)",
-      "odds1": 2.01,
-      "odds2": 1.76,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "18:10",
-      "player1": "Tararudee L. (3)",
-      "player2": "Jones E.",
-      "odds1": 1.49,
-      "odds2": 2.54,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Todi challenger",
-      "time": "18:20",
-      "player1": "Michalski D.",
-      "player2": "Carboni L.",
-      "odds1": 1.71,
+      "time": "16:00",
+      "player1": "Wang X. (9)",
+      "player2": "Andreescu B.",
+      "odds1": 1.73,
       "odds2": 2.05,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "16:00",
+      "player1": "Lee C.",
+      "player2": "Kudermetova P. (14)",
+      "odds1": 1.69,
+      "odds2": 2.08,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "16:00",
+      "player1": "Arango E. (10)",
+      "player2": "Sasnovich A.",
+      "odds1": 2.49,
+      "odds2": 1.5,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "16:00",
+      "player1": "Podoroska N.",
+      "player2": "Seidel E. (16)",
+      "odds1": 2.6,
+      "odds2": 1.46,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "16:00",
+      "player1": "Yuan Y.",
+      "player2": "Day K.",
+      "odds1": 2.19,
+      "odds2": 1.58,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Brownsburg challenger",
+      "time": "17:00",
+      "player1": "Schwaerzler J.",
+      "player2": "Andrade A.",
+      "odds1": 1.59,
+      "odds2": 2.24,
       "tour": "ATP"
     },
     {
       "tournament": "Brownsburg challenger",
-      "time": "18:25",
+      "time": "17:30",
       "player1": "Onclin G. (4)",
       "player2": "Zink T.",
       "odds1": 1.51,
@@ -499,7 +418,16 @@
     },
     {
       "tournament": "Brownsburg challenger",
-      "time": "18:30",
+      "time": "17:30",
+      "player1": "Smith C.",
+      "player2": "Gill F.",
+      "odds1": 1.52,
+      "odds2": 2.42,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brownsburg challenger",
+      "time": "17:30",
       "player1": "Blanchet U.",
       "player2": "Sakamoto R. (3)",
       "odds1": 3.84,
@@ -507,251 +435,89 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Montreal",
-      "time": "18:40",
-      "player1": "Nakashima B. (28)",
-      "player2": "Darderi L. (19)",
-      "odds1": 1.38,
-      "odds2": 3.06,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "19:30",
-      "player1": "Kraus S. (4)",
-      "player2": "Bassols Ribera M.",
-      "odds1": 1.69,
-      "odds2": 2.1,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "19:40",
-      "player1": "Mpetshi Perricard G. (7)",
-      "player2": "Svajda T.",
-      "odds1": 1.53,
-      "odds2": 2.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "19:50",
-      "player1": "Lajovic D.",
-      "player2": "Bonzi B. (13)",
-      "odds1": 2.52,
-      "odds2": 1.49,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "19:55",
-      "player1": "Van Assche L. (1)",
-      "player2": "Heide G.",
-      "odds1": 1.27,
-      "odds2": 3.65,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "20:00",
-      "player1": "Iatcenko P.",
-      "player2": "Liu C. (23)",
-      "odds1": 2.58,
-      "odds2": 1.47,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "20:00",
-      "player1": "Sakatsume H.",
-      "player2": "Jeanjean L. (24)",
-      "odds1": 2.48,
-      "odds2": 1.5,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "20:15",
-      "player1": "Selekhmeteva O. (12)",
-      "player2": "Mandlik E.",
-      "odds1": 1.66,
-      "odds2": 2.15,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Montreal",
-      "time": "20:20",
-      "player1": "Jodar R. (20)",
-      "player2": "Fils A. (18)",
-      "odds1": 1.65,
-      "odds2": 2.23,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "20:20",
-      "player1": "Zakharova A. (11)",
-      "player2": "Stefanini L.",
-      "odds1": 1.39,
-      "odds2": 2.87,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "20:35",
-      "player1": "Stoiana M.",
-      "player2": "Erjavec V. (15)",
-      "odds1": 1.36,
-      "odds2": 3.03,
-      "tour": "WTA"
-    },
-    {
       "tournament": "Todi challenger",
-      "time": "20:40",
-      "player1": "Caniato C.",
-      "player2": "Passaro F. (6)",
-      "odds1": 2.3,
-      "odds2": 1.56,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "21:00",
-      "player1": "Schoolkate T.",
-      "player2": "Cina F. (6)",
-      "odds1": 2.43,
-      "odds2": 1.52,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "21:00",
-      "player1": "Broady L.",
-      "player2": "Suresh D.",
-      "odds1": 1.81,
-      "odds2": 1.93,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "21:00",
-      "player1": "Kozlov S.",
-      "player2": "Mayo A.",
-      "odds1": 2.5,
-      "odds2": 1.5,
+      "time": "17:30",
+      "player1": "Sanchez Izquierdo N. (5)",
+      "player2": "Mrva M.",
+      "odds1": 1.7,
+      "odds2": 2.05,
       "tour": "ATP"
     },
     {
       "tournament": "Cincinnati",
-      "time": "21:00",
-      "player1": "Halys Q. (2)",
-      "player2": "Kwon S.",
-      "odds1": 1.64,
-      "odds2": 2.17,
+      "time": "17:30",
+      "player1": "Wong C. (8)",
+      "player2": "Virtanen O.",
+      "odds1": 2.01,
+      "odds2": 1.72,
       "tour": "ATP"
     },
     {
       "tournament": "Cincinnati",
-      "time": "21:15",
-      "player1": "Nishikori K.",
-      "player2": "Comesana F. (14)",
-      "odds1": 1.95,
-      "odds2": 1.8,
+      "time": "17:30",
+      "player1": "Shevchenko A. (5)",
+      "player2": "O'Connell C.",
+      "odds1": 1.88,
+      "odds2": 1.83,
       "tour": "ATP"
     },
     {
       "tournament": "Cincinnati",
-      "time": "21:20",
-      "player1": "Maestrelli F.",
-      "player2": "Yunchaokete B.",
-      "odds1": 3.67,
-      "odds2": 1.26,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "21:30",
-      "player1": "Tomic B. (1)",
-      "player2": "Winter E.",
-      "odds1": 1.51,
-      "odds2": 2.43,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "21:30",
-      "player1": "Harris L. (7)",
-      "player2": "Fenty A.",
-      "odds1": 1.24,
-      "odds2": 3.79,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "21:30",
-      "player1": "Faria J. (3)",
-      "player2": "Basilashvili N.",
-      "odds1": 1.43,
-      "odds2": 2.71,
+      "time": "17:30",
+      "player1": "Van Assche L. (1)",
+      "player2": "Lajovic D.",
+      "odds1": 1.04,
+      "odds2": 1.03,
       "tour": "ATP"
     },
     {
       "tournament": "Cincinnati WTA",
-      "time": "21:30",
-      "player1": "Korneeva A. (7)",
-      "player2": "Lepchenko V.",
-      "odds1": 1.12,
-      "odds2": 5.94,
+      "time": "17:30",
+      "player1": "Tagger L. (1)",
+      "player2": "Montgomery R.",
+      "odds1": 1.66,
+      "odds2": 2.14,
       "tour": "WTA"
     },
     {
       "tournament": "Cincinnati WTA",
-      "time": "21:30",
-      "player1": "Marino R.",
-      "player2": "Charaeva A. (22)",
-      "odds1": 2.64,
-      "odds2": 1.45,
+      "time": "17:30",
+      "player1": "Tararudee L. (3)",
+      "player2": "Sawangkaew M. (19)",
+      "odds1": 1.62,
+      "odds2": 2.19,
       "tour": "WTA"
     },
     {
       "tournament": "Cincinnati WTA",
-      "time": "21:30",
-      "player1": "Vandewinkel H. (8)",
-      "player2": "Urhobo A.",
-      "odds1": 1.3,
-      "odds2": 3.37,
+      "time": "17:30",
+      "player1": "Kraus S. (4)",
+      "player2": "Liu C. (23)",
+      "odds1": 1.03,
+      "odds2": 1.02,
       "tour": "WTA"
     },
     {
-      "tournament": "Cincinnati",
-      "time": "21:45",
-      "player1": "Echargui M.",
-      "player2": "Zheng M.",
-      "odds1": 7.05,
-      "odds2": 1.09,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brownsburg challenger",
-      "time": "22:00",
-      "player1": "Searle H.",
-      "player2": "Rottgering M.",
-      "odds1": 1.44,
-      "odds2": 2.64,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "22:00",
-      "player1": "McDonald M.",
-      "player2": "Wu Y.",
-      "odds1": 2.61,
-      "odds2": 1.46,
-      "tour": "ATP"
+      "tournament": "Cincinnati WTA",
+      "time": "17:30",
+      "player1": "Stefanini L.",
+      "player2": "Jeanjean L. (24)",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
     },
     {
       "tournament": "Cincinnati WTA",
-      "time": "22:00",
+      "time": "17:30",
+      "player1": "Selekhmeteva O. (12)",
+      "player2": "Stoiana M.",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "17:30",
       "player1": "Sramkova R.",
       "player2": "Jacquemot E. (13)",
       "odds1": 1.42,
@@ -760,102 +526,57 @@
     },
     {
       "tournament": "Brownsburg challenger",
-      "time": "22:30",
+      "time": "18:00",
+      "player1": "Broady L.",
+      "player2": "Suresh D.",
+      "odds1": 1.81,
+      "odds2": 1.91,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brownsburg challenger",
+      "time": "18:30",
+      "player1": "Tomic B. (1)",
+      "player2": "Winter E.",
+      "odds1": 1.51,
+      "odds2": 2.42,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "19:00",
+      "player1": "Korneeva A. (7)",
+      "player2": "Charaeva A. (22)",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Brownsburg challenger",
+      "time": "19:30",
       "player1": "Vandecasteele Q.",
       "player2": "Shelbayh A.",
-      "odds1": 2.85,
+      "odds1": 2.84,
       "odds2": 1.39,
       "tour": "ATP"
     },
     {
-      "tournament": "Cincinnati",
-      "time": "22:30",
-      "player1": "Trungelliti M. (6)",
-      "player2": "Ofner S.",
-      "odds1": 2.28,
-      "odds2": 1.59,
+      "tournament": "Brownsburg challenger",
+      "time": "20:00",
+      "player1": "Schoolkate T.",
+      "player2": "Cina F. (6)",
+      "odds1": 2.41,
+      "odds2": 1.52,
       "tour": "ATP"
     },
     {
-      "tournament": "Cincinnati",
-      "time": "22:30",
-      "player1": "Popyrin A.",
-      "player2": "Droguet T.",
-      "odds1": 1.72,
-      "odds2": 2.06,
+      "tournament": "Todi challenger",
+      "time": "20:30",
+      "player1": "Galan D.",
+      "player2": "Gomez F. (4)",
+      "odds1": 2.11,
+      "odds2": 1.66,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "22:45",
-      "player1": "Harris B.",
-      "player2": "Jacquet K.",
-      "odds1": 3.31,
-      "odds2": 1.31,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "23:00",
-      "player1": "Gaston H. (10)",
-      "player2": "Budkov Kjaer N.",
-      "odds1": 1.73,
-      "odds2": 2.05,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "23:00",
-      "player1": "Lys E. (5)",
-      "player2": "Kawa K.",
-      "odds1": 1.37,
-      "odds2": 2.95,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "23:00",
-      "player1": "Sierra S. (6)",
-      "player2": "Ito A.",
-      "odds1": 1.33,
-      "odds2": 3.21,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "23:00",
-      "player1": "Dart H.",
-      "player2": "Uchijima M. (20)",
-      "odds1": 2.24,
-      "odds2": 1.61,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "23:15",
-      "player1": "Wolf J.",
-      "player2": "Samuel T. (15)",
-      "odds1": 2.23,
-      "odds2": 1.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "23:30",
-      "player1": "Damm M. (11)",
-      "player2": "Sakellaridis S.",
-      "odds1": 1.31,
-      "odds2": 3.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "23:30",
-      "player1": "Salkova D.",
-      "player2": "Blinkova A. (18)",
-      "odds1": 1.99,
-      "odds2": 1.76,
-      "tour": "WTA"
     }
   ]
 }
