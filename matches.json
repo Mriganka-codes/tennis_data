@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:48:05.307458",
+  "last_updated": "2026-08-21T18:36:38.339080",
   "count": 23,
   "matches": [
     {
@@ -131,19 +131,10 @@
     {
       "tournament": "Sion challenger",
       "time": "16:30",
-      "player1": "Giustino L. (1)",
-      "player2": "Hassan B.",
-      "odds1": 1.63,
-      "odds2": 2.18,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Quebec City challenger",
-      "time": "17:00",
-      "player1": "Bonzi B. (6)",
-      "player2": "Van Assche L. (2)",
-      "odds1": 2.15,
-      "odds2": 1.66,
+      "player1": "Hassan B.",
+      "player2": "Giustino L. (1)",
+      "odds1": 2.19,
+      "odds2": 1.62,
       "tour": "ATP"
     },
     {
@@ -152,16 +143,16 @@
       "player1": "Stricker D. (6)",
       "player2": "Compagnucci T.",
       "odds1": 1.26,
-      "odds2": 3.59,
+      "odds2": 3.61,
       "tour": "ATP"
     },
     {
       "tournament": "Quebec City challenger",
-      "time": "18:30",
-      "player1": "De Jong J. (8)",
-      "player2": "Gaston H. (4)",
-      "odds1": 1.56,
-      "odds2": 2.33,
+      "time": "17:10",
+      "player1": "Van Assche L. (2)",
+      "player2": "Bonzi B. (6)",
+      "odds1": 1.7,
+      "odds2": 2.07,
       "tour": "ATP"
     },
     {
@@ -169,16 +160,25 @@
       "time": "19:00",
       "player1": "Bejlek S.",
       "player2": "Keys M. (20)",
-      "odds1": 2.74,
-      "odds2": 1.45,
+      "odds1": 2.67,
+      "odds2": 1.47,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Quebec City challenger",
+      "time": "19:30",
+      "player1": "De Jong J. (8)",
+      "player2": "Gaston H. (4)",
+      "odds1": 1.54,
+      "odds2": 2.39,
+      "tour": "ATP"
     },
     {
       "tournament": "Cincinnati",
       "time": "21:00",
       "player1": "Fritz T. (6)",
       "player2": "Nakashima B. (27)",
-      "odds1": 1.52,
+      "odds1": 1.53,
       "odds2": 2.52,
       "tour": "ATP"
     },
@@ -187,8 +187,8 @@
       "time": "22:00",
       "player1": "Royer V. (1)",
       "player2": "Chidekh C.",
-      "odds1": 1.53,
-      "odds2": 2.4,
+      "odds1": 1.51,
+      "odds2": 2.45,
       "tour": "ATP"
     },
     {
@@ -196,8 +196,8 @@
       "time": "22:30",
       "player1": "Bergs Z. (1)",
       "player2": "Sakellaridis S.",
-      "odds1": 1.41,
-      "odds2": 2.72,
+      "odds1": 1.38,
+      "odds2": 2.9,
       "tour": "ATP"
     },
     {
@@ -205,8 +205,8 @@
       "time": "23:00",
       "player1": "Safiullin R. (7)",
       "player2": "Hurkacz H. (3)",
-      "odds1": 2.54,
-      "odds2": 1.48,
+      "odds1": 2.39,
+      "odds2": 1.54,
       "tour": "ATP"
     }
   ]
