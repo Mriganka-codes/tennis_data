@@ -1,213 +1,123 @@
 {
-  "last_updated": "2026-08-21T18:36:38.339080",
-  "count": 23,
+  "last_updated": "2026-08-22T01:14:55.032252",
+  "count": 13,
   "matches": [
     {
-      "tournament": "Quebec City challenger",
-      "time": "00:40",
-      "player1": "Bergs Z. (1)",
-      "player2": "Pellegrino A.",
-      "odds1": 1.2,
-      "odds2": 4.23,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cancun challenger",
-      "time": "00:55",
-      "player1": "Wong C. (6)",
-      "player2": "Magadan A.",
-      "odds1": 1.18,
-      "odds2": 4.48,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cancun challenger",
-      "time": "00:55",
-      "player1": "Harris L.",
-      "player2": "Llamas Ruiz P.",
-      "odds1": 1.46,
-      "odds2": 2.58,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "01:10",
-      "player1": "Swiatek I. (7)",
-      "player2": "Rybakina E. (2)",
-      "odds1": 1.62,
-      "odds2": 2.29,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Cancun challenger",
-      "time": "01:50",
-      "player1": "Safiullin R. (7)",
-      "player2": "Wawrinka S.",
-      "odds1": 1.42,
-      "odds2": 2.75,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Quebec City challenger",
-      "time": "02:10",
-      "player1": "Fearnley J.",
-      "player2": "Galarneau A.",
-      "odds1": 1.39,
-      "odds2": 2.83,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "02:40",
-      "player1": "Fils A. (21)",
-      "player2": "Tirante T.",
-      "odds1": 1.28,
-      "odds2": 3.68,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cancun challenger",
-      "time": "02:40",
-      "player1": "Echargui M.",
-      "player2": "Ugo Carabelli C. (5)",
-      "odds1": 3.03,
-      "odds2": 1.35,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cancun challenger",
-      "time": "03:20",
-      "player1": "Baez S. (1)",
-      "player2": "Pacheco Mendez R.",
-      "odds1": 1.51,
-      "odds2": 2.46,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cancun challenger",
-      "time": "03:30",
-      "player1": "Kouame M.",
-      "player2": "Burruchaga R. (2)",
-      "odds1": 2.32,
-      "odds2": 1.57,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Roehampton challenger",
-      "time": "12:10",
-      "player1": "Tarvet O.",
-      "player2": "Matusevich A.",
-      "odds1": 1.4,
-      "odds2": 2.79,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Roehampton challenger",
-      "time": "12:10",
-      "player1": "Poullain L.",
-      "player2": "Maxted L.",
-      "odds1": 1.67,
-      "odds2": 2.11,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Prague 2 challenger",
-      "time": "12:40",
-      "player1": "Tseng C.",
-      "player2": "Gombos N.",
-      "odds1": 1.53,
-      "odds2": 2.38,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Prague 2 challenger",
-      "time": "14:25",
-      "player1": "Kumstat J.",
-      "player2": "Jianu F.",
-      "odds1": 1.3,
-      "odds2": 3.36,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sion challenger",
-      "time": "16:30",
-      "player1": "Hassan B.",
-      "player2": "Giustino L. (1)",
-      "odds1": 2.19,
-      "odds2": 1.62,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sion challenger",
-      "time": "17:00",
-      "player1": "Stricker D. (6)",
-      "player2": "Compagnucci T.",
-      "odds1": 1.26,
-      "odds2": 3.61,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Quebec City challenger",
-      "time": "17:10",
-      "player1": "Van Assche L. (2)",
-      "player2": "Bonzi B. (6)",
-      "odds1": 1.7,
-      "odds2": 2.07,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati WTA",
-      "time": "19:00",
-      "player1": "Bejlek S.",
-      "player2": "Keys M. (20)",
-      "odds1": 2.67,
-      "odds2": 1.47,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Quebec City challenger",
-      "time": "19:30",
-      "player1": "De Jong J. (8)",
-      "player2": "Gaston H. (4)",
-      "odds1": 1.54,
-      "odds2": 2.39,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cincinnati",
-      "time": "21:00",
-      "player1": "Fritz T. (6)",
-      "player2": "Nakashima B. (27)",
-      "odds1": 1.53,
-      "odds2": 2.52,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Kingston challenger",
-      "time": "22:00",
-      "player1": "Royer V. (1)",
-      "player2": "Chidekh C.",
-      "odds1": 1.51,
-      "odds2": 2.45,
+      "time": "00:45",
+      "player1": "Martinez P. (4)",
+      "player2": "Glinka D. (6)",
+      "odds1": 1.8,
+      "odds2": 1.93,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "01:10",
+      "player1": "Musetti L. (10)",
+      "player2": "Tiafoe F. (17)",
+      "odds1": 1.89,
+      "odds2": 1.91,
       "tour": "ATP"
     },
     {
       "tournament": "Quebec City challenger",
-      "time": "22:30",
-      "player1": "Bergs Z. (1)",
-      "player2": "Sakellaridis S.",
-      "odds1": 1.38,
-      "odds2": 2.9,
+      "time": "01:25",
+      "player1": "Daniel T.",
+      "player2": "Fearnley J.",
+      "odds1": 2.56,
+      "odds2": 1.47,
       "tour": "ATP"
     },
     {
       "tournament": "Cancun challenger",
-      "time": "23:00",
-      "player1": "Safiullin R. (7)",
-      "player2": "Hurkacz H. (3)",
-      "odds1": 2.39,
-      "odds2": 1.54,
+      "time": "01:45",
+      "player1": "Kopriva V. (4)",
+      "player2": "Harris L.",
+      "odds1": 2.06,
+      "odds2": 1.7,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Cancun challenger",
+      "time": "01:55",
+      "player1": "Echargui M.",
+      "player2": "Kouame M.",
+      "odds1": 2.74,
+      "odds2": 1.42,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "03:30",
+      "player1": "Gauff C. (4)",
+      "player2": "Kostyuk M. (10)",
+      "odds1": 1.69,
+      "odds2": 2.18,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Cancun challenger",
+      "time": "03:55",
+      "player1": "Baez S. (1)",
+      "player2": "Wong C. (6)",
+      "odds1": 1.63,
+      "odds2": 2.19,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Prague 2 challenger",
+      "time": "13:00",
+      "player1": "Tseng C.",
+      "player2": "Kumstat J.",
+      "odds1": 2.59,
+      "odds2": 1.46,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Roehampton challenger",
+      "time": "13:00",
+      "player1": "Tarvet O.",
+      "player2": "Poullain L.",
+      "odds1": 1.26,
+      "odds2": 3.59,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sion challenger",
+      "time": "13:30",
+      "player1": "Hassan B.",
+      "player2": "Stricker D. (6)",
+      "odds1": 3.43,
+      "odds2": 1.25,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Quebec City challenger",
+      "time": "17:00",
+      "player1": "Gaston H. (4)",
+      "player2": "Van Assche L. (2)",
+      "odds1": 2.32,
+      "odds2": 1.55,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati",
+      "time": "19:30",
+      "player1": "Cobolli F. (7)",
+      "player2": "Fils A. (21)",
+      "odds1": 3.28,
+      "odds2": 1.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Cincinnati WTA",
+      "time": "21:00",
+      "player1": "Pegula J. (3)",
+      "player2": "Swiatek I. (7)",
+      "odds1": 3.0,
+      "odds2": 1.39,
+      "tour": "WTA"
     }
   ]
 }
