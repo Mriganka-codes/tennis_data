@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T05:59:15.489481",
+  "last_updated": "2026-08-29T12:37:24.154360",
   "count": 9,
   "matches": [
     {
@@ -49,20 +49,20 @@
     },
     {
       "tournament": "Augsburg challenger",
-      "time": "13:00",
-      "player1": "Mena F.",
-      "player2": "Cretu C. (5)",
-      "odds1": 2.31,
-      "odds2": 1.57,
+      "time": "13:10",
+      "player1": "Cretu C. (5)",
+      "player2": "Mena F.",
+      "odds1": 1.54,
+      "odds2": 2.37,
       "tour": "ATP"
     },
     {
       "tournament": "Roehampton 2 challenger",
-      "time": "13:30",
+      "time": "13:35",
       "player1": "Broom C. (6)",
       "player2": "Loffhagen G.",
       "odds1": 2.08,
-      "odds2": 1.69,
+      "odds2": 1.7,
       "tour": "ATP"
     },
     {
@@ -70,8 +70,8 @@
       "time": "20:00",
       "player1": "Volynets K. (6)",
       "player2": "Valentova T. (3)",
-      "odds1": 2.46,
-      "odds2": 1.51,
+      "odds1": 2.65,
+      "odds2": 1.45,
       "tour": "WTA"
     },
     {
@@ -79,8 +79,8 @@
       "time": "22:00",
       "player1": "Fery A. (4)",
       "player2": "Buse I. (3)",
-      "odds1": 1.8,
-      "odds2": 1.99,
+      "odds1": 1.77,
+      "odds2": 2.02,
       "tour": "ATP"
     }
   ]
