@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T10:04:26.361052",
+  "last_updated": "2026-09-05T14:43:46.669198",
   "count": 26,
   "matches": [
     {
@@ -68,55 +68,46 @@
     {
       "tournament": "Porto 2 challenger",
       "time": "12:05",
-      "player1": "Vives Marcos P.",
-      "player2": "Dellien H. (2)",
-      "odds1": 4.22,
-      "odds2": 1.2,
+      "player1": "Dellien H. (2)",
+      "player2": "Vives Marcos P.",
+      "odds1": 1.2,
+      "odds2": 4.24,
       "tour": "ATP"
     },
     {
       "tournament": "Plovdiv 3 challenger",
-      "time": "13:00",
+      "time": "13:25",
       "player1": "Milev Y.",
       "player2": "Aboian V.",
-      "odds1": 2.32,
-      "odds2": 1.56,
+      "odds1": 2.29,
+      "odds2": 1.57,
       "tour": "ATP"
     },
     {
       "tournament": "Porto 2 challenger",
-      "time": "13:25",
+      "time": "13:45",
       "player1": "Heide G. (1)",
       "player2": "Mena F.",
-      "odds1": 1.26,
+      "odds1": 1.25,
       "odds2": 3.63,
       "tour": "ATP"
     },
     {
       "tournament": "Mallorca challenger",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Lajal M.",
       "player2": "Balshaw F.",
       "odds1": 1.51,
-      "odds2": 2.46,
+      "odds2": 2.45,
       "tour": "ATP"
     },
     {
       "tournament": "Como challenger",
-      "time": "16:00",
+      "time": "16:10",
       "player1": "Varillas J.",
       "player2": "Clarke J.",
-      "odds1": 1.81,
-      "odds2": 1.92,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Mallorca challenger",
-      "time": "16:45",
-      "player1": "Potenza L.",
-      "player2": "Montes-De La Torre I.",
-      "odds1": 3.5,
-      "odds2": 1.28,
+      "odds1": 1.74,
+      "odds2": 2.01,
       "tour": "ATP"
     },
     {
@@ -124,7 +115,7 @@
       "time": "17:00",
       "player1": "Potapova A. (24)",
       "player2": "Anisimova A. (10)",
-      "odds1": 5.18,
+      "odds1": 5.25,
       "odds2": 1.16,
       "tour": "WTA"
     },
@@ -133,17 +124,26 @@
       "time": "17:00",
       "player1": "Keys M. (22)",
       "player2": "Zheng Q.",
-      "odds1": 1.61,
-      "odds2": 2.32,
+      "odds1": 1.58,
+      "odds2": 2.36,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Mallorca challenger",
+      "time": "17:15",
+      "player1": "Potenza L.",
+      "player2": "Montes-De La Torre I.",
+      "odds1": 3.47,
+      "odds2": 1.28,
+      "tour": "ATP"
     },
     {
       "tournament": "US Open",
       "time": "17:30",
       "player1": "Fritz T. (9)",
       "player2": "Cerundolo F. (24)",
-      "odds1": 1.14,
-      "odds2": 5.79,
+      "odds1": 1.13,
+      "odds2": 6.11,
       "tour": "ATP"
     },
     {
@@ -151,7 +151,7 @@
       "time": "17:30",
       "player1": "Nikles J.",
       "player2": "Dodig M.",
-      "odds1": 4.47,
+      "odds1": 4.53,
       "odds2": 1.18,
       "tour": "ATP"
     },
@@ -160,8 +160,8 @@
       "time": "18:30",
       "player1": "Blockx A. (28)",
       "player2": "Cobolli F. (5)",
-      "odds1": 1.91,
-      "odds2": 1.9,
+      "odds1": 1.9,
+      "odds2": 1.91,
       "tour": "ATP"
     },
     {
@@ -169,8 +169,8 @@
       "time": "18:30",
       "player1": "Swiatek I. (8)",
       "player2": "Bouzkova M. (25)",
-      "odds1": 1.16,
-      "odds2": 5.3,
+      "odds1": 1.15,
+      "odds2": 5.47,
       "tour": "WTA"
     },
     {
@@ -179,7 +179,7 @@
       "player1": "Andreeva M. (5)",
       "player2": "Bartunkova N.",
       "odds1": 1.22,
-      "odds2": 4.26,
+      "odds2": 4.28,
       "tour": "WTA"
     },
     {
@@ -187,7 +187,7 @@
       "time": "19:30",
       "player1": "Bucsa C.",
       "player2": "Gauff C. (4)",
-      "odds1": 13.13,
+      "odds1": 13.15,
       "odds2": 1.03,
       "tour": "WTA"
     },
@@ -196,8 +196,8 @@
       "time": "20:00",
       "player1": "Darderi L. (21)",
       "player2": "Sweeny D.",
-      "odds1": 1.27,
-      "odds2": 3.82,
+      "odds1": 1.26,
+      "odds2": 3.9,
       "tour": "ATP"
     },
     {
@@ -205,8 +205,8 @@
       "time": "20:00",
       "player1": "Khachanov K.",
       "player2": "Bonzi B.",
-      "odds1": 1.48,
-      "odds2": 2.66,
+      "odds1": 1.46,
+      "odds2": 2.7,
       "tour": "ATP"
     },
     {
@@ -223,7 +223,7 @@
       "time": "22:30",
       "player1": "Bergs Z. (31)",
       "player2": "Van De Zandschulp B.",
-      "odds1": 2.74,
+      "odds1": 2.73,
       "odds2": 1.45,
       "tour": "ATP"
     },
@@ -232,7 +232,7 @@
       "time": "23:00",
       "player1": "Starodubtseva Y.",
       "player2": "Rybakina E. (2)",
-      "odds1": 8.09,
+      "odds1": 7.97,
       "odds2": 1.08,
       "tour": "WTA"
     }
