@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T16:00:20.146981",
+  "last_updated": "2026-09-11T20:35:30.503961",
   "count": 43,
   "matches": [
     {
@@ -300,17 +300,17 @@
       "tour": "WTA"
     },
     {
-      "tournament": "Sevilla challenger",
-      "time": "18:00",
-      "player1": "Diaz Acosta F. (3)",
-      "player2": "Ofner S. (7)",
-      "odds1": 1.54,
-      "odds2": 2.38,
-      "tour": "ATP"
+      "tournament": "Montreux WTA",
+      "time": "18:05",
+      "player1": "Galfi D. (8)",
+      "player2": "Waltert S. (1)",
+      "odds1": 2.32,
+      "odds2": 1.56,
+      "tour": "WTA"
     },
     {
       "tournament": "Sevilla challenger",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Munar J. (1)",
       "player2": "Brancaccio R.",
       "odds1": 1.18,
@@ -318,26 +318,26 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Antalya 5 WTA",
-      "time": "18:00",
-      "player1": "Herrero Linana A.",
-      "player2": "Bennemann E.",
-      "odds1": 1.67,
-      "odds2": 2.14,
-      "tour": "WTA"
+      "tournament": "Sevilla challenger",
+      "time": "18:10",
+      "player1": "Diaz Acosta F. (3)",
+      "player2": "Ofner S. (7)",
+      "odds1": 1.53,
+      "odds2": 2.4,
+      "tour": "ATP"
     },
     {
-      "tournament": "Montreux WTA",
-      "time": "18:00",
-      "player1": "Waltert S. (1)",
-      "player2": "Galfi D. (8)",
-      "odds1": 1.57,
-      "odds2": 2.31,
+      "tournament": "Antalya 5 WTA",
+      "time": "18:10",
+      "player1": "Herrero Linana A.",
+      "player2": "Bennemann E.",
+      "odds1": 1.65,
+      "odds2": 2.18,
       "tour": "WTA"
     },
     {
       "tournament": "Genoa challenger",
-      "time": "18:30",
+      "time": "18:55",
       "player1": "Dodig M.",
       "player2": "Dalla Valle E.",
       "odds1": 1.48,
@@ -346,38 +346,38 @@
     },
     {
       "tournament": "Sevilla challenger",
-      "time": "20:15",
+      "time": "20:20",
       "player1": "Alcala Gurri M.",
       "player2": "Olivieri G.",
-      "odds1": 1.53,
-      "odds2": 2.39,
+      "odds1": 1.62,
+      "odds2": 2.21,
       "tour": "ATP"
     },
     {
       "tournament": "Sevilla challenger",
-      "time": "20:15",
-      "player1": "Rocha H. (5)",
-      "player2": "Lajovic D.",
-      "odds1": 1.83,
-      "odds2": 1.91,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Genoa challenger",
-      "time": "20:30",
-      "player1": "Varillas J.",
-      "player2": "Seyboth Wild T.",
-      "odds1": 2.55,
-      "odds2": 1.47,
+      "time": "20:25",
+      "player1": "Lajovic D.",
+      "player2": "Rocha H. (5)",
+      "odds1": 1.9,
+      "odds2": 1.83,
       "tour": "ATP"
     },
     {
       "tournament": "US Open",
-      "time": "21:00",
+      "time": "21:15",
       "player1": "Zverev A. (1)",
       "player2": "Khachanov K.",
-      "odds1": 1.21,
-      "odds2": 4.44,
+      "odds1": 1.2,
+      "odds2": 4.57,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Genoa challenger",
+      "time": "22:35",
+      "player1": "Varillas J.",
+      "player2": "Seyboth Wild T.",
+      "odds1": 2.45,
+      "odds2": 1.51,
       "tour": "ATP"
     },
     {
@@ -385,8 +385,8 @@
       "time": "23:00",
       "player1": "Jeanjean L.",
       "player2": "Liu C. (5)",
-      "odds1": 2.27,
-      "odds2": 1.59,
+      "odds1": 2.29,
+      "odds2": 1.58,
       "tour": "WTA"
     }
   ]
