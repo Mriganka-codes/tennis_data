@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T15:58:03.680153",
+  "last_updated": "2026-09-18T20:31:38.290423",
   "count": 72,
   "matches": [
     {
@@ -383,10 +383,10 @@
     {
       "tournament": "Davis Cup",
       "time": "16:20",
-      "player1": "Moller E.",
-      "player2": "Dimitrov G.",
-      "odds1": 3.88,
-      "odds2": 1.24,
+      "player1": "Dimitrov G.",
+      "player2": "Moller E.",
+      "odds1": 1.24,
+      "odds2": 3.88,
       "tour": "ATP"
     },
     {
@@ -401,10 +401,10 @@
     {
       "tournament": "Valencia WTA",
       "time": "16:45",
-      "player1": "Burillo Escorihuela I.",
-      "player2": "Herrero Linana A.",
-      "odds1": 2.02,
-      "odds2": 1.75,
+      "player1": "Herrero Linana A.",
+      "player2": "Burillo Escorihuela I.",
+      "odds1": 1.75,
+      "odds2": 2.02,
       "tour": "WTA"
     },
     {
@@ -428,19 +428,19 @@
     {
       "tournament": "Davis Cup",
       "time": "17:20",
-      "player1": "Cid Subervi R.",
-      "player2": "Elsayed A.",
-      "odds1": 1.34,
-      "odds2": 3.11,
+      "player1": "Virtanen O.",
+      "player2": "Catarina L.",
+      "odds1": 1.02,
+      "odds2": 12.2,
       "tour": "ATP"
     },
     {
       "tournament": "Davis Cup",
       "time": "17:20",
-      "player1": "Virtanen O.",
-      "player2": "Catarina L.",
-      "odds1": 1.02,
-      "odds2": 12.2,
+      "player1": "Cid Subervi R.",
+      "player2": "Elsayed A.",
+      "odds1": 1.34,
+      "odds2": 3.11,
       "tour": "ATP"
     },
     {
@@ -453,184 +453,193 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Davis Cup",
-      "time": "18:00",
-      "player1": "Van Herck L.",
-      "player2": "Marozsan F.",
-      "odds1": 16.08,
-      "odds2": 1.01,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "18:00",
-      "player1": "Ruud C.",
-      "player2": "Te R.",
-      "odds1": 1.01,
-      "odds2": 17.26,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Sao Paulo WTA",
-      "time": "18:00",
-      "player1": "Kostovic T.",
-      "player2": "Quevedo K. (7)",
-      "odds1": 2.16,
-      "odds2": 1.68,
+      "time": "18:05",
+      "player1": "Quevedo K. (7)",
+      "player2": "Kostovic T.",
+      "odds1": 1.67,
+      "odds2": 2.17,
       "tour": "WTA"
-    },
-    {
-      "tournament": "Valencia WTA",
-      "time": "18:15",
-      "player1": "Lazaro Garcia A. (5)",
-      "player2": "Steur J.",
-      "odds1": 1.58,
-      "odds2": 2.3,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "18:30",
-      "player1": "Rune H.",
-      "player2": "Radulov I.",
-      "odds1": 1.21,
-      "odds2": 4.2,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "18:30",
-      "player1": "Hardt N.",
-      "player2": "Mabrouk K.",
-      "odds1": 1.03,
-      "odds2": 11.31,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "18:30",
-      "player1": "Vasa E.",
-      "player2": "Vacherot V.",
-      "odds1": 11.78,
-      "odds2": 1.03,
-      "tour": "ATP"
     },
     {
       "tournament": "Caldas da Rainha",
-      "time": "18:30",
-      "player1": "Bandecchi S. (6)",
-      "player2": "Pigato L. (3)",
-      "odds1": 1.47,
-      "odds2": 2.57,
+      "time": "18:10",
+      "player1": "Pigato L. (3)",
+      "player2": "Bandecchi S. (6)",
+      "odds1": 2.54,
+      "odds2": 1.49,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "18:20",
+      "player1": "Ruud C.",
+      "player2": "Te R.",
+      "odds1": 1.01,
+      "odds2": 17.47,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "18:20",
+      "player1": "Marozsan F.",
+      "player2": "Van Herck L.",
+      "odds1": 1.02,
+      "odds2": 14.92,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Valencia WTA",
+      "time": "18:30",
+      "player1": "Steur J.",
+      "player2": "Lazaro Garcia A. (5)",
+      "odds1": 2.29,
+      "odds2": 1.58,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "18:55",
+      "player1": "Vacherot V.",
+      "player2": "Vasa E.",
+      "odds1": 1.03,
+      "odds2": 11.16,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "19:00",
+      "player1": "Rune H.",
+      "player2": "Radulov I.",
+      "odds1": 1.22,
+      "odds2": 4.14,
+      "tour": "ATP"
     },
     {
       "tournament": "Rennes challenger",
-      "time": "19:00",
-      "player1": "Gojo B. (5)",
-      "player2": "Droguet T. (2)",
-      "odds1": 2.15,
-      "odds2": 1.65,
+      "time": "19:10",
+      "player1": "Droguet T. (2)",
+      "player2": "Gojo B. (5)",
+      "odds1": 1.65,
+      "odds2": 2.15,
       "tour": "ATP"
     },
     {
       "tournament": "Davis Cup",
       "time": "19:30",
-      "player1": "Knaff A.",
-      "player2": "Piros Z.",
-      "odds1": 7.18,
-      "odds2": 1.09,
+      "player1": "Hardt N.",
+      "player2": "Mabrouk K.",
+      "odds1": 1.03,
+      "odds2": 12.09,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "19:30",
-      "player1": "Budkov Kjaer N.",
-      "player2": "Cui J.",
-      "odds1": 1.05,
-      "odds2": 9.46,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sao Paulo WTA",
-      "time": "19:30",
-      "player1": "Blinkova A. (4)",
-      "player2": "Charaeva A. (8)",
-      "odds1": 1.57,
-      "odds2": 2.34,
-      "tour": "WTA"
     },
     {
       "tournament": "Davis Cup",
       "time": "20:00",
-      "player1": "Fonseca J.",
-      "player2": "Stricker D.",
-      "odds1": 1.25,
-      "odds2": 3.79,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Rennes challenger",
-      "time": "20:30",
-      "player1": "Maestrelli F. (6)",
-      "player2": "Gueymard Wayenburg S.",
-      "odds1": 2.41,
-      "odds2": 1.53,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Tiburon challenger",
-      "time": "21:00",
-      "player1": "Blanch D.",
-      "player2": "Nakashima B.",
-      "odds1": 1.49,
-      "odds2": 2.51,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "21:00",
-      "player1": "Aguilar Cardozo J.",
-      "player2": "Molder M.",
-      "odds1": 1.1,
-      "odds2": 6.72,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "21:30",
-      "player1": "Heide G.",
-      "player2": "Wawrinka S.",
-      "odds1": 2.51,
-      "odds2": 1.51,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Tiburon challenger",
-      "time": "22:30",
-      "player1": "Zheng M. (1)",
-      "player2": "Krueger M.",
-      "odds1": 1.09,
-      "odds2": 6.83,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "22:30",
-      "player1": "Roncadelli F.",
-      "player2": "Ojakaar O.",
-      "odds1": 1.24,
-      "odds2": 3.81,
+      "player1": "Piros Z.",
+      "player2": "Knaff A.",
+      "odds1": 1.08,
+      "odds2": 7.59,
       "tour": "ATP"
     },
     {
       "tournament": "Sao Paulo WTA",
+      "time": "20:05",
+      "player1": "Blinkova A. (4)",
+      "player2": "Charaeva A. (8)",
+      "odds1": 1.58,
+      "odds2": 2.33,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "20:10",
+      "player1": "Budkov Kjaer N.",
+      "player2": "Cui J.",
+      "odds1": 1.05,
+      "odds2": 9.66,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "20:30",
+      "player1": "Fonseca J.",
+      "player2": "Stricker D.",
+      "odds1": 1.25,
+      "odds2": 3.78,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Tiburon challenger",
+      "time": "21:10",
+      "player1": "Blanch D.",
+      "player2": "Nakashima B.",
+      "odds1": 1.47,
+      "odds2": 2.56,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "21:15",
+      "player1": "Aguilar Cardozo J.",
+      "player2": "Molder M.",
+      "odds1": 1.09,
+      "odds2": 6.78,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Rennes challenger",
+      "time": "21:25",
+      "player1": "Gueymard Wayenburg S.",
+      "player2": "Maestrelli F. (6)",
+      "odds1": 1.53,
+      "odds2": 2.41,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
       "time": "22:30",
+      "player1": "Draxl L.",
+      "player2": "Rinderknech A.",
+      "odds1": 3.87,
+      "odds2": 1.24,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "22:35",
+      "player1": "Roncadelli F.",
+      "player2": "Tamm K.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Davis Cup",
+      "time": "22:40",
+      "player1": "Heide G.",
+      "player2": "Wawrinka S.",
+      "odds1": 2.49,
+      "odds2": 1.52,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sao Paulo WTA",
+      "time": "22:40",
       "player1": "Stoiana M.",
       "player2": "Badosa P. (2)",
-      "odds1": 2.88,
-      "odds2": 1.4,
+      "odds1": 2.94,
+      "odds2": 1.39,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Tiburon challenger",
+      "time": "22:45",
+      "player1": "Zheng M. (1)",
+      "player2": "Krueger M.",
+      "odds1": 1.09,
+      "odds2": 6.82,
+      "tour": "ATP"
     },
     {
       "tournament": "Davis Cup",
@@ -638,16 +647,7 @@
       "player1": "Buse I.",
       "player2": "Escurra Isnardi H.",
       "odds1": 1.02,
-      "odds2": 15.67,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Davis Cup",
-      "time": "23:00",
-      "player1": "Draxl L.",
-      "player2": "Rinderknech A.",
-      "odds1": 3.84,
-      "odds2": 1.24,
+      "odds2": 16.17,
       "tour": "ATP"
     }
   ]
