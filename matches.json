@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T10:55:57.938710",
-  "count": 64,
+  "last_updated": "2026-09-23T16:16:28.128829",
+  "count": 61,
   "matches": [
     {
       "tournament": "San Diego 2 challenger",
@@ -203,10 +203,10 @@
     {
       "tournament": "Hangzhou",
       "time": "10:20",
-      "player1": "Vukic A.",
-      "player2": "Jacquet K.",
-      "odds1": 1.91,
-      "odds2": 1.87,
+      "player1": "Jacquet K.",
+      "player2": "Vukic A.",
+      "odds1": 1.87,
+      "odds2": 1.91,
       "tour": "ATP"
     },
     {
@@ -257,28 +257,28 @@
     {
       "tournament": "Ankara",
       "time": "12:05",
-      "player1": "Falkowska W.",
-      "player2": "Iatcenko P. (2)",
-      "odds1": 2.98,
-      "odds2": 1.36,
+      "player1": "Iatcenko P. (2)",
+      "player2": "Falkowska W.",
+      "odds1": 1.36,
+      "odds2": 2.98,
       "tour": "WTA"
     },
     {
       "tournament": "Porto WTA",
       "time": "12:05",
-      "player1": "Dodin O.",
-      "player2": "Malygina E.",
-      "odds1": 1.63,
-      "odds2": 2.22,
+      "player1": "Malygina E.",
+      "player2": "Dodin O.",
+      "odds1": 2.22,
+      "odds2": 1.63,
       "tour": "WTA"
     },
     {
       "tournament": "Tolentino",
       "time": "12:10",
-      "player1": "Serban I.",
-      "player2": "Masarova R. (8)",
-      "odds1": 6.16,
-      "odds2": 1.1,
+      "player1": "Masarova R. (8)",
+      "player2": "Serban I.",
+      "odds1": 1.1,
+      "odds2": 6.16,
       "tour": "WTA"
     },
     {
@@ -319,20 +319,11 @@
     },
     {
       "tournament": "Plovdiv 4 challenger",
-      "time": "12:50",
-      "player1": "Compagnucci T.",
-      "player2": "Martin Tiffon P. (5)",
-      "odds1": 2.77,
-      "odds2": 1.41,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Hangzhou",
-      "time": "13:30",
-      "player1": "Royer V.",
-      "player2": "Walton A.",
-      "odds1": 2.0,
-      "odds2": 1.78,
+      "time": "12:55",
+      "player1": "Martin Tiffon P. (5)",
+      "player2": "Compagnucci T.",
+      "odds1": 1.41,
+      "odds2": 2.77,
       "tour": "ATP"
     },
     {
@@ -341,133 +332,142 @@
       "player1": "Moeller M.",
       "player2": "Arnaboldi F.",
       "odds1": 1.36,
-      "odds2": 3.0,
+      "odds2": 2.96,
       "tour": "ATP"
     },
     {
+      "tournament": "Hangzhou",
+      "time": "13:40",
+      "player1": "Royer V.",
+      "player2": "Walton A.",
+      "odds1": 2.0,
+      "odds2": 1.79,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Porto WTA",
+      "time": "14:05",
+      "player1": "Kraus S. (2)",
+      "player2": "Jorge M.",
+      "odds1": 1.55,
+      "odds2": 2.37,
+      "tour": "WTA"
+    },
+    {
       "tournament": "Ankara",
-      "time": "13:30",
-      "player1": "Pridankina E. (7)",
-      "player2": "Zaytseva K.",
-      "odds1": 1.49,
-      "odds2": 2.51,
+      "time": "14:10",
+      "player1": "Zaytseva K.",
+      "player2": "Pridankina E. (7)",
+      "odds1": 2.47,
+      "odds2": 1.51,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Singapore WTA",
+      "time": "14:15",
+      "player1": "Fernandez L. (6)",
+      "player2": "Parks A.",
+      "odds1": 1.34,
+      "odds2": 3.22,
       "tour": "WTA"
     },
     {
       "tournament": "Porto WTA",
-      "time": "13:30",
-      "player1": "Akli A.",
-      "player2": "Knutson G. (7)",
-      "odds1": 2.58,
-      "odds2": 1.47,
+      "time": "14:20",
+      "player1": "Knutson G. (7)",
+      "player2": "Akli A.",
+      "odds1": 1.47,
+      "odds2": 2.6,
       "tour": "WTA"
     },
     {
       "tournament": "St. Tropez challenger",
-      "time": "13:50",
-      "player1": "Faurel T.",
-      "player2": "Lajal M. (7)",
-      "odds1": 4.63,
-      "odds2": 1.17,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Singapore WTA",
-      "time": "14:00",
-      "player1": "Parks A.",
-      "player2": "Fernandez L. (6)",
-      "odds1": 3.21,
-      "odds2": 1.34,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Porto WTA",
-      "time": "14:00",
-      "player1": "Jorge M.",
-      "player2": "Kraus S. (2)",
-      "odds1": 2.39,
-      "odds2": 1.53,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Plovdiv 4 challenger",
-      "time": "14:20",
-      "player1": "Wiskandt M.",
-      "player2": "Taberner C.",
-      "odds1": 3.0,
-      "odds2": 1.35,
+      "time": "14:25",
+      "player1": "Lajal M. (7)",
+      "player2": "Faurel T.",
+      "odds1": 1.17,
+      "odds2": 4.59,
       "tour": "ATP"
     },
     {
       "tournament": "Tolentino",
-      "time": "14:30",
+      "time": "14:45",
       "player1": "Pieri J.",
       "player2": "Romero Gormaz L. (5)",
-      "odds1": 4.98,
+      "odds1": 5.05,
       "odds2": 1.15,
       "tour": "WTA"
     },
     {
-      "tournament": "Ankara",
-      "time": "15:00",
-      "player1": "Cengiz B.",
-      "player2": "Mert A.",
-      "odds1": 1.29,
-      "odds2": 3.47,
-      "tour": "WTA"
+      "tournament": "Plovdiv 4 challenger",
+      "time": "14:50",
+      "player1": "Taberner C.",
+      "player2": "Wiskandt M.",
+      "odds1": 1.36,
+      "odds2": 2.97,
+      "tour": "ATP"
     },
     {
-      "tournament": "Porto WTA",
-      "time": "15:30",
-      "player1": "Timofeeva M. (1)",
-      "player2": "Rinaldo Persson K.",
-      "odds1": 1.17,
-      "odds2": 4.67,
+      "tournament": "Ankara",
+      "time": "15:10",
+      "player1": "Cengiz B.",
+      "player2": "Mert A.",
+      "odds1": 1.28,
+      "odds2": 3.5,
       "tour": "WTA"
     },
     {
       "tournament": "Genoa 2 challenger",
-      "time": "16:00",
+      "time": "16:05",
       "player1": "Blanch D.",
       "player2": "Donald M.",
-      "odds1": 1.52,
-      "odds2": 2.42,
+      "odds1": 1.5,
+      "odds2": 2.49,
       "tour": "ATP"
     },
     {
-      "tournament": "Ankara",
+      "tournament": "Porto WTA",
       "time": "16:30",
+      "player1": "Timofeeva M. (1)",
+      "player2": "Rinaldo Persson K.",
+      "odds1": 1.16,
+      "odds2": 4.88,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Ankara",
+      "time": "16:50",
       "player1": "Shi H.",
       "player2": "Aksu A. (9)",
-      "odds1": 1.48,
-      "odds2": 2.54,
+      "odds1": 1.49,
+      "odds2": 2.52,
       "tour": "WTA"
     },
     {
       "tournament": "Buenos Aires challenger",
-      "time": "17:00",
+      "time": "17:10",
       "player1": "Dellien M.",
       "player2": "Varillas J. (6)",
-      "odds1": 4.48,
-      "odds2": 1.18,
+      "odds1": 4.7,
+      "odds2": 1.17,
       "tour": "ATP"
     },
     {
       "tournament": "St. Tropez challenger",
-      "time": "17:30",
+      "time": "17:35",
       "player1": "Droguet T. (1)",
       "player2": "Gojo B.",
-      "odds1": 1.67,
-      "odds2": 2.11,
+      "odds1": 1.54,
+      "odds2": 2.36,
       "tour": "ATP"
     },
     {
       "tournament": "Tolentino",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Maristany Zuleta De Reales G. (9)",
       "player2": "Lombardini M.",
-      "odds1": 1.2,
-      "odds2": 4.22,
+      "odds1": 1.24,
+      "odds2": 3.89,
       "tour": "WTA"
     },
     {
@@ -475,35 +475,8 @@
       "time": "18:30",
       "player1": "Mena F. (8)",
       "player2": "Justo G.",
-      "odds1": 1.6,
-      "odds2": 2.19,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Diego 2 challenger",
-      "time": "19:00",
-      "player1": "Boyer T. (8)",
-      "player2": "Gorzny S.",
-      "odds1": 1.65,
-      "odds2": 2.12,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Diego 2 challenger",
-      "time": "19:00",
-      "player1": "Legout T.",
-      "player2": "Smith C. (4)",
-      "odds1": 2.21,
-      "odds2": 1.58,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Diego 2 challenger",
-      "time": "19:00",
-      "player1": "Basavareddy N. (1)",
-      "player2": "Hance K.",
-      "odds1": 1.03,
-      "odds2": 8.5,
+      "odds1": 1.59,
+      "odds2": 2.24,
       "tour": "ATP"
     },
     {
@@ -511,8 +484,8 @@
       "time": "20:00",
       "player1": "Kicker N.",
       "player2": "Dellien H. (2)",
-      "odds1": 4.17,
-      "odds2": 1.21,
+      "odds1": 3.95,
+      "odds2": 1.22,
       "tour": "ATP"
     },
     {
@@ -520,8 +493,8 @@
       "time": "20:00",
       "player1": "Shelbayh A.",
       "player2": "Andrade A. (5)",
-      "odds1": 1.7,
-      "odds2": 2.06,
+      "odds1": 1.65,
+      "odds2": 2.15,
       "tour": "ATP"
     },
     {
@@ -529,7 +502,7 @@
       "time": "20:00",
       "player1": "Maloney P.",
       "player2": "Marcondes I.",
-      "odds1": 2.04,
+      "odds1": 2.05,
       "odds2": 1.71,
       "tour": "ATP"
     },
@@ -538,8 +511,8 @@
       "time": "20:00",
       "player1": "Searle H.",
       "player2": "Draxl L. (6)",
-      "odds1": 2.2,
-      "odds2": 1.61,
+      "odds1": 2.24,
+      "odds2": 1.6,
       "tour": "ATP"
     },
     {
@@ -548,7 +521,7 @@
       "player1": "Neumayer L. (3)",
       "player2": "Martin Manzano J.",
       "odds1": 1.28,
-      "odds2": 3.49,
+      "odds2": 3.5,
       "tour": "ATP"
     },
     {
@@ -565,7 +538,7 @@
       "time": "21:30",
       "player1": "Svajda T.",
       "player2": "Gomez F. (2)",
-      "odds1": 1.36,
+      "odds1": 1.37,
       "odds2": 2.92,
       "tour": "ATP"
     },
@@ -574,8 +547,8 @@
       "time": "23:30",
       "player1": "Comesana F. (1)",
       "player2": "Aguilar Cardozo J.",
-      "odds1": 1.47,
-      "odds2": 2.56,
+      "odds1": 1.44,
+      "odds2": 2.65,
       "tour": "ATP"
     }
   ]
