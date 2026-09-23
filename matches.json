@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T16:16:28.128829",
-  "count": 61,
+  "last_updated": "2026-09-23T21:11:36.528525",
+  "count": 60,
   "matches": [
     {
       "tournament": "San Diego 2 challenger",
@@ -446,10 +446,10 @@
     {
       "tournament": "Buenos Aires challenger",
       "time": "17:10",
-      "player1": "Dellien M.",
-      "player2": "Varillas J. (6)",
-      "odds1": 4.7,
-      "odds2": 1.17,
+      "player1": "Varillas J. (6)",
+      "player2": "Dellien M.",
+      "odds1": 1.17,
+      "odds2": 4.7,
       "tour": "ATP"
     },
     {
@@ -471,84 +471,75 @@
       "tour": "WTA"
     },
     {
-      "tournament": "Buenos Aires challenger",
-      "time": "18:30",
-      "player1": "Mena F. (8)",
-      "player2": "Justo G.",
-      "odds1": 1.59,
-      "odds2": 2.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Buenos Aires challenger",
-      "time": "20:00",
-      "player1": "Kicker N.",
-      "player2": "Dellien H. (2)",
-      "odds1": 3.95,
-      "odds2": 1.22,
+      "tournament": "San Diego 2 challenger",
+      "time": "20:05",
+      "player1": "Marcondes I.",
+      "player2": "Maloney P.",
+      "odds1": 1.71,
+      "odds2": 2.04,
       "tour": "ATP"
     },
     {
       "tournament": "San Diego 2 challenger",
-      "time": "20:00",
-      "player1": "Shelbayh A.",
-      "player2": "Andrade A. (5)",
-      "odds1": 1.65,
-      "odds2": 2.15,
+      "time": "20:05",
+      "player1": "Andrade A. (5)",
+      "player2": "Shelbayh A.",
+      "odds1": 2.23,
+      "odds2": 1.6,
       "tour": "ATP"
     },
     {
       "tournament": "San Diego 2 challenger",
-      "time": "20:00",
-      "player1": "Maloney P.",
-      "player2": "Marcondes I.",
-      "odds1": 2.05,
-      "odds2": 1.71,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "San Diego 2 challenger",
-      "time": "20:00",
+      "time": "20:05",
       "player1": "Searle H.",
       "player2": "Draxl L. (6)",
-      "odds1": 2.24,
+      "odds1": 2.23,
       "odds2": 1.6,
       "tour": "ATP"
     },
     {
       "tournament": "Genoa 2 challenger",
-      "time": "20:00",
+      "time": "20:10",
       "player1": "Neumayer L. (3)",
       "player2": "Martin Manzano J.",
-      "odds1": 1.28,
-      "odds2": 3.5,
+      "odds1": 1.27,
+      "odds2": 3.54,
       "tour": "ATP"
     },
     {
       "tournament": "Tolentino",
-      "time": "20:00",
-      "player1": "Basiletti N.",
-      "player2": "Ristic M.",
-      "odds1": 2.07,
-      "odds2": 1.71,
+      "time": "20:10",
+      "player1": "Ristic M.",
+      "player2": "Basiletti N.",
+      "odds1": 1.72,
+      "odds2": 2.06,
       "tour": "WTA"
     },
     {
+      "tournament": "Buenos Aires challenger",
+      "time": "20:20",
+      "player1": "Mena F. (8)",
+      "player2": "Justo G.",
+      "odds1": 1.48,
+      "odds2": 2.5,
+      "tour": "ATP"
+    },
+    {
       "tournament": "San Diego 2 challenger",
-      "time": "21:30",
+      "time": "22:40",
       "player1": "Svajda T.",
       "player2": "Gomez F. (2)",
-      "odds1": 1.37,
-      "odds2": 2.92,
+      "odds1": 1.36,
+      "odds2": 2.94,
       "tour": "ATP"
     },
     {
       "tournament": "Buenos Aires challenger",
-      "time": "23:30",
-      "player1": "Comesana F. (1)",
-      "player2": "Aguilar Cardozo J.",
-      "odds1": 1.44,
-      "odds2": 2.65,
+      "time": "22:55",
+      "player1": "Kicker N.",
+      "player2": "Dellien H. (2)",
+      "odds1": 4.02,
+      "odds2": 1.22,
       "tour": "ATP"
     }
   ]
