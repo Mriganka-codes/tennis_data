@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T16:44:06.182746",
+  "last_updated": "2026-09-25T21:11:38.816049",
   "count": 48,
   "matches": [
     {
@@ -338,10 +338,10 @@
     {
       "tournament": "Tolentino",
       "time": "17:40",
-      "player1": "Gorgodze E. (7)",
-      "player2": "Selekhmeteva O. (2)",
-      "odds1": 2.74,
-      "odds2": 1.42,
+      "player1": "Selekhmeteva O. (2)",
+      "player2": "Gorgodze E. (7)",
+      "odds1": 1.42,
+      "odds2": 2.74,
       "tour": "WTA"
     },
     {
@@ -356,51 +356,60 @@
     {
       "tournament": "Genoa 2 challenger",
       "time": "18:05",
-      "player1": "Clarke J. (8)",
-      "player2": "Caniato C.",
-      "odds1": 1.97,
-      "odds2": 1.76,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "St. Tropez challenger",
-      "time": "18:55",
-      "player1": "Droguet T. (1)",
-      "player2": "Lajal M. (7)",
-      "odds1": 1.77,
+      "player1": "Caniato C.",
+      "player2": "Clarke J. (8)",
+      "odds1": 1.76,
       "odds2": 1.97,
       "tour": "ATP"
     },
     {
-      "tournament": "Buenos Aires challenger",
+      "tournament": "St. Tropez challenger",
       "time": "19:10",
+      "player1": "Droguet T. (1)",
+      "player2": "Lajal M. (7)",
+      "odds1": 1.76,
+      "odds2": 1.99,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Buenos Aires challenger",
+      "time": "19:15",
       "player1": "Mena F. (8)",
       "player2": "Kicker N.",
-      "odds1": 1.59,
-      "odds2": 2.26,
+      "odds1": 1.57,
+      "odds2": 2.29,
       "tour": "ATP"
     },
     {
       "tournament": "Tolentino",
-      "time": "19:30",
-      "player1": "Brancaccio N.",
-      "player2": "Grabher J. (3)",
-      "odds1": 2.17,
-      "odds2": 1.65,
+      "time": "19:40",
+      "player1": "Grabher J. (3)",
+      "player2": "Brancaccio N.",
+      "odds1": 1.65,
+      "odds2": 2.17,
       "tour": "WTA"
     },
     {
       "tournament": "Laver Cup",
-      "time": "20:00",
+      "time": "20:25",
       "player1": "Jodar R.",
       "player2": "Bublik A.",
-      "odds1": 1.5,
-      "odds2": 2.54,
+      "odds1": 1.54,
+      "odds2": 2.43,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "San Diego 2 challenger",
+      "time": "21:05",
+      "player1": "Marcondes I.",
+      "player2": "Gomez F. (2)",
+      "odds1": 2.31,
+      "odds2": 1.56,
       "tour": "ATP"
     },
     {
       "tournament": "Buenos Aires challenger",
-      "time": "20:40",
+      "time": "21:30",
       "player1": "Aguilar Cardozo J.",
       "player2": "Varillas J. (6)",
       "odds1": 1.61,
@@ -408,30 +417,21 @@
       "tour": "ATP"
     },
     {
-      "tournament": "San Diego 2 challenger",
-      "time": "21:00",
-      "player1": "Marcondes I.",
-      "player2": "Gomez F. (2)",
-      "odds1": 2.3,
-      "odds2": 1.57,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Buenos Aires challenger",
-      "time": "22:10",
+      "time": "23:15",
       "player1": "Prado Angelo J. (4)",
       "player2": "Barrena A. (7)",
-      "odds1": 1.71,
-      "odds2": 2.05,
+      "odds1": 1.7,
+      "odds2": 2.08,
       "tour": "ATP"
     },
     {
       "tournament": "San Diego 2 challenger",
-      "time": "23:00",
+      "time": "23:30",
       "player1": "Boyer T. (8)",
       "player2": "Legout T.",
-      "odds1": 1.83,
-      "odds2": 1.9,
+      "odds1": 1.81,
+      "odds2": 1.92,
       "tour": "ATP"
     }
   ]
