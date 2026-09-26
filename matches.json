@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T15:56:39.105776",
+  "last_updated": "2026-09-26T20:43:53.232010",
   "count": 53,
   "matches": [
     {
@@ -178,8 +178,8 @@
       "time": "10:00",
       "player1": "Crawley F. (4)",
       "player2": "Lacinova A.",
-      "odds1": 1.06,
-      "odds2": 8.17,
+      "odds1": 1.08,
+      "odds2": 7.11,
       "tour": "WTA"
     },
     {
@@ -206,7 +206,7 @@
       "player1": "Micic E. (8)",
       "player2": "Shinikova I.",
       "odds1": 1.56,
-      "odds2": 2.33,
+      "odds2": 2.35,
       "tour": "WTA"
     },
     {
@@ -214,8 +214,8 @@
       "time": "10:00",
       "player1": "Andreeva E. (3)",
       "player2": "Yoruk I.",
-      "odds1": 1.03,
-      "odds2": 11.67,
+      "odds1": 1.05,
+      "odds2": 9.42,
       "tour": "WTA"
     },
     {
@@ -223,8 +223,8 @@
       "time": "10:00",
       "player1": "Hruncakova V. (2)",
       "player2": "Daniel J.",
-      "odds1": 1.06,
-      "odds2": 7.83,
+      "odds1": 1.07,
+      "odds2": 7.85,
       "tour": "WTA"
     },
     {
@@ -232,8 +232,8 @@
       "time": "10:00",
       "player1": "Tikhonova A. (5)",
       "player2": "Mert A.",
-      "odds1": 1.41,
-      "odds2": 2.76,
+      "odds1": 1.42,
+      "odds2": 2.75,
       "tour": "WTA"
     },
     {
@@ -401,19 +401,19 @@
     {
       "tournament": "Plovdiv 4 challenger",
       "time": "16:00",
-      "player1": "Andreev A.",
-      "player2": "Forejtek J.",
-      "odds1": 2.02,
-      "odds2": 1.73,
+      "player1": "Forejtek J.",
+      "player2": "Andreev A.",
+      "odds1": 1.73,
+      "odds2": 2.02,
       "tour": "ATP"
     },
     {
       "tournament": "Laver Cup",
       "time": "16:25",
-      "player1": "Zverev A.",
-      "player2": "De Minaur A.",
-      "odds1": 1.29,
-      "odds2": 3.54,
+      "player1": "De Minaur A.",
+      "player2": "Zverev A.",
+      "odds1": 3.54,
+      "odds2": 1.29,
       "tour": "ATP"
     },
     {
@@ -445,28 +445,28 @@
     },
     {
       "tournament": "Buenos Aires challenger",
-      "time": "19:30",
-      "player1": "Boscardin Dias P.",
-      "player2": "Mena F. (8)",
-      "odds1": 2.53,
-      "odds2": 1.48,
+      "time": "20:10",
+      "player1": "Mena F. (8)",
+      "player2": "Boscardin Dias P.",
+      "odds1": 1.46,
+      "odds2": 2.58,
       "tour": "ATP"
     },
     {
       "tournament": "Laver Cup",
-      "time": "20:00",
+      "time": "20:25",
       "player1": "Alcaraz C.",
       "player2": "Fritz T.",
-      "odds1": 1.32,
-      "odds2": 3.36,
+      "odds1": 1.28,
+      "odds2": 3.61,
       "tour": "ATP"
     },
     {
       "tournament": "Buenos Aires challenger",
-      "time": "21:00",
+      "time": "21:50",
       "player1": "Aguilar Cardozo J.",
       "player2": "Barrena A. (7)",
-      "odds1": 1.46,
+      "odds1": 1.47,
       "odds2": 2.58,
       "tour": "ATP"
     },
