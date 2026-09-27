@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T16:32:49.284495",
-  "count": 119,
+  "last_updated": "2026-09-27T20:59:57.133759",
+  "count": 102,
   "matches": [
     {
       "tournament": "San Diego 2 challenger",
@@ -91,6 +91,15 @@
       "odds1": 1.2,
       "odds2": 4.47,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Adana",
+      "time": "10:00",
+      "player1": "Bertea E. (7)",
+      "player2": "Feistel G.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
     },
     {
       "tournament": "Bari challenger",
@@ -231,19 +240,10 @@
       "tournament": "Porto challenger",
       "time": "12:20",
       "player1": "Tabacco F.",
-      "player2": "Izquierdo Luque R.",
+      "player2": "Izquierdo Luque R. (1)",
       "odds1": 1.01,
       "odds2": 1.01,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Adana",
-      "time": "12:30",
-      "player1": "Siskova A. (1)",
-      "player2": "Feistel G.",
-      "odds1": 1.2,
-      "odds2": 4.23,
-      "tour": "WTA"
     },
     {
       "tournament": "Bari challenger",
@@ -536,10 +536,10 @@
     {
       "tournament": "Bari challenger",
       "time": "17:00",
-      "player1": "Colasanto F.",
-      "player2": "Andaloro F. (7)",
-      "odds1": 11.75,
-      "odds2": 1.02,
+      "player1": "Andaloro F. (7)",
+      "player2": "Colasanto F.",
+      "odds1": 1.02,
+      "odds2": 11.75,
       "tour": "ATP"
     },
     {
@@ -563,10 +563,10 @@
     {
       "tournament": "Bari challenger",
       "time": "17:05",
-      "player1": "Ferrari G. (5)",
-      "player2": "Moroni F.",
-      "odds1": 2.15,
-      "odds2": 1.63,
+      "player1": "Moroni F.",
+      "player2": "Ferrari G. (5)",
+      "odds1": 1.63,
+      "odds2": 2.15,
       "tour": "ATP"
     },
     {
@@ -599,10 +599,10 @@
     {
       "tournament": "Columbus 3 challenger",
       "time": "17:50",
-      "player1": "Martin A. (1)",
-      "player2": "Okonkwo O.",
-      "odds1": 1.19,
-      "odds2": 4.35,
+      "player1": "Okonkwo O.",
+      "player2": "Martin A. (1)",
+      "odds1": 4.35,
+      "odds2": 1.19,
       "tour": "ATP"
     },
     {
@@ -626,33 +626,33 @@
     {
       "tournament": "Mouilleron-Le-Captif challenger",
       "time": "18:05",
-      "player1": "Bittoun Kouzmine C. (6)",
-      "player2": "Rossi L.",
-      "odds1": 2.12,
-      "odds2": 1.66,
+      "player1": "Rossi L.",
+      "player2": "Bittoun Kouzmine C. (6)",
+      "odds1": 1.66,
+      "odds2": 2.12,
       "tour": "ATP"
     },
     {
-      "tournament": "Buenos Aires challenger",
-      "time": "18:10",
-      "player1": "Barrena A. (7)",
-      "player2": "Mena F. (8)",
-      "odds1": 1.92,
-      "odds2": 1.81,
+      "tournament": "Curitiba challenger",
+      "time": "18:30",
+      "player1": "Schenekenberg G.",
+      "player2": "Braga V.",
+      "odds1": 1.13,
+      "odds2": 4.89,
       "tour": "ATP"
     },
     {
       "tournament": "Porto challenger",
       "time": "18:30",
-      "player1": "Marrero Curbelo I. (5)",
-      "player2": "Potenza L.",
-      "odds1": 2.4,
-      "odds2": 1.52,
+      "player1": "Potenza L.",
+      "player2": "Marrero Curbelo I. (5)",
+      "odds1": 1.52,
+      "odds2": 2.41,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "18:35",
+      "time": "18:40",
       "player1": "Dickerson R. (6)",
       "player2": "Pissetti Vialle H.",
       "odds1": 1.08,
@@ -660,93 +660,57 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Columbus 3 challenger",
+      "time": "19:30",
+      "player1": "Rybakov A. (7)",
+      "player2": "Forbes M.",
+      "odds1": 1.56,
+      "odds2": 2.3,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Porto challenger",
-      "time": "18:45",
-      "player1": "Rocha F.",
-      "player2": "Maxted L. (11)",
-      "odds1": 3.21,
-      "odds2": 1.32,
+      "time": "19:35",
+      "player1": "Maxted L. (11)",
+      "player2": "Rocha F.",
+      "odds1": 1.32,
+      "odds2": 3.2,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "19:00",
-      "player1": "Tosetto R.",
-      "player2": "Pereira J. (11)",
-      "odds1": 2.08,
-      "odds2": 1.69,
+      "time": "19:45",
+      "player1": "Pereira J. (11)",
+      "player2": "Tosetto R.",
+      "odds1": 1.67,
+      "odds2": 2.1,
       "tour": "ATP"
     },
     {
       "tournament": "Columbus 3 challenger",
-      "time": "19:15",
-      "player1": "Forbes M.",
-      "player2": "Rybakov A. (7)",
-      "odds1": 2.3,
-      "odds2": 1.56,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "19:15",
+      "time": "20:15",
       "player1": "Chan D. (6)",
       "player2": "Petak D.",
       "odds1": 1.16,
-      "odds2": 4.77,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Porto challenger",
-      "time": "19:25",
-      "player1": "Geerts M. (6)",
-      "player2": "Orlov V.",
-      "odds1": 1.35,
-      "odds2": 3.0,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Porto challenger",
-      "time": "20:15",
-      "player1": "Domingues J.",
-      "player2": "Ursu V. (12)",
-      "odds1": 1.98,
-      "odds2": 1.76,
+      "odds2": 4.76,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba challenger",
       "time": "20:30",
-      "player1": "Arias B.",
-      "player2": "De La Fuente S. (9)",
-      "odds1": 4.61,
-      "odds2": 1.17,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "20:35",
       "player1": "Saraiva Dos Santos P. (1)",
       "player2": "Scheidt A.",
-      "odds1": 1.03,
-      "odds2": 9.43,
+      "odds1": 1.04,
+      "odds2": 9.32,
       "tour": "ATP"
     },
     {
-      "tournament": "Columbus 3 challenger",
-      "time": "20:45",
-      "player1": "Trotter J. (2)",
-      "player2": "Okonkwo A.",
-      "odds1": 1.2,
-      "odds2": 4.1,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "20:45",
-      "player1": "Oliveira N.",
-      "player2": "Tu L. (8)",
-      "odds1": 3.37,
-      "odds2": 1.29,
+      "tournament": "Porto challenger",
+      "time": "20:30",
+      "player1": "Geerts M. (6)",
+      "player2": "Orlov V.",
+      "odds1": 1.35,
+      "odds2": 3.0,
       "tour": "ATP"
     },
     {
@@ -755,52 +719,70 @@
       "player1": "Sakamoto P. (2)",
       "player2": "Goncalves Ceolin J.",
       "odds1": 1.21,
-      "odds2": 4.05,
+      "odds2": 4.03,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Columbus 3 challenger",
+      "time": "21:10",
+      "player1": "Trotter J. (2)",
+      "player2": "Okonkwo A.",
+      "odds1": 1.27,
+      "odds2": 3.52,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Porto challenger",
+      "time": "21:30",
+      "player1": "Domingues J.",
+      "player2": "Ursu V. (12)",
+      "odds1": 1.98,
+      "odds2": 1.77,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Curitiba challenger",
+      "time": "22:00",
+      "player1": "Arias B.",
+      "player2": "De La Fuente S. (9)",
+      "odds1": 4.48,
+      "odds2": 1.17,
       "tour": "ATP"
     },
     {
       "tournament": "San Diego 2 challenger",
-      "time": "22:00",
+      "time": "22:05",
       "player1": "Basavareddy N. (1)",
       "player2": "Marcondes I.",
       "odds1": 1.16,
-      "odds2": 4.81,
+      "odds2": 4.79,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Buenos Aires challenger",
+      "time": "22:25",
+      "player1": "Barrena A. (7)",
+      "player2": "Mena F. (8)",
+      "odds1": 1.96,
+      "odds2": 1.77,
       "tour": "ATP"
     },
     {
       "tournament": "Columbus 3 challenger",
-      "time": "22:15",
+      "time": "23:00",
       "player1": "Vandecasteele Q. (5)",
       "player2": "Stearns P.",
-      "odds1": 1.44,
-      "odds2": 2.53,
+      "odds1": 1.43,
+      "odds2": 2.64,
       "tour": "ATP"
     },
     {
       "tournament": "Columbus 3 challenger",
-      "time": "22:15",
-      "player1": "Palavestra I.",
-      "player2": "Ostapenkov D. (10)",
-      "odds1": 3.58,
-      "odds2": 1.26,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "23:45",
-      "player1": "Ayeni A. (4)",
-      "player2": "Bassem Sobhy M.",
-      "odds1": 1.25,
-      "odds2": 3.6,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "23:45",
-      "player1": "Zamora N.",
-      "player2": "Bigun K. (11)",
-      "odds1": 2.24,
-      "odds2": 1.59,
+      "time": "23:25",
+      "player1": "Oliveira N.",
+      "player2": "Tu L. (8)",
+      "odds1": 3.45,
+      "odds2": 1.28,
       "tour": "ATP"
     },
     {
@@ -815,143 +797,8 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Samrej K. (12)",
-      "player2": "Khadka P.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Rahmani K.",
-      "player2": "Skatov T. (5)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Kwon S. (4)",
-      "player2": "Purevdorj U.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Meng F.",
-      "player2": "Sultanov K. (14)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Suresh D. (11)",
-      "player2": "Trismuwantara G.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Rakhmatov A.",
-      "player2": "Tseng C. (6)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Nagal S. (7)",
-      "player2": "Hong S.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Amonov S.",
-      "player2": "Fomin S. (9)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "M Rifki F. (16)",
-      "player2": "Shoaib M.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Yazdani A.",
-      "player2": "Wu Y. (3)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Matsuoka H. (8)",
-      "player2": "Thompson K.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Alkotop M.",
-      "player2": "Hsu Y. (10)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Jones M. (15)",
-      "player2": "Urnukh Z.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Bastola A.",
-      "player2": "Shevchenko A. (2)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Alwazer F.",
-      "player2": "Watanuki Y. (13)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Cheapchandej P.",
-      "player2": "Qureshi M.",
+      "player1": "Shek C.",
+      "player2": "Shubina D.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
@@ -959,17 +806,8 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Yuldasheva S.",
-      "player2": "Farzami M.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Chogsomjav M.",
-      "player2": "Garland J. (8)",
+      "player1": "Garland J. (8)",
+      "player2": "Chogsomjav M.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
@@ -986,8 +824,8 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Zhiyenbayeva S.",
-      "player2": "Karunaratne A.",
+      "player1": "Ku Y.",
+      "player2": "Tursunova A.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
@@ -995,8 +833,8 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Tursunova A.",
-      "player2": "Ku Y.",
+      "player1": "Yang Y.",
+      "player2": "Reinnamah M.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
@@ -1004,8 +842,8 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Bista S.",
-      "player2": "Uchijima M. (6)",
+      "player1": "Safi M.",
+      "player2": "Asimova S.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
@@ -1013,35 +851,8 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Sawangkaew M. (5)",
-      "player2": "Chogsomjav M.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Shek C.",
-      "player2": "Shubina D.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Reinnamah M.",
-      "player2": "Yang Y.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Suhail U.",
-      "player2": "Putintseva Y. (3)",
+      "player1": "Putintseva Y. (3)",
+      "player2": "Suhail U.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
@@ -1067,8 +878,44 @@
     {
       "tournament": "Asian Games",
       "time": "",
-      "player1": "Safi M.",
-      "player2": "Asimova S.",
+      "player1": "Cheapchandej P.",
+      "player2": "Qureshi M.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Asian Games",
+      "time": "",
+      "player1": "Uchijima M. (6)",
+      "player2": "Bista S.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Asian Games",
+      "time": "",
+      "player1": "Zhiyenbayeva S.",
+      "player2": "Karunaratne A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Asian Games",
+      "time": "",
+      "player1": "Sawangkaew M. (5)",
+      "player2": "Chogsomjav M.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Asian Games",
+      "time": "",
+      "player1": "Farzami M.",
+      "player2": "Yuldasheva S.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
