@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T12:16:57.443778",
-  "count": 128,
+  "last_updated": "2026-09-29T21:57:54.502423",
+  "count": 112,
   "matches": [
     {
       "tournament": "Curitiba challenger",
@@ -181,15 +181,6 @@
       "odds1": 1.31,
       "odds2": 3.33,
       "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "05:30",
-      "player1": "Wong C. (1)",
-      "player2": "Mashni Z.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "ATP"
     },
     {
       "tournament": "Asian Games",
@@ -512,16 +503,16 @@
       "player1": "Galfi D.",
       "player2": "Micic E.",
       "odds1": 1.36,
-      "odds2": 3.01,
+      "odds2": 2.99,
       "tour": "WTA"
     },
     {
       "tournament": "Bari challenger",
       "time": "11:45",
-      "player1": "Wiskandt M.",
-      "player2": "Basile P.",
-      "odds1": 2.36,
-      "odds2": 1.54,
+      "player1": "Basile P.",
+      "player2": "Wiskandt M.",
+      "odds1": 1.54,
+      "odds2": 2.36,
       "tour": "ATP"
     },
     {
@@ -599,19 +590,19 @@
     {
       "tournament": "Adana",
       "time": "12:50",
-      "player1": "Radivojevic L.",
-      "player2": "Ercan M.",
-      "odds1": 1.2,
-      "odds2": 4.15,
+      "player1": "Ercan M.",
+      "player2": "Radivojevic L.",
+      "odds1": 4.15,
+      "odds2": 1.2,
       "tour": "WTA"
     },
     {
       "tournament": "Chengdu",
       "time": "13:10",
-      "player1": "Hurkacz H. (5)",
-      "player2": "Davidovich Fokina A. (2)",
-      "odds1": 1.66,
-      "odds2": 2.19,
+      "player1": "Davidovich Fokina A. (2)",
+      "player2": "Hurkacz H. (5)",
+      "odds1": 2.19,
+      "odds2": 1.66,
       "tour": "ATP"
     },
     {
@@ -626,10 +617,10 @@
     {
       "tournament": "Porto challenger",
       "time": "13:35",
-      "player1": "Matusevich A.",
-      "player2": "Guerrieri A.",
-      "odds1": 2.06,
-      "odds2": 1.71,
+      "player1": "Guerrieri A.",
+      "player2": "Matusevich A.",
+      "odds1": 1.71,
+      "odds2": 2.06,
       "tour": "ATP"
     },
     {
@@ -644,33 +635,33 @@
     {
       "tournament": "Mouilleron-Le-Captif challenger",
       "time": "13:50",
-      "player1": "Barroso Campos A.",
-      "player2": "Schwaerzler J.",
-      "odds1": 4.01,
-      "odds2": 1.22,
+      "player1": "Schwaerzler J.",
+      "player2": "Barroso Campos A.",
+      "odds1": 1.22,
+      "odds2": 4.01,
       "tour": "ATP"
     },
     {
       "tournament": "Bari challenger",
       "time": "13:50",
-      "player1": "Lopez Morillo I.",
-      "player2": "Krumich M. (8)",
-      "odds1": 3.44,
-      "odds2": 1.29,
+      "player1": "Krumich M. (8)",
+      "player2": "Lopez Morillo I.",
+      "odds1": 1.29,
+      "odds2": 3.44,
       "tour": "ATP"
     },
     {
       "tournament": "Porto challenger",
       "time": "14:10",
-      "player1": "Cretu C.",
-      "player2": "Rocha H. (8)",
-      "odds1": 4.05,
-      "odds2": 1.22,
+      "player1": "Rocha H. (8)",
+      "player2": "Cretu C.",
+      "odds1": 1.22,
+      "odds2": 4.05,
       "tour": "ATP"
     },
     {
       "tournament": "Porto challenger",
-      "time": "14:10",
+      "time": "14:20",
       "player1": "Samuel T. (4)",
       "player2": "McDonald M.",
       "odds1": 1.33,
@@ -680,69 +671,42 @@
     {
       "tournament": "Adana",
       "time": "14:20",
-      "player1": "Iatcenko P.",
-      "player2": "Andreeva E.",
-      "odds1": 1.63,
-      "odds2": 2.19,
+      "player1": "Andreeva E.",
+      "player2": "Iatcenko P.",
+      "odds1": 2.19,
+      "odds2": 1.63,
       "tour": "WTA"
     },
     {
       "tournament": "Mouilleron-Le-Captif challenger",
       "time": "14:25",
-      "player1": "Ghazouani Durand Y.",
-      "player2": "Budkov Kjaer N. (2)",
-      "odds1": 4.25,
-      "odds2": 1.2,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Bari challenger",
-      "time": "14:35",
-      "player1": "Pieri S.",
-      "player2": "Martin A.",
-      "odds1": 1.69,
-      "odds2": 2.09,
+      "player1": "Budkov Kjaer N. (2)",
+      "player2": "Ghazouani Durand Y.",
+      "odds1": 1.2,
+      "odds2": 4.25,
       "tour": "ATP"
     },
     {
       "tournament": "Adana",
       "time": "14:35",
-      "player1": "Efremova K.",
-      "player2": "Kubka M.",
-      "odds1": 2.56,
-      "odds2": 1.49,
+      "player1": "Kubka M.",
+      "player2": "Efremova K.",
+      "odds1": 1.49,
+      "odds2": 2.56,
       "tour": "WTA"
     },
     {
       "tournament": "Bari challenger",
-      "time": "14:50",
+      "time": "14:45",
       "player1": "Giunta M.",
       "player2": "Arnaboldi F.",
-      "odds1": 1.67,
-      "odds2": 2.11,
+      "odds1": 1.68,
+      "odds2": 2.1,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "15:00",
-      "player1": "Soto M.",
-      "player2": "Midon L. (5)",
-      "odds1": 2.4,
-      "odds2": 1.53,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "15:00",
-      "player1": "Meligeni Rodrigues Alves F.",
-      "player2": "Zarate C.",
-      "odds1": 1.26,
-      "odds2": 3.64,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Reis Da Silva J. (7)",
       "player2": "Dellien M.",
       "odds1": 1.26,
@@ -751,160 +715,178 @@
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "15:00",
-      "player1": "Tobon M.",
-      "player2": "Torres J.",
-      "odds1": 2.46,
-      "odds2": 1.51,
+      "time": "15:10",
+      "player1": "Midon L. (5)",
+      "player2": "Soto M.",
+      "odds1": 1.53,
+      "odds2": 2.4,
       "tour": "ATP"
     },
     {
-      "tournament": "Porto challenger",
+      "tournament": "Curitiba challenger",
+      "time": "15:10",
+      "player1": "Meligeni Rodrigues Alves F.",
+      "player2": "Zarate C.",
+      "odds1": 1.26,
+      "odds2": 3.62,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Curitiba challenger",
       "time": "15:15",
-      "player1": "Grenier H.",
-      "player2": "Overbeck C.",
-      "odds1": 1.79,
-      "odds2": 1.93,
+      "player1": "Torres J.",
+      "player2": "Tobon M.",
+      "odds1": 1.51,
+      "odds2": 2.44,
       "tour": "ATP"
     },
     {
       "tournament": "Bari challenger",
-      "time": "15:20",
-      "player1": "Martin Tiffon P. (5)",
-      "player2": "Lokoli L.",
-      "odds1": 1.57,
-      "odds2": 2.31,
+      "time": "15:35",
+      "player1": "Pieri S.",
+      "player2": "Martin A.",
+      "odds1": 1.69,
+      "odds2": 2.08,
       "tour": "ATP"
     },
     {
-      "tournament": "Porto challenger",
-      "time": "15:40",
-      "player1": "Virtanen O. (7)",
-      "player2": "Pereira T.",
-      "odds1": 1.3,
-      "odds2": 3.34,
+      "tournament": "Bari challenger",
+      "time": "15:50",
+      "player1": "Lokoli L.",
+      "player2": "Martin Tiffon P. (5)",
+      "odds1": 2.37,
+      "odds2": 1.54,
       "tour": "ATP"
     },
     {
-      "tournament": "Porto challenger",
-      "time": "15:45",
-      "player1": "Sanchez Quilez A.",
-      "player2": "Fearnley J. (2)",
-      "odds1": 3.53,
-      "odds2": 1.27,
+      "tournament": "Columbus 3 challenger",
+      "time": "16:10",
+      "player1": "Ostapenkov D.",
+      "player2": "Perot R.",
+      "odds1": 2.78,
+      "odds2": 1.4,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Columbus 3 challenger",
+      "time": "16:10",
+      "player1": "Shelbayh A. (7)",
+      "player2": "Tu L.",
+      "odds1": 1.61,
+      "odds2": 2.21,
       "tour": "ATP"
     },
     {
       "tournament": "Mouilleron-Le-Captif challenger",
-      "time": "15:55",
-      "player1": "Reco A.",
-      "player2": "Bertola R.",
-      "odds1": 3.81,
-      "odds2": 1.24,
+      "time": "16:10",
+      "player1": "Bertola R.",
+      "player2": "Reco A.",
+      "odds1": 1.23,
+      "odds2": 3.84,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "16:00",
-      "player1": "Shelbayh A. (7)",
-      "player2": "Tu L.",
-      "odds1": 1.6,
-      "odds2": 2.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "16:00",
-      "player1": "Perot R.",
-      "player2": "Ostapenkov D.",
-      "odds1": 1.4,
-      "odds2": 2.79,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Adana",
-      "time": "16:05",
-      "player1": "Monnet C.",
-      "player2": "Buyukakcay C.",
-      "odds1": 1.24,
-      "odds2": 3.86,
-      "tour": "WTA"
     },
     {
       "tournament": "Bari challenger",
       "time": "16:20",
       "player1": "Taberner C.",
       "player2": "Moller E. (2)",
-      "odds1": 1.87,
-      "odds2": 1.86,
+      "odds1": 1.98,
+      "odds2": 1.76,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "16:30",
-      "player1": "Heide G. (1)",
-      "player2": "Casanova H.",
-      "odds1": 1.15,
-      "odds2": 5.11,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "16:30",
+      "time": "16:40",
       "player1": "Pucinelli De Almeida M",
       "player2": "Saraiva Dos Santos P.",
       "odds1": 1.16,
-      "odds2": 4.83,
+      "odds2": 4.81,
       "tour": "ATP"
     },
     {
-      "tournament": "Curitiba challenger",
-      "time": "16:30",
-      "player1": "Rodriguez L.",
-      "player2": "Barrios Vera M. (2)",
-      "odds1": 3.37,
-      "odds2": 1.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Porto challenger",
-      "time": "16:45",
-      "player1": "Potenza L.",
-      "player2": "Montes-De La Torre I.",
-      "odds1": 2.85,
-      "odds2": 1.38,
-      "tour": "ATP"
+      "tournament": "Adana",
+      "time": "16:50",
+      "player1": "Buyukakcay C.",
+      "player2": "Monnet C.",
+      "odds1": 3.88,
+      "odds2": 1.23,
+      "tour": "WTA"
     },
     {
       "tournament": "Curitiba challenger",
       "time": "17:00",
-      "player1": "Fernandez B.",
-      "player2": "Dickerson R.",
-      "odds1": 1.51,
-      "odds2": 2.45,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Porto challenger",
-      "time": "17:10",
-      "player1": "Echargui M.",
-      "player2": "Dzumhur D. (5)",
-      "odds1": 2.2,
-      "odds2": 1.62,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Porto challenger",
-      "time": "17:15",
-      "player1": "Butvilas E.",
-      "player2": "Geerts M.",
-      "odds1": 1.21,
-      "odds2": 4.18,
+      "player1": "Barrios Vera M. (2)",
+      "player2": "Rodriguez L.",
+      "odds1": 1.3,
+      "odds2": 3.37,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "17:20",
+      "time": "17:35",
+      "player1": "Fernandez B.",
+      "player2": "Leite W.",
+      "odds1": 1.26,
+      "odds2": 1.71,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Curitiba challenger",
+      "time": "17:40",
+      "player1": "Heide G. (1)",
+      "player2": "Casanova H.",
+      "odds1": 1.14,
+      "odds2": 5.15,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Mouilleron-Le-Captif challenger",
+      "time": "17:50",
+      "player1": "Poullain L.",
+      "player2": "Lajal M. (1)",
+      "odds1": 3.99,
+      "odds2": 1.22,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Columbus 3 challenger",
+      "time": "18:05",
+      "player1": "Blanch D. (1)",
+      "player2": "Maloney P.",
+      "odds1": 1.26,
+      "odds2": 3.56,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Curitiba challenger",
+      "time": "18:20",
+      "player1": "Alves M.",
+      "player2": "Pereira J.",
+      "odds1": 1.1,
+      "odds2": 6.38,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Columbus 3 challenger",
+      "time": "18:45",
+      "player1": "Staeheli L.",
+      "player2": "Okonkwo O.",
+      "odds1": 1.55,
+      "odds2": 2.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Curitiba challenger",
+      "time": "19:00",
+      "player1": "Boscardin Dias P.",
+      "player2": "Remondy Pagotto V.",
+      "odds1": 1.17,
+      "odds2": 4.57,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Curitiba challenger",
+      "time": "19:15",
       "player1": "Andrade Da Silva L.",
       "player2": "Olivieri G.",
       "odds1": 2.07,
@@ -912,202 +894,76 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Curitiba challenger",
-      "time": "17:20",
-      "player1": "Pereira J.",
-      "player2": "Alves M.",
-      "odds1": 6.6,
-      "odds2": 1.09,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Mouilleron-Le-Captif challenger",
-      "time": "17:25",
-      "player1": "Lajal M. (1)",
-      "player2": "Poullain L.",
-      "odds1": 1.22,
-      "odds2": 3.95,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Columbus 3 challenger",
-      "time": "17:30",
-      "player1": "Blanch D. (1)",
-      "player2": "Maloney P.",
-      "odds1": 1.27,
-      "odds2": 3.52,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "17:30",
-      "player1": "Okonkwo O.",
-      "player2": "Staeheli L.",
-      "odds1": 2.37,
-      "odds2": 1.53,
+      "time": "19:45",
+      "player1": "Dietrich D.",
+      "player2": "Wolf J. (6)",
+      "odds1": 2.42,
+      "odds2": 1.52,
       "tour": "ATP"
     },
     {
       "tournament": "Adana",
-      "time": "17:35",
+      "time": "20:05",
       "player1": "Kostovic T.",
       "player2": "Cengiz B.",
-      "odds1": 1.42,
-      "odds2": 2.74,
+      "odds1": 1.41,
+      "odds2": 2.75,
       "tour": "WTA"
     },
     {
-      "tournament": "Curitiba challenger",
-      "time": "18:00",
-      "player1": "Remondy Pagotto V.",
-      "player2": "Boscardin Dias P.",
-      "odds1": 4.55,
-      "odds2": 1.17,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "18:30",
-      "player1": "Villanueva G.",
-      "player2": "Prado Angelo J. (4)",
-      "odds1": 2.88,
-      "odds2": 1.38,
+      "tournament": "Mouilleron-Le-Captif challenger",
+      "time": "20:25",
+      "player1": "Blanchet U.",
+      "player2": "Durasovic V.",
+      "odds1": 1.32,
+      "odds2": 3.18,
       "tour": "ATP"
     },
     {
       "tournament": "Columbus 3 challenger",
-      "time": "19:00",
-      "player1": "Marcondes I.",
-      "player2": "Fenty A.",
-      "odds1": 1.72,
-      "odds2": 2.02,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "19:00",
-      "player1": "Dietrich D.",
-      "player2": "Wolf J. (6)",
-      "odds1": 2.27,
-      "odds2": 1.58,
+      "time": "21:15",
+      "player1": "Fenty A.",
+      "player2": "Marcondes I.",
+      "odds1": 2.23,
+      "odds2": 1.6,
       "tour": "ATP"
     },
     {
       "tournament": "Mouilleron-Le-Captif challenger",
-      "time": "19:00",
+      "time": "21:15",
       "player1": "Chidekh C. (7)",
       "player2": "Goffin D.",
-      "odds1": 1.32,
-      "odds2": 3.23,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "19:30",
-      "player1": "Justo G. (8)",
-      "player2": "Roncadelli F.",
-      "odds1": 1.77,
-      "odds2": 1.96,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "19:30",
-      "player1": "Ribeiro E.",
-      "player2": "Sakamoto P.",
-      "odds1": 1.53,
-      "odds2": 2.39,
+      "odds1": 1.31,
+      "odds2": 3.26,
       "tour": "ATP"
     },
     {
       "tournament": "Columbus 3 challenger",
-      "time": "20:30",
+      "time": "21:35",
+      "player1": "Smith C. (4)",
+      "player2": "Chan D.",
+      "odds1": 1.38,
+      "odds2": 2.88,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Columbus 3 challenger",
+      "time": "22:50",
       "player1": "Svajda T.",
       "player2": "Andrade A. (5)",
-      "odds1": 1.56,
+      "odds1": 1.57,
       "odds2": 2.29,
       "tour": "ATP"
     },
     {
       "tournament": "Columbus 3 challenger",
-      "time": "20:30",
-      "player1": "Chan D.",
-      "player2": "Smith C. (4)",
-      "odds1": 2.67,
-      "odds2": 1.44,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Mouilleron-Le-Captif challenger",
-      "time": "20:30",
-      "player1": "Durasovic V.",
-      "player2": "Blanchet U.",
-      "odds1": 3.22,
-      "odds2": 1.31,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "21:00",
-      "player1": "Heredia S.",
-      "player2": "Schiessl J.",
-      "odds1": 2.24,
-      "odds2": 1.59,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "22:00",
-      "player1": "Bigun K.",
-      "player2": "Smith K. (2)",
-      "odds1": 2.88,
-      "odds2": 1.38,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Columbus 3 challenger",
-      "time": "23:00",
+      "time": "23:10",
       "player1": "Kozlov S. (8)",
-      "player2": "Kim A.",
-      "odds1": 1.68,
-      "odds2": 2.08,
+      "player2": "Trotter J.",
+      "odds1": 1.82,
+      "odds2": 1.9,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Curitiba challenger",
-      "time": "23:30",
-      "player1": "Queiroz Miguel L.",
-      "player2": "Mena F. (6)",
-      "odds1": 2.06,
-      "odds2": 1.68,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Wang X. (4)",
-      "player2": "Zhiyenbayeva S.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Ku Y.",
-      "player2": "Uchijima M. (6)",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Asian Games",
-      "time": "",
-      "player1": "Sawangkaew M. (5)",
-      "player2": "Shek C.",
-      "odds1": null,
-      "odds2": null,
-      "tour": "WTA"
     },
     {
       "tournament": "Asian Games",
