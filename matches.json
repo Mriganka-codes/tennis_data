@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T16:33:49.380058",
-  "count": 98,
+  "last_updated": "2026-10-04T20:56:51.260453",
+  "count": 100,
   "matches": [
     {
       "tournament": "Tokyo (Japan Open)",
@@ -536,6 +536,15 @@
     {
       "tournament": "Samsun",
       "time": "13:10",
+      "player1": "Smith A.",
+      "player2": "Lacinova A.",
+      "odds1": 1.52,
+      "odds2": 2.44,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Samsun",
+      "time": "13:10",
       "player1": "Falkowska W. (6)",
       "player2": "Turkmen D.",
       "odds1": 1.01,
@@ -586,6 +595,15 @@
       "odds1": 1.18,
       "odds2": 4.44,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Samsun",
+      "time": "14:35",
+      "player1": "Werner C. (4)",
+      "player2": "Yashina E.",
+      "odds1": 1.03,
+      "odds2": 1.03,
+      "tour": "WTA"
     },
     {
       "tournament": "Palermo challenger",
@@ -770,19 +788,19 @@
     {
       "tournament": "Villena challenger",
       "time": "17:25",
-      "player1": "Brady P.",
-      "player2": "Poljicak M. (7)",
-      "odds1": 2.1,
-      "odds2": 1.67,
+      "player1": "Poljicak M. (7)",
+      "player2": "Brady P.",
+      "odds1": 1.67,
+      "odds2": 2.1,
       "tour": "ATP"
     },
     {
       "tournament": "Villena challenger",
       "time": "17:30",
-      "player1": "Sheehy J.",
-      "player2": "Marrero Curbelo I. (12)",
-      "odds1": 2.6,
-      "odds2": 1.45,
+      "player1": "Marrero Curbelo I. (12)",
+      "player2": "Sheehy J.",
+      "odds1": 1.45,
+      "odds2": 2.6,
       "tour": "ATP"
     },
     {
@@ -797,10 +815,19 @@
     {
       "tournament": "Palermo challenger",
       "time": "17:45",
-      "player1": "Andaloro F. (5)",
-      "player2": "Cerny M.",
-      "odds1": 2.02,
-      "odds2": 1.73,
+      "player1": "Cerny M.",
+      "player2": "Andaloro F. (5)",
+      "odds1": 1.73,
+      "odds2": 2.02,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Antofagasta challenger",
+      "time": "18:15",
+      "player1": "Magadan A. (7)",
+      "player2": "Bruna N.",
+      "odds1": 1.11,
+      "odds2": 5.68,
       "tour": "ATP"
     },
     {
@@ -814,15 +841,6 @@
     },
     {
       "tournament": "Antofagasta challenger",
-      "time": "18:15",
-      "player1": "Bruna N.",
-      "player2": "Magadan A. (7)",
-      "odds1": 5.68,
-      "odds2": 1.11,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Antofagasta challenger",
       "time": "18:25",
       "player1": "Pereira J.",
       "player2": "Huertas Del Pino A. (12)",
@@ -832,25 +850,25 @@
     },
     {
       "tournament": "Curitiba challenger",
-      "time": "19:00",
-      "player1": "Heide G. (1)",
-      "player2": "Justo G. (8)",
-      "odds1": 1.26,
-      "odds2": 3.79,
+      "time": "20:20",
+      "player1": "Justo G. (8)",
+      "player2": "Heide G. (1)",
+      "odds1": 3.92,
+      "odds2": 1.23,
       "tour": "ATP"
     },
     {
       "tournament": "Antofagasta challenger",
-      "time": "19:25",
-      "player1": "Kicker N. (2)",
-      "player2": "Cossu M.",
-      "odds1": 1.01,
-      "odds2": 13.3,
+      "time": "20:40",
+      "player1": "Ratti L. (3)",
+      "player2": "Loureiro J.",
+      "odds1": 1.13,
+      "odds2": 5.25,
       "tour": "ATP"
     },
     {
       "tournament": "Antofagasta challenger",
-      "time": "19:40",
+      "time": "21:00",
       "player1": "Alves M. (5)",
       "player2": "De la Pena B.",
       "odds1": 1.02,
@@ -859,28 +877,28 @@
     },
     {
       "tournament": "Antofagasta challenger",
-      "time": "19:55",
-      "player1": "Ratti L. (3)",
-      "player2": "Loureiro J.",
-      "odds1": 1.13,
-      "odds2": 5.37,
+      "time": "21:05",
+      "player1": "Kicker N. (2)",
+      "player2": "Cossu M.",
+      "odds1": 1.01,
+      "odds2": 17.89,
       "tour": "ATP"
     },
     {
       "tournament": "Antofagasta challenger",
-      "time": "20:55",
+      "time": "22:50",
       "player1": "Matta A.",
       "player2": "Cigarran T. (11)",
-      "odds1": 9.65,
+      "odds1": 11.32,
       "odds2": 1.03,
       "tour": "ATP"
     },
     {
       "tournament": "Antofagasta challenger",
-      "time": "21:55",
+      "time": "22:50",
       "player1": "Ortiz Gamonal D.",
       "player2": "Zeitune M. (9)",
-      "odds1": 9.93,
+      "odds1": 10.62,
       "odds2": 1.03,
       "tour": "ATP"
     }
