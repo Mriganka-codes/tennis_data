@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T16:41:47.322163",
+  "last_updated": "2026-10-14T21:20:21.147789",
   "count": 66,
   "matches": [
     {
@@ -527,10 +527,10 @@
     {
       "tournament": "Rovereto",
       "time": "18:10",
-      "player1": "Tan H.",
-      "player2": "Stefanini L. (5)",
-      "odds1": 2.55,
-      "odds2": 1.48,
+      "player1": "Stefanini L. (5)",
+      "player2": "Tan H.",
+      "odds1": 1.48,
+      "odds2": 2.55,
       "tour": "WTA"
     },
     {
@@ -544,16 +544,25 @@
     },
     {
       "tournament": "Lisbon",
-      "time": "18:50",
-      "player1": "Matoula M.",
-      "player2": "Maristany Zuleta De Reales G. (5)",
-      "odds1": 5.07,
-      "odds2": 1.15,
+      "time": "19:30",
+      "player1": "Maristany Zuleta De Reales G. (5)",
+      "player2": "Matoula M.",
+      "odds1": 1.15,
+      "odds2": 5.08,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Rovereto",
+      "time": "19:40",
+      "player1": "Havlickova L.",
+      "player2": "Pigato L. (3)",
+      "odds1": 2.07,
+      "odds2": 1.71,
       "tour": "WTA"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "20:00",
+      "time": "20:10",
       "player1": "Olivieri G.",
       "player2": "Barrena A. (8)",
       "odds1": 2.57,
@@ -562,38 +571,29 @@
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "20:00",
-      "player1": "Zeitune M.",
-      "player2": "Queiroz Miguel L.",
-      "odds1": 2.28,
-      "odds2": 1.57,
+      "time": "20:15",
+      "player1": "Queiroz Miguel L.",
+      "player2": "Zeitune M.",
+      "odds1": 1.57,
+      "odds2": 2.28,
       "tour": "ATP"
     },
     {
       "tournament": "Roanne challenger",
-      "time": "20:10",
+      "time": "20:55",
       "player1": "Gaston H. (1)",
       "player2": "Herbert P.",
-      "odds1": 1.35,
-      "odds2": 2.99,
+      "odds1": 1.36,
+      "odds2": 2.95,
       "tour": "ATP"
     },
     {
-      "tournament": "Rovereto",
-      "time": "20:10",
-      "player1": "Pigato L. (3)",
-      "player2": "Havlickova L.",
-      "odds1": 1.7,
-      "odds2": 2.07,
-      "tour": "WTA"
-    },
-    {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "22:30",
+      "time": "22:40",
       "player1": "Pacheco Mendez R.",
       "player2": "Dellien H. (2)",
-      "odds1": 2.43,
-      "odds2": 1.52,
+      "odds1": 2.45,
+      "odds2": 1.51,
       "tour": "ATP"
     }
   ]
