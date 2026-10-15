@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T16:27:12.999049",
-  "count": 49,
+  "last_updated": "2026-10-15T21:00:39.700973",
+  "count": 48,
   "matches": [
     {
       "tournament": "Santa Cruz De La Sierra challenger",
@@ -338,20 +338,11 @@
     {
       "tournament": "Roanne challenger",
       "time": "16:40",
-      "player1": "Donnet E.",
-      "player2": "Martineau M.",
-      "odds1": 3.02,
-      "odds2": 1.35,
+      "player1": "Martineau M.",
+      "player2": "Donnet E.",
+      "odds1": 1.35,
+      "odds2": 3.02,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Mallorca WTA",
-      "time": "16:40",
-      "player1": "Mintegi Del Olmo A.",
-      "player2": "Masarova R.",
-      "odds1": 1.73,
-      "odds2": 2.03,
-      "tour": "WTA"
     },
     {
       "tournament": "Rovereto",
@@ -383,63 +374,63 @@
     {
       "tournament": "Lisbon",
       "time": "17:50",
-      "player1": "Lollia M.",
-      "player2": "Burel C.",
-      "odds1": 9.12,
-      "odds2": 1.05,
+      "player1": "Burel C.",
+      "player2": "Lollia M.",
+      "odds1": 1.05,
+      "odds2": 9.12,
       "tour": "WTA"
     },
     {
       "tournament": "Maia challenger",
-      "time": "18:45",
+      "time": "18:55",
       "player1": "Dodig M.",
       "player2": "Neumayer L.",
       "odds1": 1.43,
-      "odds2": 2.67,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Roanne challenger",
-      "time": "19:00",
-      "player1": "Kouame M.",
-      "player2": "Budkov Kjaer N. (6)",
-      "odds1": 2.05,
-      "odds2": 1.72,
+      "odds2": 2.68,
       "tour": "ATP"
     },
     {
       "tournament": "Rovereto",
-      "time": "19:00",
-      "player1": "Ruzic A. (1)",
-      "player2": "Andreescu B.",
-      "odds1": 2.59,
-      "odds2": 1.47,
+      "time": "19:05",
+      "player1": "Andreescu B.",
+      "player2": "Ruzic A. (1)",
+      "odds1": 1.47,
+      "odds2": 2.59,
       "tour": "WTA"
+    },
+    {
+      "tournament": "Roanne challenger",
+      "time": "19:25",
+      "player1": "Budkov Kjaer N. (6)",
+      "player2": "Kouame M.",
+      "odds1": 1.72,
+      "odds2": 2.04,
+      "tour": "ATP"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
       "time": "20:05",
-      "player1": "Justo G. (6)",
-      "player2": "La Serna J.",
-      "odds1": 1.43,
-      "odds2": 2.63,
+      "player1": "La Serna J.",
+      "player2": "Justo G. (6)",
+      "odds1": 2.63,
+      "odds2": 1.43,
       "tour": "ATP"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "21:30",
+      "time": "21:35",
       "player1": "Seyboth Wild T. (3)",
       "player2": "Zarate C.",
       "odds1": 1.06,
-      "odds2": 7.87,
+      "odds2": 7.78,
       "tour": "ATP"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "22:30",
+      "time": "22:35",
       "player1": "Roncadelli F.",
       "player2": "Prado Angelo J. (4)",
-      "odds1": 3.05,
+      "odds1": 3.03,
       "odds2": 1.34,
       "tour": "ATP"
     }
