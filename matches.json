@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T16:12:35.895014",
-  "count": 44,
+  "last_updated": "2026-10-16T20:35:34.839880",
+  "count": 43,
   "matches": [
     {
       "tournament": "Santa Cruz De La Sierra challenger",
@@ -266,19 +266,19 @@
     {
       "tournament": "Mallorca WTA",
       "time": "15:50",
-      "player1": "Zidansek T. (6)",
-      "player2": "Masarova R.",
-      "odds1": 1.83,
-      "odds2": 1.91,
+      "player1": "Samson L. (2)",
+      "player2": "Lazaro Garcia A. (5)",
+      "odds1": 1.62,
+      "odds2": 2.22,
       "tour": "WTA"
     },
     {
       "tournament": "Mallorca WTA",
       "time": "15:50",
-      "player1": "Samson L. (2)",
-      "player2": "Lazaro Garcia A. (5)",
-      "odds1": 1.62,
-      "odds2": 2.22,
+      "player1": "Zidansek T. (6)",
+      "player2": "Masarova R.",
+      "odds1": 1.83,
+      "odds2": 1.91,
       "tour": "WTA"
     },
     {
@@ -293,19 +293,19 @@
     {
       "tournament": "Maia challenger",
       "time": "16:15",
-      "player1": "Trungelliti M.",
-      "player2": "Passaro F.",
-      "odds1": 1.8,
-      "odds2": 1.93,
+      "player1": "Passaro F.",
+      "player2": "Trungelliti M.",
+      "odds1": 1.93,
+      "odds2": 1.8,
       "tour": "ATP"
     },
     {
       "tournament": "Olbia challenger",
       "time": "17:05",
-      "player1": "Mmoh M. (4)",
-      "player2": "Nardi L.",
-      "odds1": 1.71,
-      "odds2": 2.05,
+      "player1": "Nardi L.",
+      "player2": "Mmoh M. (4)",
+      "odds1": 2.05,
+      "odds2": 1.71,
       "tour": "ATP"
     },
     {
@@ -328,74 +328,65 @@
     },
     {
       "tournament": "Roanne challenger",
-      "time": "18:30",
-      "player1": "Gaston H. (1)",
-      "player2": "Budkov Kjaer N. (6)",
-      "odds1": 1.7,
-      "odds2": 2.07,
+      "time": "18:40",
+      "player1": "Budkov Kjaer N. (6)",
+      "player2": "Gaston H. (1)",
+      "odds1": 2.08,
+      "odds2": 1.69,
       "tour": "ATP"
     },
     {
       "tournament": "Maia challenger",
-      "time": "18:45",
+      "time": "19:15",
       "player1": "Dodig M.",
       "player2": "Boyer T.",
       "odds1": 1.44,
-      "odds2": 2.67,
+      "odds2": 2.66,
       "tour": "ATP"
     },
     {
       "tournament": "Rovereto",
-      "time": "19:30",
+      "time": "19:40",
       "player1": "Andreescu B.",
       "player2": "Stefanini L. (5)",
-      "odds1": 1.61,
-      "odds2": 2.23,
+      "odds1": 1.63,
+      "odds2": 2.21,
       "tour": "WTA"
     },
     {
+      "tournament": "Santa Cruz De La Sierra challenger",
+      "time": "20:05",
+      "player1": "Comesana F. (1)",
+      "player2": "Olivieri G.",
+      "odds1": 1.17,
+      "odds2": 4.61,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Roanne challenger",
-      "time": "20:00",
+      "time": "20:15",
       "player1": "Martineau M.",
       "player2": "Gueymard Wayenburg S.",
-      "odds1": 2.97,
+      "odds1": 2.96,
       "odds2": 1.36,
       "tour": "ATP"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "20:00",
-      "player1": "Comesana F. (1)",
-      "player2": "Olivieri G.",
-      "odds1": 1.17,
-      "odds2": 4.63,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "21:30",
-      "player1": "Queiroz Miguel L.",
-      "player2": "Dellien H. (2)",
-      "odds1": 2.76,
-      "odds2": 1.4,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "22:00",
+      "time": "22:10",
       "player1": "La Serna J.",
       "player2": "Roncadelli F.",
-      "odds1": 1.94,
+      "odds1": 1.93,
       "odds2": 1.78,
       "tour": "ATP"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "23:00",
-      "player1": "Seyboth Wild T. (3)",
-      "player2": "Kicker N.",
-      "odds1": 1.13,
-      "odds2": 5.37,
+      "time": "22:45",
+      "player1": "Queiroz Miguel L.",
+      "player2": "Dellien H. (2)",
+      "odds1": 2.76,
+      "odds2": 1.4,
       "tour": "ATP"
     }
   ]
