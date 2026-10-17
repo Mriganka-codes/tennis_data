@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T15:06:34.086061",
+  "last_updated": "2026-10-17T20:14:17.767313",
   "count": 63,
   "matches": [
     {
@@ -500,19 +500,19 @@
     {
       "tournament": "Brussels",
       "time": "16:50",
-      "player1": "Coppejans K.",
-      "player2": "Guerrieri A. (7)",
-      "odds1": 2.25,
-      "odds2": 1.61,
+      "player1": "Guerrieri A. (7)",
+      "player2": "Coppejans K.",
+      "odds1": 1.61,
+      "odds2": 2.25,
       "tour": "ATP"
     },
     {
       "tournament": "Roanne challenger",
       "time": "16:55",
-      "player1": "Budkov Kjaer N. (6)",
-      "player2": "Martineau M.",
-      "odds1": 1.35,
-      "odds2": 3.03,
+      "player1": "Martineau M.",
+      "player2": "Budkov Kjaer N. (6)",
+      "odds1": 3.03,
+      "odds2": 1.35,
       "tour": "ATP"
     },
     {
@@ -535,29 +535,29 @@
     },
     {
       "tournament": "Brussels",
-      "time": "18:15",
-      "player1": "Damm M. (1)",
-      "player2": "Gadamauri B.",
-      "odds1": 1.15,
-      "odds2": 5.18,
+      "time": "18:35",
+      "player1": "Dougaz A.",
+      "player2": "Gentzsch T. (6)",
+      "odds1": 2.05,
+      "odds2": 1.73,
       "tour": "ATP"
     },
     {
       "tournament": "Brussels",
-      "time": "18:30",
-      "player1": "Dougaz A.",
-      "player2": "Gentzsch T. (6)",
-      "odds1": 1.98,
-      "odds2": 1.78,
+      "time": "19:05",
+      "player1": "Damm M. (1)",
+      "player2": "Gadamauri B.",
+      "odds1": 1.15,
+      "odds2": 5.12,
       "tour": "ATP"
     },
     {
       "tournament": "Santa Cruz De La Sierra challenger",
-      "time": "21:00",
+      "time": "21:10",
       "player1": "La Serna J.",
       "player2": "Dellien H. (2)",
-      "odds1": 4.0,
-      "odds2": 1.21,
+      "odds1": 3.74,
+      "odds2": 1.24,
       "tour": "ATP"
     },
     {
@@ -565,8 +565,8 @@
       "time": "22:30",
       "player1": "Comesana F. (1)",
       "player2": "Seyboth Wild T. (3)",
-      "odds1": 2.2,
-      "odds2": 1.61,
+      "odds1": 2.23,
+      "odds2": 1.6,
       "tour": "ATP"
     }
   ]
