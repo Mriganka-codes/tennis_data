@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T16:45:16.357318",
+  "last_updated": "2026-10-22T21:15:52.153104",
   "count": 46,
   "matches": [
     {
@@ -329,19 +329,19 @@
     {
       "tournament": "Brussels",
       "time": "17:25",
-      "player1": "Dzumhur D.",
-      "player2": "Bergs Z. (6)",
-      "odds1": 4.03,
-      "odds2": 1.24,
+      "player1": "Bergs Z. (6)",
+      "player2": "Dzumhur D.",
+      "odds1": 1.24,
+      "odds2": 4.03,
       "tour": "ATP"
     },
     {
       "tournament": "Fort Worth challenger",
       "time": "18:10",
-      "player1": "Bigun K.",
-      "player2": "Mayo A.",
-      "odds1": 2.8,
-      "odds2": 1.4,
+      "player1": "Mayo A.",
+      "player2": "Bigun K.",
+      "odds1": 1.4,
+      "odds2": 2.8,
       "tour": "ATP"
     },
     {
@@ -354,8 +354,17 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Lyon",
+      "time": "19:10",
+      "player1": "Cobolli F. (1)",
+      "player2": "Wawrinka S.",
+      "odds1": 1.32,
+      "odds2": 3.35,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Cali challenger",
-      "time": "19:00",
+      "time": "19:20",
       "player1": "Pucinelli De Almeida M.",
       "player2": "Jarry N.",
       "odds1": 1.7,
@@ -363,57 +372,48 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Lyon",
-      "time": "19:15",
-      "player1": "Cobolli F. (1)",
-      "player2": "Wawrinka S.",
-      "odds1": 1.34,
-      "odds2": 3.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Cali challenger",
-      "time": "19:30",
-      "player1": "Aboian V.",
-      "player2": "Soto M.",
-      "odds1": 1.9,
-      "odds2": 1.84,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Fort Worth challenger",
       "time": "19:30",
       "player1": "Arutiunian E.",
       "player2": "Marcondes I. (7)",
-      "odds1": 2.18,
+      "odds1": 2.19,
       "odds2": 1.62,
       "tour": "ATP"
     },
     {
+      "tournament": "Cali challenger",
+      "time": "19:35",
+      "player1": "Aboian V.",
+      "player2": "Soto M.",
+      "odds1": 1.87,
+      "odds2": 1.87,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Fort Worth challenger",
-      "time": "19:30",
+      "time": "20:40",
       "player1": "Debru G.",
       "player2": "Rybakov A.",
       "odds1": 1.54,
-      "odds2": 2.36,
+      "odds2": 2.37,
       "tour": "ATP"
     },
     {
       "tournament": "Lyon",
-      "time": "20:45",
-      "player1": "Jacquet K.",
-      "player2": "Nakashima B. (5)",
-      "odds1": 2.63,
-      "odds2": 1.48,
+      "time": "20:50",
+      "player1": "Nakashima B. (5)",
+      "player2": "Jacquet K.",
+      "odds1": 1.52,
+      "odds2": 2.51,
       "tour": "ATP"
     },
     {
       "tournament": "Fort Worth challenger",
-      "time": "21:00",
+      "time": "23:15",
       "player1": "Wolf J. (5)",
       "player2": "Jong S.",
       "odds1": 1.29,
-      "odds2": 3.38,
+      "odds2": 3.42,
       "tour": "ATP"
     }
   ]
