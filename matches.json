@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T16:36:15.544350",
-  "count": 57,
+  "last_updated": "2026-10-23T21:04:53.705209",
+  "count": 56,
   "matches": [
     {
       "tournament": "Cali challenger",
@@ -149,15 +149,6 @@
     {
       "tournament": "Florence challenger",
       "time": "11:40",
-      "player1": "Forti F.",
-      "player2": "Roca Batalla O.",
-      "odds1": 1.84,
-      "odds2": 1.88,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Florence challenger",
-      "time": "11:40",
       "player1": "Romano F.",
       "player2": "Donald M.",
       "odds1": 2.0,
@@ -257,37 +248,37 @@
     {
       "tournament": "Lyon",
       "time": "17:15",
-      "player1": "Altmaier D.",
-      "player2": "Fritz T. (2)",
-      "odds1": 4.22,
-      "odds2": 1.22,
+      "player1": "Fritz T. (2)",
+      "player2": "Altmaier D.",
+      "odds1": 1.22,
+      "odds2": 4.22,
       "tour": "ATP"
     },
     {
       "tournament": "Lisbon challenger",
       "time": "17:55",
-      "player1": "Pellegrino A. (7)",
-      "player2": "Gulin S.",
-      "odds1": 1.48,
-      "odds2": 2.53,
+      "player1": "Gulin S.",
+      "player2": "Pellegrino A. (7)",
+      "odds1": 2.53,
+      "odds2": 1.48,
       "tour": "ATP"
     },
     {
       "tournament": "Fort Worth challenger",
       "time": "18:10",
-      "player1": "Rottgering M.",
-      "player2": "Blanch D. (2)",
-      "odds1": 2.14,
-      "odds2": 1.65,
+      "player1": "Blanch D. (2)",
+      "player2": "Rottgering M.",
+      "odds1": 1.65,
+      "odds2": 2.14,
       "tour": "ATP"
     },
     {
       "tournament": "Cali challenger",
-      "time": "18:35",
-      "player1": "La Serna J.",
-      "player2": "Pucinelli De Almeida M.",
-      "odds1": 2.88,
-      "odds2": 1.38,
+      "time": "18:40",
+      "player1": "Pucinelli De Almeida M.",
+      "player2": "La Serna J.",
+      "odds1": 1.38,
+      "odds2": 2.88,
       "tour": "ATP"
     },
     {
@@ -296,30 +287,21 @@
       "player1": "Fils A. (1)",
       "player2": "Michelsen A. (5)",
       "odds1": 1.5,
-      "odds2": 2.55,
+      "odds2": 2.54,
       "tour": "ATP"
     },
     {
       "tournament": "Lyon",
-      "time": "19:00",
+      "time": "19:10",
       "player1": "Cobolli F. (1)",
       "player2": "Nakashima B. (5)",
-      "odds1": 2.72,
+      "odds1": 2.71,
       "odds2": 1.45,
       "tour": "ATP"
     },
     {
-      "tournament": "Cali challenger",
-      "time": "19:00",
-      "player1": "Aboian V.",
-      "player2": "Tobon M.",
-      "odds1": 2.44,
-      "odds2": 1.51,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Fort Worth challenger",
-      "time": "19:35",
+      "time": "19:45",
       "player1": "Debru G.",
       "player2": "Arutiunian E.",
       "odds1": 1.53,
@@ -327,48 +309,57 @@
       "tour": "ATP"
     },
     {
+      "tournament": "Cali challenger",
+      "time": "20:15",
+      "player1": "Aboian V.",
+      "player2": "Tobon M.",
+      "odds1": 2.4,
+      "odds2": 1.53,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Brussels",
-      "time": "20:20",
+      "time": "21:00",
       "player1": "Struff J.",
       "player2": "Bergs Z. (6)",
-      "odds1": 2.72,
+      "odds1": 2.71,
       "odds2": 1.44,
       "tour": "ATP"
     },
     {
+      "tournament": "Fort Worth challenger",
+      "time": "21:15",
+      "player1": "Jong S.",
+      "player2": "Mayo A.",
+      "odds1": 2.09,
+      "odds2": 1.67,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Lyon",
-      "time": "20:30",
+      "time": "21:45",
       "player1": "Van Assche L.",
       "player2": "Musetti L. (6)",
-      "odds1": 2.8,
-      "odds2": 1.43,
+      "odds1": 2.82,
+      "odds2": 1.42,
       "tour": "ATP"
     },
     {
       "tournament": "Cali challenger",
-      "time": "20:30",
+      "time": "22:50",
       "player1": "Heide G. (1)",
       "player2": "Rodriguez Taverna S.",
-      "odds1": 1.09,
-      "odds2": 6.63,
+      "odds1": 1.1,
+      "odds2": 6.41,
       "tour": "ATP"
     },
     {
       "tournament": "Fort Worth challenger",
-      "time": "21:05",
-      "player1": "Jong S.",
-      "player2": "Mayo A.",
-      "odds1": 2.09,
-      "odds2": 1.68,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Fort Worth challenger",
-      "time": "22:35",
+      "time": "23:40",
       "player1": "Brooksby J. (1)",
       "player2": "Maloney P.",
-      "odds1": 1.1,
-      "odds2": 6.15,
+      "odds1": 1.11,
+      "odds2": 6.11,
       "tour": "ATP"
     },
     {
