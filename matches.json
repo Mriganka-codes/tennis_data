@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T15:30:32.198578",
-  "count": 69,
+  "last_updated": "2026-10-24T20:21:44.126054",
+  "count": 76,
   "matches": [
     {
       "tournament": "Fort Worth challenger",
@@ -464,10 +464,10 @@
     {
       "tournament": "Tokyo",
       "time": "15:35",
-      "player1": "Liang E.",
-      "player2": "Valentova T.",
-      "odds1": 6.18,
-      "odds2": 1.1,
+      "player1": "Valentova T.",
+      "player2": "Liang E.",
+      "odds1": 1.1,
+      "odds2": 6.18,
       "tour": "WTA"
     },
     {
@@ -482,19 +482,19 @@
     {
       "tournament": "Basel",
       "time": "15:55",
-      "player1": "Bernet H.",
-      "player2": "Altmaier D. (7)",
-      "odds1": 2.12,
-      "odds2": 1.68,
+      "player1": "Altmaier D. (7)",
+      "player2": "Bernet H.",
+      "odds1": 1.68,
+      "odds2": 2.12,
       "tour": "ATP"
     },
     {
       "tournament": "Brussels",
       "time": "16:05",
-      "player1": "Cerundolo F. (3)",
-      "player2": "Griekspoor T.",
-      "odds1": 1.61,
-      "odds2": 2.29,
+      "player1": "Griekspoor T.",
+      "player2": "Cerundolo F. (3)",
+      "odds1": 2.29,
+      "odds2": 1.61,
       "tour": "ATP"
     },
     {
@@ -509,10 +509,10 @@
     {
       "tournament": "Lyon",
       "time": "16:10",
-      "player1": "Cobolli F. (1)",
-      "player2": "Musetti L. (6)",
-      "odds1": 1.72,
-      "odds2": 2.11,
+      "player1": "Musetti L. (6)",
+      "player2": "Cobolli F. (1)",
+      "odds1": 2.11,
+      "odds2": 1.72,
       "tour": "ATP"
     },
     {
@@ -526,65 +526,74 @@
     },
     {
       "tournament": "Vienna",
-      "time": "17:45",
-      "player1": "Moutet C.",
-      "player2": "Machac T. (6)",
-      "odds1": 2.22,
-      "odds2": 1.63,
+      "time": "17:35",
+      "player1": "Machac T. (6)",
+      "player2": "Moutet C.",
+      "odds1": 1.62,
+      "odds2": 2.23,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Basel",
+      "time": "17:50",
+      "player1": "Bertola R.",
+      "player2": "Paul J.",
+      "odds1": 1.36,
+      "odds2": 3.0,
       "tour": "ATP"
     },
     {
       "tournament": "Cali challenger",
-      "time": "18:00",
-      "player1": "Meligeni Rodrigues Alves F.",
-      "player2": "Aboian V.",
-      "odds1": 1.27,
-      "odds2": 3.61,
+      "time": "18:05",
+      "player1": "Aboian V.",
+      "player2": "Meligeni Rodrigues Alves F.",
+      "odds1": 3.61,
+      "odds2": 1.26,
       "tour": "ATP"
     },
     {
       "tournament": "Brussels",
-      "time": "18:30",
-      "player1": "Fils A. (1)",
-      "player2": "Struff J.",
-      "odds1": 1.2,
-      "odds2": 4.45,
+      "time": "18:40",
+      "player1": "Struff J.",
+      "player2": "Fils A. (1)",
+      "odds1": 4.51,
+      "odds2": 1.19,
       "tour": "ATP"
     },
     {
       "tournament": "Vienna",
-      "time": "18:30",
-      "player1": "Tirante T. (1)",
-      "player2": "Mannarino A.",
-      "odds1": 1.58,
-      "odds2": 2.3,
+      "time": "18:45",
+      "player1": "Mannarino A.",
+      "player2": "Tirante T. (1)",
+      "odds1": 2.34,
+      "odds2": 1.57,
       "tour": "ATP"
     },
     {
       "tournament": "Cali challenger",
-      "time": "19:30",
+      "time": "20:55",
       "player1": "Heide G. (1)",
       "player2": "Pucinelli De Almeida M.",
-      "odds1": 1.6,
+      "odds1": 1.61,
       "odds2": 2.23,
       "tour": "ATP"
     },
     {
       "tournament": "Fort Worth challenger",
-      "time": "22:00",
+      "time": "22:05",
       "player1": "Jong S.",
       "player2": "Blanch D. (2)",
-      "odds1": 3.35,
-      "odds2": 1.29,
+      "odds1": 3.5,
+      "odds2": 1.27,
       "tour": "ATP"
     },
     {
       "tournament": "Fort Worth challenger",
-      "time": "23:30",
+      "time": "23:35",
       "player1": "Brooksby J. (1)",
       "player2": "Debru G.",
       "odds1": 1.17,
-      "odds2": 4.54,
+      "odds2": 4.6,
       "tour": "ATP"
     },
     {
@@ -608,6 +617,15 @@
     {
       "tournament": "Billie Jean King Cup",
       "time": "",
+      "player1": "Al-Mudahka H.",
+      "player2": "Lhaden T.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "",
       "player1": "Yakhyaeva A.",
       "player2": "Alhogbani Y.",
       "odds1": null,
@@ -619,6 +637,51 @@
       "time": "",
       "player1": "Ben Hassine M.",
       "player2": "Tukhtaeva S.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "",
+      "player1": "Gassama K.",
+      "player2": "Yangden K.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "",
+      "player1": "Yazdani Y.",
+      "player2": "Suhail U.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "",
+      "player1": "Sayej N.",
+      "player2": "Saizan A.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "",
+      "player1": "Safi M.",
+      "player2": "Qureshi M.",
+      "odds1": null,
+      "odds2": null,
+      "tour": "WTA"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "",
+      "player1": "Abualhaj A.",
+      "player2": "Usama Ali K.",
       "odds1": null,
       "odds2": null,
       "tour": "WTA"
