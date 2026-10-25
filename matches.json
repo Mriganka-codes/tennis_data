@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T15:40:21.675209",
-  "count": 103,
+  "last_updated": "2026-10-25T20:28:47.804051",
+  "count": 101,
   "matches": [
     {
       "tournament": "Seoul challenger",
@@ -545,10 +545,10 @@
     {
       "tournament": "Basel",
       "time": "16:00",
-      "player1": "Brunold M.",
-      "player2": "Bertola R.",
-      "odds1": 1.62,
-      "odds2": 2.23,
+      "player1": "Bertola R.",
+      "player2": "Brunold M.",
+      "odds1": 2.23,
+      "odds2": 1.62,
       "tour": "ATP"
     },
     {
@@ -563,10 +563,10 @@
     {
       "tournament": "Sioux Falls challenger",
       "time": "16:00",
-      "player1": "Nanda G.",
-      "player2": "Zahraj P. (12)",
-      "odds1": 1.99,
-      "odds2": 1.73,
+      "player1": "Zahraj P. (12)",
+      "player2": "Nanda G.",
+      "odds1": 1.73,
+      "odds2": 1.99,
       "tour": "ATP"
     },
     {
@@ -581,24 +581,15 @@
     {
       "tournament": "Courmayeur WTA",
       "time": "16:15",
-      "player1": "Morderger Y.",
-      "player2": "Chiesa E. (7)",
-      "odds1": 5.44,
-      "odds2": 1.13,
+      "player1": "Chiesa E. (7)",
+      "player2": "Morderger Y.",
+      "odds1": 1.13,
+      "odds2": 5.44,
       "tour": "WTA"
     },
     {
-      "tournament": "Brussels",
-      "time": "16:30",
-      "player1": "Struff J.",
-      "player2": "Griekspoor T.",
-      "odds1": 2.08,
-      "odds2": 1.73,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Brest challenger",
-      "time": "16:30",
+      "time": "16:35",
       "player1": "Paris T.",
       "player2": "Faucon R. (11)",
       "odds1": 1.34,
@@ -606,39 +597,12 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Guayaquil challenger",
-      "time": "16:30",
-      "player1": "Claverie L.",
-      "player2": "Huertas Del Pino A. (10)",
-      "odds1": 1.56,
-      "odds2": 2.29,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "16:30",
-      "player1": "Galan D. (1)",
-      "player2": "Arias B.",
-      "odds1": 1.02,
-      "odds2": 15.06,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "16:30",
-      "player1": "Castro Loedel S.",
-      "player2": "Rodriguez L. (8)",
-      "odds1": 12.44,
-      "odds2": 1.02,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "16:30",
-      "player1": "Nijboer R. (3)",
-      "player2": "Kestelboim M.",
-      "odds1": 1.19,
-      "odds2": 4.14,
+      "tournament": "Brussels",
+      "time": "16:40",
+      "player1": "Griekspoor T.",
+      "player2": "Struff J.",
+      "odds1": 1.73,
+      "odds2": 2.08,
       "tour": "ATP"
     },
     {
@@ -656,7 +620,7 @@
       "player1": "Bonardi B. (2)",
       "player2": "Ibiraba Melleiro Junior C.",
       "odds1": 1.03,
-      "odds2": 12.72,
+      "odds2": 13.23,
       "tour": "WTA"
     },
     {
@@ -669,35 +633,35 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Sioux Falls challenger",
-      "time": "17:30",
-      "player1": "Miyoshi K. (5)",
-      "player2": "Young G.",
-      "odds1": 1.52,
-      "odds2": 2.39,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sioux Falls challenger",
-      "time": "17:30",
-      "player1": "Ostapenkov D.",
-      "player2": "Vandecasteele Q. (8)",
-      "odds1": 2.22,
-      "odds2": 1.6,
+      "tournament": "Guayaquil challenger",
+      "time": "17:10",
+      "player1": "Galan D. (1)",
+      "player2": "Arias B.",
+      "odds1": 1.02,
+      "odds2": 15.06,
       "tour": "ATP"
     },
     {
       "tournament": "Guayaquil challenger",
-      "time": "17:40",
-      "player1": "Misolic F. (5)",
-      "player2": "Baquero M.",
-      "odds1": 1.03,
-      "odds2": 13.8,
+      "time": "17:20",
+      "player1": "Nijboer R. (3)",
+      "player2": "Kestelboim M.",
+      "odds1": 1.19,
+      "odds2": 4.14,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Guayaquil challenger",
+      "time": "17:25",
+      "player1": "Rodriguez L. (8)",
+      "player2": "Castro Loedel S.",
+      "odds1": 1.02,
+      "odds2": 12.44,
       "tour": "ATP"
     },
     {
       "tournament": "Brest challenger",
-      "time": "17:50",
+      "time": "17:30",
       "player1": "Feldbausch K. (1)",
       "player2": "Bouquier A.",
       "odds1": 1.64,
@@ -705,35 +669,26 @@
       "tour": "ATP"
     },
     {
-      "tournament": "Brest challenger",
-      "time": "18:00",
-      "player1": "Bobichon M.",
-      "player2": "Kelm Y. (9)",
-      "odds1": 1.51,
-      "odds2": 2.43,
+      "tournament": "Sioux Falls challenger",
+      "time": "17:40",
+      "player1": "Young G.",
+      "player2": "Miyoshi K. (5)",
+      "odds1": 2.39,
+      "odds2": 1.52,
       "tour": "ATP"
     },
     {
       "tournament": "Guayaquil challenger",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Del Pino M.",
       "player2": "Leite W. (11)",
-      "odds1": 3.79,
-      "odds2": 1.24,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "18:00",
-      "player1": "Pereira J.",
-      "player2": "Hernandez Serrano J. (7)",
-      "odds1": 1.75,
-      "odds2": 1.98,
+      "odds1": 3.82,
+      "odds2": 1.23,
       "tour": "ATP"
     },
     {
       "tournament": "Queretaro",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Strakhova V. (2)",
       "player2": "Vilar G.",
       "odds1": 1.01,
@@ -742,74 +697,56 @@
     },
     {
       "tournament": "Queretaro",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Llewellyn S.",
       "player2": "Van Impe A. (7)",
-      "odds1": 5.07,
-      "odds2": 1.14,
+      "odds1": 5.41,
+      "odds2": 1.12,
       "tour": "WTA"
     },
     {
       "tournament": "Queretaro",
-      "time": "18:00",
+      "time": "18:10",
       "player1": "Hu V. (3)",
       "player2": "Sousa Salazar N.",
       "odds1": 1.01,
-      "odds2": 16.0,
+      "odds2": 18.41,
       "tour": "WTA"
     },
     {
-      "tournament": "Fort Worth challenger",
+      "tournament": "Brest challenger",
+      "time": "18:40",
+      "player1": "Bobichon M.",
+      "player2": "Kelm Y. (9)",
+      "odds1": 1.53,
+      "odds2": 2.4,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sioux Falls challenger",
+      "time": "18:40",
+      "player1": "Ostapenkov D.",
+      "player2": "Vandecasteele Q. (8)",
+      "odds1": 2.22,
+      "odds2": 1.6,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Guayaquil challenger",
       "time": "19:00",
+      "player1": "Misolic F. (5)",
+      "player2": "Baquero M.",
+      "odds1": 1.03,
+      "odds2": 13.8,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Fort Worth challenger",
+      "time": "19:05",
       "player1": "Brooksby J. (1)",
       "player2": "Blanch D. (2)",
       "odds1": 1.5,
-      "odds2": 2.49,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sioux Falls challenger",
-      "time": "19:00",
-      "player1": "Arutiunian E.",
-      "player2": "Sinclair C. (11)",
-      "odds1": 1.21,
-      "odds2": 4.05,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sioux Falls challenger",
-      "time": "19:00",
-      "player1": "Johnson S. (4)",
-      "player2": "Braswell J.",
-      "odds1": 1.34,
-      "odds2": 3.01,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "19:30",
-      "player1": "Lalami Laaroussi Y.",
-      "player2": "Salazar D. (12)",
-      "odds1": 2.58,
-      "odds2": 1.45,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "19:30",
-      "player1": "Ratti L. (2)",
-      "player2": "Rubini Garcia Belaunde A.",
-      "odds1": 1.02,
-      "odds2": 11.47,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Guayaquil challenger",
-      "time": "19:30",
-      "player1": "Munk Mesa B.",
-      "player2": "McCormick T. (9)",
-      "odds1": 1.69,
-      "odds2": 2.06,
+      "odds2": 2.48,
       "tour": "ATP"
     },
     {
@@ -817,8 +754,8 @@
       "time": "19:30",
       "player1": "Plekhanova D.",
       "player2": "Tran D. (5)",
-      "odds1": 1.31,
-      "odds2": 3.26,
+      "odds1": 1.32,
+      "odds2": 3.22,
       "tour": "WTA"
     },
     {
@@ -826,8 +763,8 @@
       "time": "19:30",
       "player1": "Rodriguez V. (4)",
       "player2": "Herazo Gonzalez M.",
-      "odds1": 1.29,
-      "odds2": 3.38,
+      "odds1": 1.3,
+      "odds2": 3.36,
       "tour": "WTA"
     },
     {
@@ -835,26 +772,62 @@
       "time": "19:30",
       "player1": "Osborne A.",
       "player2": "Hinojosa Gomez J. (8)",
-      "odds1": 2.42,
-      "odds2": 1.52,
+      "odds1": 2.48,
+      "odds2": 1.5,
       "tour": "WTA"
     },
     {
-      "tournament": "Sioux Falls challenger",
-      "time": "20:30",
-      "player1": "Legout T. (1)",
-      "player2": "De Jonge D.",
-      "odds1": 1.21,
-      "odds2": 4.0,
+      "tournament": "Guayaquil challenger",
+      "time": "19:40",
+      "player1": "Claverie L.",
+      "player2": "Huertas Del Pino A. (10)",
+      "odds1": 1.56,
+      "odds2": 2.27,
       "tour": "ATP"
     },
     {
       "tournament": "Sioux Falls challenger",
-      "time": "20:30",
-      "player1": "Woestendick C.",
-      "player2": "Fenty A. (7)",
-      "odds1": 2.5,
-      "odds2": 1.48,
+      "time": "19:40",
+      "player1": "Johnson S. (4)",
+      "player2": "Braswell J.",
+      "odds1": 1.32,
+      "odds2": 3.11,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Guayaquil challenger",
+      "time": "19:45",
+      "player1": "Ratti L. (2)",
+      "player2": "Rubini Garcia Belaunde A.",
+      "odds1": 1.02,
+      "odds2": 12.13,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Guayaquil challenger",
+      "time": "20:05",
+      "player1": "Hernandez Serrano J. (7)",
+      "player2": "Pereira J.",
+      "odds1": 1.96,
+      "odds2": 1.77,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sioux Falls challenger",
+      "time": "20:15",
+      "player1": "Arutiunian E.",
+      "player2": "Berkieta T.",
+      "odds1": 1.41,
+      "odds2": 2.69,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Sioux Falls challenger",
+      "time": "20:50",
+      "player1": "Legout T. (1)",
+      "player2": "De Jonge D.",
+      "odds1": 1.22,
+      "odds2": 3.92,
       "tour": "ATP"
     },
     {
@@ -862,8 +835,8 @@
       "time": "21:00",
       "player1": "Torres Murcia M.",
       "player2": "Navarro Oliva M. (6)",
-      "odds1": 1.97,
-      "odds2": 1.77,
+      "odds1": 2.03,
+      "odds2": 1.73,
       "tour": "WTA"
     },
     {
@@ -872,16 +845,25 @@
       "player1": "Herea C. (1)",
       "player2": "Cardenas Olivares A.",
       "odds1": 1.03,
-      "odds2": 10.05,
+      "odds2": 9.93,
       "tour": "WTA"
     },
     {
       "tournament": "Guayaquil challenger",
-      "time": "21:30",
-      "player1": "Tobon M. (4)",
-      "player2": "Zeballos F.",
-      "odds1": 1.07,
-      "odds2": 6.62,
+      "time": "21:05",
+      "player1": "Munk Mesa B.",
+      "player2": "McCormick T. (9)",
+      "odds1": 1.71,
+      "odds2": 2.02,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Guayaquil challenger",
+      "time": "21:10",
+      "player1": "Lalami Laaroussi Y.",
+      "player2": "Salazar D. (12)",
+      "odds1": 2.65,
+      "odds2": 1.42,
       "tour": "ATP"
     },
     {
@@ -889,44 +871,44 @@
       "time": "21:30",
       "player1": "Magadan A. (6)",
       "player2": "Galarraga M.",
-      "odds1": 1.04,
-      "odds2": 9.78,
+      "odds1": 1.03,
+      "odds2": 11.45,
       "tour": "ATP"
     },
     {
       "tournament": "Sioux Falls challenger",
-      "time": "22:00",
-      "player1": "Baris O. (2)",
-      "player2": "Heck H.",
-      "odds1": 1.35,
-      "odds2": 3.0,
+      "time": "21:45",
+      "player1": "Woestendick C.",
+      "player2": "Fenty A. (7)",
+      "odds1": 2.47,
+      "odds2": 1.49,
       "tour": "ATP"
     },
     {
       "tournament": "Sioux Falls challenger",
-      "time": "22:00",
+      "time": "22:30",
       "player1": "Trotter J.",
       "player2": "Svajda T. (10)",
-      "odds1": 2.17,
-      "odds2": 1.63,
+      "odds1": 2.21,
+      "odds2": 1.61,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Guayaquil challenger",
+      "time": "22:40",
+      "player1": "Tobon M. (4)",
+      "player2": "Zeballos F.",
+      "odds1": 1.1,
+      "odds2": 6.27,
       "tour": "ATP"
     },
     {
       "tournament": "Sioux Falls challenger",
-      "time": "23:30",
-      "player1": "Boulais J. (3)",
-      "player2": "Dominko S.",
-      "odds1": 2.07,
-      "odds2": 1.68,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Sioux Falls challenger",
-      "time": "23:30",
-      "player1": "Willwerth B.",
-      "player2": "Chan D. (9)",
-      "odds1": 2.51,
-      "odds2": 1.47,
+      "time": "23:15",
+      "player1": "Baris O. (2)",
+      "player2": "Heck H.",
+      "odds1": 1.32,
+      "odds2": 3.18,
       "tour": "ATP"
     }
   ]
