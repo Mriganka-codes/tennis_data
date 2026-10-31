@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T11:48:06.693648",
+  "last_updated": "2026-10-31T16:55:29.484252",
   "count": 56,
   "matches": [
     {
@@ -212,10 +212,10 @@
     {
       "tournament": "Paris",
       "time": "11:10",
-      "player1": "Carreno-Busta P.",
-      "player2": "Bellucci M. (13)",
-      "odds1": 2.41,
-      "odds2": 1.54,
+      "player1": "Bellucci M. (13)",
+      "player2": "Carreno-Busta P.",
+      "odds1": 1.54,
+      "odds2": 2.41,
       "tour": "ATP"
     },
     {
@@ -239,46 +239,46 @@
     {
       "tournament": "Paris",
       "time": "12:10",
-      "player1": "Gaston H.",
-      "player2": "Kopriva V. (11)",
-      "odds1": 1.43,
-      "odds2": 2.74,
+      "player1": "Kopriva V. (11)",
+      "player2": "Gaston H.",
+      "odds1": 2.74,
+      "odds2": 1.43,
       "tour": "ATP"
     },
     {
       "tournament": "Chennai WTA",
       "time": "12:10",
-      "player1": "Matsuda R.",
-      "player2": "Kobori M. (8)",
-      "odds1": 1.68,
-      "odds2": 2.12,
+      "player1": "Kobori M. (8)",
+      "player2": "Matsuda R.",
+      "odds1": 2.12,
+      "odds2": 1.68,
       "tour": "WTA"
     },
     {
       "tournament": "Guangzhou",
       "time": "12:25",
-      "player1": "Quevedo K.",
-      "player2": "Tagger L. (4)",
-      "odds1": 2.77,
-      "odds2": 1.44,
+      "player1": "Tagger L. (4)",
+      "player2": "Quevedo K.",
+      "odds1": 1.44,
+      "odds2": 2.77,
       "tour": "WTA"
     },
     {
       "tournament": "Paris",
       "time": "12:30",
-      "player1": "Duckworth J.",
-      "player2": "Kecmanovic M. (8)",
-      "odds1": 2.14,
-      "odds2": 1.67,
+      "player1": "Kecmanovic M. (8)",
+      "player2": "Duckworth J.",
+      "odds1": 1.67,
+      "odds2": 2.14,
       "tour": "ATP"
     },
     {
       "tournament": "Chennai WTA",
       "time": "12:30",
-      "player1": "Dipakbhai Kanabar J.",
-      "player2": "Falkowska W. (5)",
-      "odds1": 7.15,
-      "odds2": 1.08,
+      "player1": "Falkowska W. (5)",
+      "player2": "Dipakbhai Kanabar J.",
+      "odds1": 1.08,
+      "odds2": 7.15,
       "tour": "WTA"
     },
     {
@@ -287,187 +287,187 @@
       "player1": "Machac T.",
       "player2": "Landaluce M. (14)",
       "odds1": 1.48,
-      "odds2": 2.54,
+      "odds2": 2.55,
       "tour": "ATP"
     },
     {
       "tournament": "Paris",
-      "time": "13:00",
+      "time": "13:15",
       "player1": "Cerundolo J. (5)",
       "player2": "Kovacevic A.",
-      "odds1": 2.1,
-      "odds2": 1.69,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Paris",
-      "time": "13:30",
-      "player1": "Griekspoor T. (2)",
-      "player2": "Bonzi B.",
-      "odds1": 1.55,
-      "odds2": 2.37,
+      "odds1": 2.09,
+      "odds2": 1.7,
       "tour": "ATP"
     },
     {
       "tournament": "Chennai WTA",
-      "time": "13:30",
+      "time": "13:15",
       "player1": "Yamaguchi M. (3)",
       "player2": "Desai Z.",
-      "odds1": 1.06,
-      "odds2": 7.86,
+      "odds1": 1.07,
+      "odds2": 7.72,
       "tour": "WTA"
-    },
-    {
-      "tournament": "Paris",
-      "time": "14:00",
-      "player1": "Baez S. (1)",
-      "player2": "Dzumhur D.",
-      "odds1": 2.58,
-      "odds2": 1.47,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Paris",
-      "time": "14:00",
-      "player1": "Sonego L.",
-      "player2": "Munar J. (12)",
-      "odds1": 2.36,
-      "odds2": 1.55,
-      "tour": "ATP"
     },
     {
       "tournament": "Chennai WTA",
-      "time": "14:00",
+      "time": "13:45",
       "player1": "Kulambayeva Z.",
       "player2": "Kotliar Y. (7)",
-      "odds1": 2.24,
-      "odds2": 1.6,
+      "odds1": 2.27,
+      "odds2": 1.59,
       "tour": "WTA"
     },
     {
       "tournament": "Paris",
-      "time": "14:30",
-      "player1": "Balshaw F.",
-      "player2": "Hanfmann Y. (9)",
-      "odds1": 2.25,
-      "odds2": 1.6,
+      "time": "14:20",
+      "player1": "Bonzi B.",
+      "player2": "Griekspoor T. (2)",
+      "odds1": 2.42,
+      "odds2": 1.53,
       "tour": "ATP"
     },
     {
       "tournament": "Courmayeur WTA",
-      "time": "14:30",
-      "player1": "Blinkova A. (1)",
-      "player2": "Noha Akugue N. (6)",
-      "odds1": 1.41,
-      "odds2": 2.79,
+      "time": "14:40",
+      "player1": "Noha Akugue N. (6)",
+      "player2": "Blinkova A. (1)",
+      "odds1": 2.79,
+      "odds2": 1.41,
       "tour": "WTA"
     },
     {
-      "tournament": "Vienna",
+      "tournament": "Paris",
+      "time": "14:45",
+      "player1": "Hanfmann Y. (9)",
+      "player2": "Balshaw F.",
+      "odds1": 1.6,
+      "odds2": 2.26,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Paris",
+      "time": "14:50",
+      "player1": "Baez S. (1)",
+      "player2": "Dzumhur D.",
+      "odds1": 2.51,
+      "odds2": 1.5,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Paris",
       "time": "15:00",
-      "player1": "Medvedev D. (3)",
-      "player2": "Alcaraz C. (2)",
-      "odds1": 2.85,
-      "odds2": 1.42,
+      "player1": "Sonego L.",
+      "player2": "Munar J. (12)",
+      "odds1": 2.27,
+      "odds2": 1.6,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vienna",
+      "time": "15:10",
+      "player1": "Alcaraz C. (2)",
+      "player2": "Medvedev D. (3)",
+      "odds1": 1.41,
+      "odds2": 2.89,
       "tour": "ATP"
     },
     {
       "tournament": "Basel",
-      "time": "15:00",
+      "time": "15:10",
       "player1": "Vacherot V.",
       "player2": "Fritz T. (6)",
-      "odds1": 3.45,
+      "odds1": 3.42,
       "odds2": 1.31,
       "tour": "ATP"
     },
     {
-      "tournament": "Brest challenger",
-      "time": "15:00",
-      "player1": "Damm M. (5)",
-      "player2": "Prizmic D. (2)",
-      "odds1": 2.0,
-      "odds2": 1.74,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Curitiba",
-      "time": "15:00",
-      "player1": "Riera J. (7)",
-      "player2": "Grabher J. (2)",
-      "odds1": 1.97,
-      "odds2": 1.78,
+      "time": "15:10",
+      "player1": "Grabher J. (2)",
+      "player2": "Riera J. (7)",
+      "odds1": 1.76,
+      "odds2": 2.0,
       "tour": "WTA"
     },
     {
-      "tournament": "Paris",
-      "time": "15:30",
-      "player1": "Molcan A.",
-      "player2": "Altmaier D. (10)",
-      "odds1": 1.76,
-      "odds2": 1.99,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Paris",
-      "time": "15:30",
-      "player1": "Vallejo A. (6)",
-      "player2": "Dimitrov G.",
-      "odds1": 1.93,
-      "odds2": 1.81,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Paris",
-      "time": "16:00",
-      "player1": "Borges N. (4)",
-      "player2": "Mannarino A.",
-      "odds1": 1.55,
-      "odds2": 2.35,
+      "tournament": "Brest challenger",
+      "time": "15:40",
+      "player1": "Damm M. (5)",
+      "player2": "Prizmic D. (2)",
+      "odds1": 1.98,
+      "odds2": 1.76,
       "tour": "ATP"
     },
     {
       "tournament": "Courmayeur WTA",
-      "time": "16:00",
+      "time": "16:20",
       "player1": "Jacquemot E.",
       "player2": "Charaeva A. (2)",
-      "odds1": 2.26,
+      "odds1": 2.28,
       "odds2": 1.6,
       "tour": "WTA"
     },
     {
-      "tournament": "Vienna",
+      "tournament": "Paris",
       "time": "16:30",
-      "player1": "Zverev A. (1)",
-      "player2": "De Minaur A. (5)",
-      "odds1": 1.37,
-      "odds2": 3.04,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Brest challenger",
-      "time": "16:30",
-      "player1": "Kouame M.",
-      "player2": "Virtanen O. (6)",
-      "odds1": 2.25,
-      "odds2": 1.6,
+      "player1": "Borges N. (4)",
+      "player2": "Mannarino A.",
+      "odds1": 1.59,
+      "odds2": 2.26,
       "tour": "ATP"
     },
     {
       "tournament": "Curitiba",
-      "time": "16:30",
-      "player1": "Leme Da Silva N.",
-      "player2": "Tubello A.",
-      "odds1": 2.81,
-      "odds2": 1.4,
+      "time": "16:50",
+      "player1": "Tubello A.",
+      "player2": "Leme Da Silva N.",
+      "odds1": 1.41,
+      "odds2": 2.77,
       "tour": "WTA"
     },
     {
       "tournament": "Basel",
-      "time": "17:00",
+      "time": "17:05",
       "player1": "Lehecka J. (8)",
       "player2": "Struff J.",
-      "odds1": 1.46,
-      "odds2": 2.71,
+      "odds1": 1.47,
+      "odds2": 2.68,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Vienna",
+      "time": "17:10",
+      "player1": "Zverev A. (1)",
+      "player2": "De Minaur A. (5)",
+      "odds1": 1.37,
+      "odds2": 3.06,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Paris",
+      "time": "17:10",
+      "player1": "Molcan A.",
+      "player2": "Altmaier D. (10)",
+      "odds1": 1.75,
+      "odds2": 2.01,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Paris",
+      "time": "18:00",
+      "player1": "Vallejo A. (6)",
+      "player2": "Dimitrov G.",
+      "odds1": 1.95,
+      "odds2": 1.79,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Brest challenger",
+      "time": "18:05",
+      "player1": "Kouame M.",
+      "player2": "Virtanen O. (6)",
+      "odds1": 2.26,
+      "odds2": 1.59,
       "tour": "ATP"
     },
     {
@@ -475,8 +475,8 @@
       "time": "19:30",
       "player1": "Dietrich D.",
       "player2": "Mayo A.",
-      "odds1": 1.36,
-      "odds2": 2.95,
+      "odds1": 1.35,
+      "odds2": 3.03,
       "tour": "ATP"
     },
     {
@@ -484,8 +484,8 @@
       "time": "20:00",
       "player1": "Aboian V.",
       "player2": "Dellien H. (2)",
-      "odds1": 4.33,
-      "odds2": 1.19,
+      "odds1": 4.23,
+      "odds2": 1.21,
       "tour": "ATP"
     },
     {
@@ -494,7 +494,7 @@
       "player1": "Draxl L. (5)",
       "player2": "Dominko S.",
       "odds1": 1.59,
-      "odds2": 2.26,
+      "odds2": 2.25,
       "tour": "ATP"
     },
     {
