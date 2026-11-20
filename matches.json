@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T06:02:43.417427",
-  "count": 39,
+  "last_updated": "2026-11-20T19:40:38.602890",
+  "count": 38,
   "matches": [
     {
       "tournament": "Drummondville challenger",
@@ -94,236 +94,218 @@
     },
     {
       "tournament": "Helsinki challenger",
-      "time": "12:30",
-      "player1": "Gulin S.",
-      "player2": "Samuel T. (3)",
-      "odds1": 4.77,
-      "odds2": 1.16,
+      "time": "12:40",
+      "player1": "Djere L.",
+      "player2": "Budkov Kjaer N.",
+      "odds1": 2.13,
+      "odds2": 1.66,
       "tour": "ATP"
     },
     {
       "tournament": "Helsinki challenger",
-      "time": "12:30",
-      "player1": "Budkov Kjaer N.",
-      "player2": "Djere L.",
-      "odds1": 1.7,
-      "odds2": 2.07,
+      "time": "12:40",
+      "player1": "Samuel T. (3)",
+      "player2": "Gulin S.",
+      "odds1": 1.15,
+      "odds2": 4.97,
       "tour": "ATP"
     },
     {
       "tournament": "Billie Jean King Cup",
-      "time": "13:00",
+      "time": "13:20",
       "player1": "Jakupovic D.",
       "player2": "Goenadi M.",
       "odds1": 1.04,
-      "odds2": 9.3,
+      "odds2": 9.2,
       "tour": "WTA"
     },
     {
       "tournament": "Metz challenger",
-      "time": "13:30",
+      "time": "13:40",
       "player1": "Kwon S.",
       "player2": "Prizmic D. (4)",
-      "odds1": 2.52,
-      "odds2": 1.48,
+      "odds1": 2.45,
+      "odds2": 1.51,
       "tour": "ATP"
     },
     {
       "tournament": "Masters Cup ATP",
-      "time": "14:00",
+      "time": "14:15",
       "player1": "Alcaraz C.",
       "player2": "Cobolli F.",
-      "odds1": 1.21,
-      "odds2": 4.47,
+      "odds1": 1.17,
+      "odds2": 5.06,
       "tour": "ATP"
     },
     {
       "tournament": "Helsinki challenger",
-      "time": "14:00",
-      "player1": "Butvilas E.",
-      "player2": "Basavareddy N. (6)",
-      "odds1": 3.46,
-      "odds2": 1.28,
+      "time": "14:30",
+      "player1": "Basavareddy N. (6)",
+      "player2": "Butvilas E.",
+      "odds1": 1.25,
+      "odds2": 3.74,
       "tour": "ATP"
     },
     {
       "tournament": "Billie Jean King Cup",
-      "time": "14:30",
+      "time": "14:55",
       "player1": "Zidansek T.",
       "player2": "Naswardhani L.",
-      "odds1": null,
-      "odds2": null,
+      "odds1": 1.01,
+      "odds2": 15.2,
       "tour": "WTA"
     },
     {
       "tournament": "Metz challenger",
-      "time": "15:00",
+      "time": "15:55",
       "player1": "Gueymard Wayenburg S.",
       "player2": "Nardi L.",
-      "odds1": 2.19,
-      "odds2": 1.61,
+      "odds1": 2.15,
+      "odds2": 1.64,
       "tour": "ATP"
     },
     {
       "tournament": "Colina WTA",
-      "time": "16:00",
+      "time": "16:10",
       "player1": "Romero Gormaz L. (1)",
       "player2": "Burillo Escorihuela I.",
-      "odds1": 1.34,
-      "odds2": 3.08,
+      "odds1": 1.32,
+      "odds2": 3.24,
       "tour": "WTA"
     },
     {
       "tournament": "Helsinki challenger",
-      "time": "16:30",
-      "player1": "Svrcina D. (4)",
-      "player2": "Virtanen O. (7)",
-      "odds1": 2.67,
-      "odds2": 1.42,
+      "time": "16:40",
+      "player1": "Virtanen O. (7)",
+      "player2": "Svrcina D. (4)",
+      "odds1": 1.41,
+      "odds2": 2.75,
       "tour": "ATP"
     },
     {
       "tournament": "Champaign challenger",
-      "time": "17:00",
+      "time": "17:15",
       "player1": "Tarvet O. (3)",
       "player2": "Johnson S.",
       "odds1": 1.27,
-      "odds2": 3.54,
+      "odds2": 3.53,
       "tour": "ATP"
     },
     {
       "tournament": "Billie Jean King Cup",
-      "time": "17:00",
-      "player1": "Feistel G.",
-      "player2": "Rinaldo Persson K.",
-      "odds1": 1.85,
-      "odds2": 1.86,
+      "time": "17:20",
+      "player1": "Rinaldo Persson K.",
+      "player2": "Feistel G.",
+      "odds1": 1.64,
+      "odds2": 2.18,
       "tour": "WTA"
     },
     {
       "tournament": "Montevideo challenger",
-      "time": "17:30",
-      "player1": "Meligeni Rodrigues Alv",
-      "player2": "Pucinelli De Almeida M",
-      "odds1": 2.35,
-      "odds2": 1.54,
+      "time": "17:40",
+      "player1": "Moller E. (7)",
+      "player2": "Boyer T.",
+      "odds1": 1.68,
+      "odds2": 2.1,
       "tour": "ATP"
+    },
+    {
+      "tournament": "Metz challenger",
+      "time": "18:10",
+      "player1": "Mayot H.",
+      "player2": "Montes-De La Torre I.",
+      "odds1": 1.7,
+      "odds2": 2.06,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Billie Jean King Cup",
+      "time": "18:20",
+      "player1": "Andreescu B.",
+      "player2": "Leme Da Silva N.",
+      "odds1": 1.04,
+      "odds2": 9.47,
+      "tour": "WTA"
     },
     {
       "tournament": "Colina WTA",
-      "time": "17:30",
+      "time": "18:25",
       "player1": "Bronzetti L. (3)",
       "player2": "Strakhova V.",
-      "odds1": 1.2,
-      "odds2": 4.15,
-      "tour": "WTA"
-    },
-    {
-      "tournament": "Metz challenger",
-      "time": "18:00",
-      "player1": "Montes-De La Torre I.",
-      "player2": "Mayot H.",
-      "odds1": 2.05,
-      "odds2": 1.71,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Billie Jean King Cup",
-      "time": "18:00",
-      "player1": "Leme Da Silva N.",
-      "player2": "Andreescu B.",
-      "odds1": 9.78,
-      "odds2": 1.03,
+      "odds1": 1.22,
+      "odds2": 4.02,
       "tour": "WTA"
     },
     {
       "tournament": "Champaign challenger",
-      "time": "18:30",
+      "time": "18:45",
       "player1": "Wendelken H. (1)",
       "player2": "Lee J.",
-      "odds1": 1.59,
-      "odds2": 2.24,
+      "odds1": 1.72,
+      "odds2": 2.03,
       "tour": "ATP"
-    },
-    {
-      "tournament": "Billie Jean King Cup",
-      "time": "18:30",
-      "player1": "Kubka M.",
-      "player2": "Hennemann C.",
-      "odds1": 1.46,
-      "odds2": 2.57,
-      "tour": "WTA"
     },
     {
       "tournament": "Montevideo challenger",
-      "time": "19:00",
+      "time": "19:35",
       "player1": "Roca Batalla O.",
       "player2": "Seyboth Wild T. (2)",
-      "odds1": 4.19,
-      "odds2": 1.2,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Metz challenger",
-      "time": "19:30",
-      "player1": "Passaro F.",
-      "player2": "Herbert P.",
-      "odds1": 2.33,
-      "odds2": 1.55,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Drummondville challenger",
-      "time": "19:30",
-      "player1": "Kozlov S. (8)",
-      "player2": "Chidekh C. (2)",
-      "odds1": 3.17,
-      "odds2": 1.32,
+      "odds1": 4.44,
+      "odds2": 1.19,
       "tour": "ATP"
     },
     {
       "tournament": "Billie Jean King Cup",
-      "time": "19:30",
-      "player1": "Pigossi L.",
-      "player2": "Cross K.",
-      "odds1": 2.22,
-      "odds2": 1.61,
+      "time": "19:40",
+      "player1": "Kubka M.",
+      "player2": "Hennemann C.",
+      "odds1": 1.28,
+      "odds2": 3.5,
       "tour": "WTA"
     },
     {
+      "tournament": "Drummondville challenger",
+      "time": "19:45",
+      "player1": "Kozlov S. (8)",
+      "player2": "Chidekh C. (2)",
+      "odds1": 3.11,
+      "odds2": 1.34,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Metz challenger",
+      "time": "19:50",
+      "player1": "Passaro F.",
+      "player2": "Herbert P.",
+      "odds1": 2.29,
+      "odds2": 1.57,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Masters Cup ATP",
+      "time": "20:40",
+      "player1": "Medvedev D.",
+      "player2": "Tiafoe F.",
+      "odds1": 1.34,
+      "odds2": 3.25,
+      "tour": "ATP"
+    },
+    {
       "tournament": "Champaign challenger",
-      "time": "20:00",
+      "time": "20:45",
       "player1": "Young G.",
       "player2": "Artnak B.",
-      "odds1": 1.98,
+      "odds1": 2.0,
       "odds2": 1.74,
       "tour": "ATP"
     },
     {
-      "tournament": "Masters Cup ATP",
-      "time": "20:30",
-      "player1": "Medvedev D.",
-      "player2": "Tiafoe F.",
-      "odds1": 1.42,
-      "odds2": 2.88,
-      "tour": "ATP"
-    },
-    {
       "tournament": "Montevideo challenger",
-      "time": "20:30",
-      "player1": "Moller E. (7)",
-      "player2": "Boyer T.",
-      "odds1": 1.7,
-      "odds2": 2.07,
-      "tour": "ATP"
-    },
-    {
-      "tournament": "Champaign challenger",
-      "time": "21:30",
-      "player1": "Maxted L.",
-      "player2": "Mitsui S.",
-      "odds1": 1.63,
-      "odds2": 2.15,
+      "time": "21:00",
+      "player1": "Meligeni Rodrigues Alv",
+      "player2": "Pucinelli De Almeida M",
+      "odds1": 2.3,
+      "odds2": 1.56,
       "tour": "ATP"
     },
     {
@@ -331,8 +313,8 @@
       "time": "21:30",
       "player1": "Maristany Zuleta De Re (5)",
       "player2": "Lazaro Garcia A. (4)",
-      "odds1": 1.61,
-      "odds2": 2.21,
+      "odds1": 1.48,
+      "odds2": 2.54,
       "tour": "WTA"
     },
     {
@@ -341,7 +323,16 @@
       "player1": "Dietrich D. (6)",
       "player2": "Chan D.",
       "odds1": 1.19,
-      "odds2": 4.27,
+      "odds2": 4.37,
+      "tour": "ATP"
+    },
+    {
+      "tournament": "Champaign challenger",
+      "time": "22:00",
+      "player1": "Maxted L.",
+      "player2": "Mitsui S.",
+      "odds1": 1.65,
+      "odds2": 2.15,
       "tour": "ATP"
     },
     {
@@ -349,8 +340,8 @@
       "time": "23:00",
       "player1": "Masarova R. (6)",
       "player2": "Samson L. (2)",
-      "odds1": 1.84,
-      "odds2": 1.89,
+      "odds1": 1.82,
+      "odds2": 1.91,
       "tour": "WTA"
     }
   ]
